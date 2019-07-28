@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564260197012.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "72F22A75",
+    "lastKnownWriteTime" : 1564260902,
+    "last_content_update" : 1564260902642,
+    "path" : "C:/Users/Sam/WorkGits/website-HEAL/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "9,26",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

@@ -1,0 +1,50 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "HEAL @ KGS (Sam Zipper et al)"
+theme = "hugo-hero-theme"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  google_analytics_id=""
+  author = "Sam Zipper"
+  dateFormat = "2006/12/31"
+
+  [params.homepage_meta_tags]
+    meta_description = "HydroEcology of Agricultural Landscapes"
+    meta_og_title = "HEAL @ KGS (Sam Zipper et al)"
+    meta_og_type = "website"
+    meta_og_url = "https://hugo-hero.netlify.com"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "HydroEcology of Agricultural Landscapes"
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@ZipperSam"
+    meta_twitter_creator = "@ZipperSam"
+
+[[menu.main]]
+	name = "People"
+	url = "/people/"
+    weight = 1
+
+[[menu.main]]
+    name = "Publications"
+    url = "/pubs/"
+    weight = 2
+
+[[menu.main]]
+    name = "Open Science"
+    url = "/open/"
+    weight = 3
+
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
