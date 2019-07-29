@@ -2,8 +2,8 @@
 title: 'Our Difference'
 weight: 2
 background: ''
-button: 'About Us'
-buttonLink: 'about'
+button: 'Who We Are'
+buttonLink: 'people'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+HEAL is made up of students a mixture of, centered around water.

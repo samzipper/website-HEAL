@@ -8,3 +8,10 @@ Useful tips, especially for connecting website build repository and public repos
  * Preview site: `blogdown::serve_site()`
  * Turn off preview: `servr::daemon_stop(1)`
  * Compile site: `blogdown::build_site()`
+
+## Colors (https://brand.ku.edu/guidelines/color)
+KU colors:
+  * KU Blue #0051ba
+  * Crimson #e8000d
+  * Jayhawk yellow #ffc82d
+  * Signature grey #85898a
