@@ -1,6 +1,6 @@
 ---
 authors:
-- zipper
+- sam-zipper
 bio: I specialize in ecohydrology and hydrogeology of agricultural systems.
 education:
   courses:
@@ -36,6 +36,6 @@ social:
   link: doc/Zipper_CV.pdf
 superuser: true
 user_groups:
-- PIs
+- PI
 ---
 **Favorite body of water:** Lake Wenatchee

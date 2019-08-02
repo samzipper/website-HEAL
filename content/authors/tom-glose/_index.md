@@ -1,6 +1,6 @@
 ---
 authors:
-- glose
+- tom-glose
 bio: Postdoc in HEAL.
 education:
   courses:

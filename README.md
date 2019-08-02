@@ -18,3 +18,6 @@ KU colors:
   * Crimson #e8000d
   * Jayhawk yellow #ffc82d
   * Signature grey #85898a
+
+## Logo brainstorming
+Corn plant and house inside water drop?
