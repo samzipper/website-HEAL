@@ -4,7 +4,7 @@ authors:
 bio: 
 education:
   courses:
-  - course: B.A. in Geology and Environmental Earth Sciences 
+  - course: B.A. in Geology and Environmental Earth Sciences (in progress)
     institution: Pitzer College
     year: 2019
 email: ""

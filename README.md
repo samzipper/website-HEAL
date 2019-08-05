@@ -7,6 +7,8 @@ Useful tips, especially for connecting website build repository and public repos
 ## Theme reference: 
 https://sourcethemes.com/academic/
 
+Icons: https://fontawesome.com/icons?d=gallery
+
 ## Quick tips
  * Preview site: `blogdown::serve_site()`
  * Turn off preview: `servr::daemon_stop(1)`

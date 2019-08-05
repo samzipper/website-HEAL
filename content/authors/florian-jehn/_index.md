@@ -4,7 +4,7 @@ authors:
 bio: 
 education:
   courses:
-  - course: B.S. in Environmental Science/Hydrology
+  - course: B.S. in Environmental Science/Hydrology (in progress)
     institution: University of Freiburg
     year: 2019
 email: ""
