@@ -6,10 +6,8 @@ education:
   courses:
   - course: PhD in Freshwater and Marine Sciences
     institution: University of Wisconsin-Madison
-    year: 2015
   - course: B.A. in Geology
     institution: Pomona College
-    year: 2009
 email: "samzipper@ku.edu"
 interests:
  []

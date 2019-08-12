@@ -6,10 +6,8 @@ education:
   courses:
   - course: PhD in Geology
     institution: University of Buffalo
-    year: 2019
   - course: B.A. in Geophysics
     institution: SUNY Geneseo
-    year: 2014
 email: "thomasgl@buffalo.edu"
 interests:
  []

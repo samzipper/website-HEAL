@@ -8,7 +8,7 @@ abstract: "Sustaining ecosystem services (ES), mitigating their tradeoffs and av
 featured: false
 publication: "*Environmental Research Letters*"
 tags: ["male author"]
-url_pdf: "http://stacks.iop.org/1748-9326/13/i=5/a=054020"
+url_pdf: "https://iopscience.iop.org/article/10.1088/1748-9326/aabb87/pdf"
 doi: "10.1088/1748-9326/aabb87"
 ---
 

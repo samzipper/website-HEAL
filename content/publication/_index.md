@@ -4,4 +4,5 @@ header:
   image: ""
 title: Publications
 view: 4
+list_format: 1
 ---

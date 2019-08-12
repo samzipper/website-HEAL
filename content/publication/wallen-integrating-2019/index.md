@@ -7,8 +7,8 @@ publication_types: ["2"]
 abstract: "Complex socio-environmental challenges require interdisciplinary, team-based research capacity. Graduate students are fundamental to building such capacity, yet formal opportunities for graduate students to develop these capacities and skills are uncommon. This paper presents an assessment of the Graduate Pursuit (GP) program, a formal interdisciplinary team science graduate research and training program administered by the National Socio-Environmental Synthesis Center (SESYNC). Quantitative and qualitative assessment of the program’s first cohort revealed that participants became significantly more comfortable with interdisciplinary research and team science approaches, increased their capacity to work across disciplines, and were enabled to produce tangible research outcomes. Qualitative analysis of four themes—(1) discipline, specialization, and shared purpose, (2) interpersonal skills and personality, (3) communication and teamwork, and (4) perceived costs and benefits—encompass participants’ positive and negative experiences and support findings from past assessments. The findings also identify challenges and benefits related to individual personality traits and team personality orientation, the importance of perceiving a sense of autonomy and independence, and the benefit of graduate training programs independent of the university and graduate program environment."
 featured: false
 publication: "*Journal of Environmental Studies and Sciences*"
-tags: ["male author", "Collaboration", "Content analysis", "Graduate education", "Personality traits", "Program evaluation", "Qualitative research"]
-url_pdf: "https://doi.org/10.1007/s13412-019-00543-2"
+tags: ["Collaboration", "Content analysis", "Graduate education", "Personality traits", "Program evaluation", "Qualitative research"]
+url_pdf: "PDFs/WallenEtAl-2019-SESYNCpursuit.pdf"
 doi: "10.1007/s13412-019-00543-2"
 ---
 

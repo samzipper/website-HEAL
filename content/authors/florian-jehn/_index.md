@@ -4,9 +4,8 @@ authors:
 bio: 
 education:
   courses:
-  - course: B.S. in Environmental Science/Hydrology (in progress)
+  - course: B.Sc. in Environmental Science/Hydrology (in progress)
     institution: University of Freiburg
-    year: 2019
 email: ""
 interests:
  []
@@ -14,7 +13,7 @@ name: Florian Jehn
 organizations:
 - name: University of Freiburg
   url: "https://www.ucf.uni-freiburg.de/liberal-arts-and-sciences/curriculum/major-earth-and-environmental-sciences"
-role: 
+role: B.Sc. student
 social:
 superuser: false
 user_groups:

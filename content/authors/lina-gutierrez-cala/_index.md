@@ -17,7 +17,7 @@ name: Lina Gutierrez-Cala
 organizations:
 - name: Stockholm Resilience Centre, University of Stockholm
   url: "https://www.stockholmresilience.org/"
-role: 
+role: M.Sc. student
 social:
 - icon: link
   icon_pack: fas

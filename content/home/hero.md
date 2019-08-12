@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "HEAL-logo.png"
+hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -25,10 +25,14 @@ hero_media = "HEAL-logo.png"
   
   # Background image.
   image = "WIBUdroughtField.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = "true"
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["100px", "0", "200px", "0"]
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -48,6 +52,6 @@ hero_media = "HEAL-logo.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The HydroEcology of Agricultural Landscapes (HEAL) research group at the Kansas Geological Survey, led by Sam Zipper, studies:**
+**How do water and land management decisions impact the people, economy, and environment of the Great Plains?**
 
-How do water and land management decisions impact the people, economy, and environment of the Great Plains?
+hydrogeology | ecohydrology | socio-environmental synthesis

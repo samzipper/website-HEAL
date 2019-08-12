@@ -17,8 +17,8 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="HEAL-logo.svg"
    inkscape:export-filename="C:\Users\Sam\WorkGits\website-HEAL\static\img\HEAL-logo.png"
-   inkscape:export-xdpi="299.987"
-   inkscape:export-ydpi="299.987">
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7198092"
-     inkscape:cx="297.70742"
+     inkscape:cx="15.68824"
      inkscape:cy="-300.28422"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

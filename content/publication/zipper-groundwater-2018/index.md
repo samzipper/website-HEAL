@@ -8,7 +8,7 @@ abstract: "Quantifying reductions in streamflow due to groundwater pumping (‘s
 featured: false
 publication: "*Water Resources Research*"
 tags: ["environmental flows", "groundwater pumping", "groundwater models", "streamflow depletion", "depletion apportionment", "groundwater-surface water interactions", "male author"]
-url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018WR022707"
+url_pdf: "PDFs/ZipperEtAl-2018-NanaimoApportionmentMethods.pdf"
 doi: "10.1029/2018WR022707"
 ---
 

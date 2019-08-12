@@ -8,7 +8,7 @@ abstract: "As Andean glaciers rapidly retreat due to climate change, the balance
 featured: false
 publication: "*Hydrological Processes*"
 tags: ["baseflow", "groundwater recharge", "Andes", "hillslope trenching", "enhanced recharge", "infiltration trenches", "woman author"]
-url_pdf: "http://onlinelibrary.wiley.com/doi/10.1002/hyp.11423/abstract"
+url_pdf: "PDFs/SomersEtAl-2018-TrenchesRechargeBaseflow.pdf"
 doi: "10.1002/hyp.11423"
 ---
 

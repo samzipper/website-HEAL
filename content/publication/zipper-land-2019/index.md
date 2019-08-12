@@ -8,7 +8,7 @@ abstract: "Heat and drought are projected to increase globally but may be mitiga
 featured: false
 publication: "*Environmental Research Letters*"
 tags: ["male author"]
-url_pdf: "https://doi.org/10.1088%2F1748-9326%2Fab0db3"
+url_pdf: "https://iopscience.iop.org/article/10.1088/1748-9326/ab0db3/pdf"
 doi: "10.1088/1748-9326/ab0db3"
 ---
 

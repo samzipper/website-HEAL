@@ -6,7 +6,6 @@ education:
   courses:
   - course: B.A. in Geology and Environmental Earth Sciences (in progress)
     institution: Pitzer College
-    year: 2019
 email: ""
 interests:
  []
@@ -14,7 +13,7 @@ name: Max Meyers
 organizations:
 - name: Pomona College Department of Geology
   url: "https://www.pomona.edu/academics/departments/geology"
-role: 
+role: B.A. student
 social:
 
 superuser: false
