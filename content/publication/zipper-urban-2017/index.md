@@ -8,7 +8,7 @@ abstract: "Although the importance of vegetation in mitigating the urban heat is
 featured: false
 publication: "*Geophysical Research Letters*"
 tags: ["0493 Urban systems", "1813 Eco-hydrology", "1852 Plant uptake", "1878 Water/energy interactions", "3322 Land/atmosphere interactions", "ecohydrology", "plant water use", "urban climatology", "urban ecology", "urban heat island", "Reference evapotranspiration"]
-url_pdf: "PDFs/ZipperEtAl-2017-UHI-ET.pdf"
+url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2016GL072190"
 doi: "10.1002/2016GL072190"
 ---
 
