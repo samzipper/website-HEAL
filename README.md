@@ -12,7 +12,15 @@ Icons: https://fontawesome.com/icons?d=gallery
 ## Quick tips
  * Preview site: `blogdown::serve_site()`
  * Turn off preview: `servr::daemon_stop(1)`
- * Compile site: `blogdown::build_site()`
+ * Pushing site to internet:
+  * Compile site: `blogdown::build_site()`
+  * Commit everything in public folder: `cd public`; `git add -A`; `git commit -m "changes"`; `git push`
+
+## Setting up on a new computer
+*Do the following steps in Git Bash, not RStudio*
+ * [Set up GitHub SSH connection](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+ * Clone `website-HEAL` repository [recursively](https://stackoverflow.com/questions/11358082/empty-git-submodule-folder-when-repo-cloned): `git clone https://github.com/samzipper/website-HEAL.git --recursive`
+ * You might have to go into the submodule folder and [initialize it as a branch](https://gist.github.com/Noitidart/7af2e120bb83e2be9aa4cc3ca0a37722): `cd public`; `git checkout master`
 
 ## Adding a publication
  * Make a folder with a somewhat descriptive name in the `content/publication` folder (e.g., ZhangEtAl-2020-ChinaVirtualWater)
