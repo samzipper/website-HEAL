@@ -4,11 +4,11 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 78  # Order that this section will appear.
 list_format = 1
 
-title = "Recent Publications"
+title = "Recent HEAL Publications"
 subtitle = ""
 
 [content]
@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -26,10 +26,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "HEAL"
     category = ""
     publication_type = ""
-    exclude_featured = true
+    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.

@@ -23,6 +23,7 @@ Icons: https://fontawesome.com/icons?d=gallery
  * Research projects section
  * Contact section
  * Open positions section
+ * Make 'Lab Alums' section
 
 ## Setting up on a new computer
 *Do the following steps in Git Bash, not RStudio*
@@ -37,6 +38,7 @@ Icons: https://fontawesome.com/icons?d=gallery
  * Copy an `index.md` file from another folder and fill in all the content (most can be grabbed from .bib)
     * in abstract, you might have to delete and backslashes (for example in front of `%`)
     * For the PDF, if not available online put a link into the `static/PDFs` folder.
+    * If it should be on the main page, set `featured: true` (most recent 4 papers will be shown)
 
 ## Adding a new person
  * Go `content/authors`

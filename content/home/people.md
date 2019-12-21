@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "The HydroEcology of Anthropogenic Landscapes (HEAL) Group"
+title = "HydroEcology of Anthropogenic Landscapes (HEAL@KGS) group"
 subtitle = "Based at the Kansas Geological Survey, University of Kansas"
 
 # List user groups to display.

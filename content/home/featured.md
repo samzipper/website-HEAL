@@ -5,10 +5,10 @@
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 79  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Recent HEAL@KGS Publications"
 subtitle = ""
 
 [content]
@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 4
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -33,7 +33,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -62,3 +62,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+[**Complete publication list here**](publication).
