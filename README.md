@@ -16,6 +16,14 @@ Icons: https://fontawesome.com/icons?d=gallery
   * Compile site: `blogdown::build_site()`
   * Commit everything in public folder: `cd public`; `git add -A`; `git commit -m "changes"`; `git push`
 
+## To-Do List
+ * Add blog posts as links, update Open Science page
+ * Open Science background image
+ * Teaching section
+ * Research projects section
+ * Contact section
+ * Open positions section
+
 ## Setting up on a new computer
 *Do the following steps in Git Bash, not RStudio*
  * [Set up GitHub SSH connection](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)

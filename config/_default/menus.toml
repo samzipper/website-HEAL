@@ -13,6 +13,11 @@
   url = "publication"
   weight = 40
 
+[[main]]
+  name = "Open Science"
+  url = "#OpenScience"
+  weight = 41
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
