@@ -30,6 +30,12 @@ Icons: https://fontawesome.com/icons?d=gallery
     * in abstract, you might have to delete and backslashes (for example in front of `%`)
     * For the PDF, if not available online put a link into the `static/PDFs` folder.
 
+## Adding a new person
+ * Go `content/authors`
+ * Copy `blank` folder and give it the person's name
+ * Name their picture `avatar.png`
+ * Edit `_index.md`
+
 ## Colors (https://brand.ku.edu/guidelines/color)
 KU colors:
   * KU Blue #0051ba

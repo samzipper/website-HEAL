@@ -1,5 +1,5 @@
 ---
-title: "The evolution of virtual water flows in {China}'s electricity transmission network and its driving forces"
+title: "The evolution of virtual water flows in China's electricity transmission network and its driving forces"
 date: 2020-01-01
 publishDate: 2020-01-01
 authors: ["Chao Zhang", "Gang He", "Qian Zhang", "Sai Liang", "Samuel C. Zipper", "Ru Guo", "Xu Zhao", "Lijin Zhong", "Jiao Wang"]
