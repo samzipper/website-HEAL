@@ -39,6 +39,12 @@ Icons: https://fontawesome.com/icons?d=gallery
     * in abstract, you might have to delete and backslashes (for example in front of `%`)
     * For the PDF, if not available online put a link into the `static/PDFs` folder.
     * If it should be on the main page, set `featured: true` (most recent 4 papers will be shown)
+ * Add a tag for which core research area it is part of. Options:
+    * Water and Agriculture
+    * Land Use/Land Cover Change
+    * Ephemeral Water Features
+    * Stream-Aquifer Interactions
+    * Human-Environment Interface
 
 ## Adding a new person
  * Go `content/authors`
