@@ -7,7 +7,10 @@ Messing around with GitHub Pages.
 ## Theme reference: 
 https://sourcethemes.com/academic/
 
-Icons: https://fontawesome.com/icons?d=gallery
+Icons:
+ * fab: https://fontawesome.com/icons?d=gallery&s=brands
+ * fas, far: https://fontawesome.com/icons?d=gallery&s=regular,solid
+ * ai: https://jpswalsh.github.io/academicons/
 
 ## Quick tips
  * Preview site: `blogdown::serve_site()`
@@ -24,6 +27,7 @@ Icons: https://fontawesome.com/icons?d=gallery
  * Contact section
  * Open positions section
  * Make 'Lab Alums' section
+ * Update top menu
 
 ## Setting up on a new computer
 *Do the following steps in Git Bash, not RStudio*
@@ -42,7 +46,7 @@ Icons: https://fontawesome.com/icons?d=gallery
  * Add a tag for which core research area it is part of. Options:
     * Water and Agriculture
     * Land Use/Land Cover Change
-    * Ephemeral Water Features
+    * Ephemeral Hydrology
     * Stream-Aquifer Interactions
     * Human-Environment Interface
 
