@@ -7,7 +7,7 @@ image:
 links:
 - icon: open-access
   icon_pack: ai
-  name: HEAL publications
+  name: Relevant HEAL publications
   url: tags/ephemeral-hydrology
 summary: Hydrologic function and ecosystem services of intermittent streams and playas.
 tags:
@@ -18,6 +18,6 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-Current focal areas include:
- - Playas
- - Intermittent and ephemeral streams
+Most hydrologic research has focused on permanent water features, such as perennial streams and lakes, meaning that intermittent and ephemeral water features are relatively understudied.
+
+Ongoing work in this area is investigating the ecohydrological and biogeochemical function of intermittent streams and playas in western Kansas, and quantifying spatial and temporal characteristics of stream intermittency across the US.
