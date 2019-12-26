@@ -1,6 +1,6 @@
 ---
 authors:
-- sam-zipper
+- samuel-c.-zipper
 bio: I specialize in ecohydrology and hydrogeology of agricultural systems.
 education:
   courses:

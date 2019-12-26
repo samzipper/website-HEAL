@@ -5,7 +5,7 @@ Messing around with GitHub Pages.
  * Useful tips, especially for connecting website build repository and public repository: https://jdeines.github.io/post/r-blogdown-hugo-and-github-website/
 
 ## Theme reference: 
-https://sourcethemes.com/academic/
+https://sourcethemes.com/academic/docs
 
 Icons:
  * fab: https://fontawesome.com/icons?d=gallery&s=brands
@@ -21,13 +21,13 @@ Icons:
 
 ## To-Do List
  * Add blog posts as links, update Open Science page
- * Open Science background image
+ * Shorten Open Science section
  * Teaching section
- * Research projects section
- * Contact section
  * Open positions section
  * Make 'Lab Alums' section
- * Update top menu
+ * Lab logo
+ * Icon for browser tab
+ * Social media images
 
 ## Setting up on a new computer
 *Do the following steps in Git Bash, not RStudio*

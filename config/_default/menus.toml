@@ -6,26 +6,31 @@
 [[main]]
   name = "Mission"
   url = "#mission"
-  weight = 9
+  weight = 10
   
 [[main]]
   name = "People"
   url = "#people"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Publications"
-  url = "publication"
+  url = "#featured"
+  weight = 30
+
+[[main]]
+  name = "Research"
+  url = "#projects"
   weight = 40
 
 [[main]]
   name = "Open Science"
   url = "#OpenScience"
-  weight = 41
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/` and uncomment the lines below.
  [[main]]
-    name = "CV"
-    url = "doc/Zipper_CV.pdf"
-    weight = 50
+    name = "Contact"
+    url = "authors/samuel-c.-zipper"
+    weight = 60

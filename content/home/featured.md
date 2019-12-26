@@ -6,7 +6,7 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 79  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Recent HEAL@KGS Publications"
 subtitle = ""
@@ -42,7 +42,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  # color = "#0051ba"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -55,6 +55,10 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
 [advanced]
  # Custom CSS. 
  css_style = ""

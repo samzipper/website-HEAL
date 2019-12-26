@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 84  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Research Areas"
 subtitle = ""
@@ -54,6 +54,10 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
   
 [advanced]
  # Custom CSS. 
@@ -66,4 +70,4 @@ The HEAL@KGS group is focused on the question, **how do feedbacks between ground
 
 We are particularly interested how water moves through anthropogenic ecosystems (agricultural and urban regions) across the 'aquifer-to-atmosphere' continuum, and have published at scales from the pedon to the globe.  Methodologically, HEAL@KGS uses conduct a mixture of basic and applied research integrating numerical modeling, field observations, and geospatial analysis. We are deliberately transdisciplinary and bridge the fields of hydrogeology, ecohydrology, engineering, agronomy, soil science, and socio-environmental synthesis.
 
-Here are some core topics we are currently working on; click through for more details, and please see my [Publications](publication) page for a complete list of our scholarly output!
+Here are some core topics we are currently working on. We also have trouble sticking to one topic, so please see our [Publications](publication) for everything that doesn't fit into one of these categories!
