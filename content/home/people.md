@@ -18,3 +18,4 @@ user_groups = ["PI", "Postdocs",
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 +++
+**[Want to join the group? Currently open positions here!]({{< ref "/OpenPositions" >}})**

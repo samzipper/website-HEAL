@@ -21,9 +21,7 @@ Icons:
 
 ## To-Do List
  * Add blog posts as links, update Open Science page
- * Shorten Open Science section
  * Teaching section
- * Open positions section
  * Make 'Lab Alums' section
  * Lab logo
  * Icon for browser tab
