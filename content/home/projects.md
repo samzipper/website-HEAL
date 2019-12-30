@@ -68,6 +68,6 @@ subtitle = ""
 +++
 The HEAL@KGS group is focused on the question, **how do feedbacks between groundwater and land use, cover, and management decisions impact water, ecosystems, and society?** 
 
-We are particularly interested how water moves through anthropogenic ecosystems (agricultural and urban regions) across the 'aquifer-to-atmosphere' continuum, and have published at scales from the pedon to the globe.  Methodologically, HEAL@KGS uses conduct a mixture of basic and applied research integrating numerical modeling, field observations, and geospatial analysis. We are deliberately transdisciplinary and bridge the fields of hydrogeology, ecohydrology, engineering, agronomy, soil science, and socio-environmental synthesis.
+We are particularly interested how water moves across the 'aquifer-to-atmosphere' continuum in anthropogenic (agricultural and urban) ecosystems. Methodologically, HEAL@KGS uses conduct a mixture of basic and applied research integrating numerical modeling, field observations, and geospatial analysis. We are deliberately transdisciplinary and bridge the fields of hydrogeology, ecohydrology, engineering, agronomy, soil science, and socio-environmental synthesis.
 
-Here are some core topics we are currently working on. We also have trouble sticking to one topic, so please see our [Publications](publication) for everything that doesn't fit into one of these categories!
+Here are some core topics we are currently working on. We have many varied interests, so please see our [Publications](publication) for everything that doesn't fit into one of these categories!

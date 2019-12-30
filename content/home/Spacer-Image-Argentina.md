@@ -4,7 +4,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 55  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -27,7 +27,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "Rainforest_Wide.jpg"  # Name of image in `static/img/`.
+  image = "Argentina_Wide.jpg"  # Name of image in `static/img/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
