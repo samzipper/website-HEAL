@@ -23,7 +23,7 @@ Icons:
  * Add blog posts as links, update Open Science page
  * Make 'Lab Alums' section
  * Lab logo
- * Icon for browser tab
+ * [Icon for browser tab](https://sourcethemes.com/academic/docs/customization/#website-icon)
  * Social media images
 
 ## Setting up on a new computer
@@ -52,6 +52,21 @@ Icons:
  * Copy `blank` folder and give it the person's name
  * Name their picture `avatar.png`
  * Edit `_index.md`
+
+## New post
+
+## Update Hugo and Academic Theme
+ * Make copy of website repository in case something breaks.
+ * Check hugo version (`blogdown::hugo_version()`) and compare to current [release version](https://github.com/gohugoio/hugo/releases).
+  * `blogdown::update_hugo()`
+ * Check version of academic theme: `themes/hugo-academic/data/academic.toml`
+  * If update necessary, download current master branch of hugo-academic and replace your `themes/hugo-academic` folder
+  * Fix all breaking changes from [hugo-academic release notes](https://sourcethemes.com/academic/updates/v4.7.0/).
+  * In `hugo-academic/data/themes/minimal.toml`
+
+# Update history
+ * 2019-12-31: update to 4.6.3
+ * Original install: 4.4.0
 
 ## Colors (https://brand.ku.edu/guidelines/color)
 KU colors:

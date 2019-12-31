@@ -1,45 +1,71 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "HEAL @ KGS"
-theme = "hugo-hero-theme"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+# Configuration of Academic
+# Documentation: https://sourcethemes.com/academic/
+#
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
-[params]
-  google_analytics_id=""
-  author = "Sam Zipper"
-  dateFormat = "2019/07/29"
+# Title of your site
+title = "HEAL@KGS"
 
-  [params.homepage_meta_tags]
-    meta_description = "HydroEcology of Agricultural Landscapes"
-    meta_og_title = "HEAL @ KGS"
-    meta_og_type = "website"
-    meta_og_url = "https://samzipper.github.io/"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "HydroEcology of Agricultural Landscapes"
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@ZipperSam"
-    meta_twitter_creator = "@ZipperSam"
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://samzipper.github.io/"
 
-[[menu.main]]
-	name = "People"
-	url = "/people/"
-    weight = 1
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+copyright = ""
 
-[[menu.main]]
-    name = "Publications"
-    url = "/pubs/"
-    weight = 2
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = ""
 
-[[menu.main]]
-    name = "Open Science"
-    url = "/open/"
-    weight = 3
+############################
+## Advanced options below ##
+############################
 
-[[menu.main]]
-    name = "Teaching"
-    url = "/teaching/"
-    weight = 4
+# Name of Academic theme folder in `themes/`.
+theme = "hugo-academic"
 
-[permalinks]
-  post = "/:year/:month/:day/:slug/"
-  pages = "/:filename/"
+# Get last modified date for content from Git?
+enableGitInfo = true
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir = false
+removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
+
+paginate = 10  # Number of items per page in paginated lists.
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  section = [ "HTML", "RSS" ]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+# Configure BlackFriday Markdown rendering.
+#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
+	angledQuotes = false
+	latexDashes = true
+  extensions = ["backslashLineBreak"]
+
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"

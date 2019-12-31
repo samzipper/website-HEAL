@@ -25,7 +25,7 @@ social:
   link: https://twitter.com/ZipperSam
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=XXIpO1YAAAAJ
+  link: https://scholar.google.com/citations?user=XXIpO1YAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/samzipper
