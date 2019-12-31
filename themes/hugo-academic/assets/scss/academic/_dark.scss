@@ -51,10 +51,6 @@ body.dark,
   background-color: rgb(68, 71, 90) !important;
 }
 
-.dark ul.share li a {
-  background-color: $sta-primary;
-}
-
 .dark table table {
   background-color: rgb(40, 42, 54);
 }
@@ -115,11 +111,6 @@ body.dark,
 
 .dark .card .card-image.hover-overlay::after {
   color: #fff;
-}
-
-.dark .navbar-light {
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(255, 255, 255, .11);
-  border-color: #070707;
 }
 
 .dark select {

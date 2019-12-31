@@ -42,21 +42,19 @@
 - **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
 - **One-Click Deployment** - No servers. No databases. Only files.
 
-## Color Themes
+## Themes
 
-Academic comes with **day (light) and night (dark) mode** built-in. Click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action!
+Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to set your preferred mode!
 
-Choose a stunning color and font theme for your site. Themes are fully customizable and include:
+Choose a stunning theme for your site and [customize it](https://sourcethemes.com/academic/docs/customization/#custom-theme) to your liking:
 
-| `default` | `ocean` | `forest` | `dark` |
-| --- | --- | --- | --- |
-| ![default theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png) | ![ocean theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png) | ![forest theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png) | ![dark theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png) |
-
-| `apogee` | `1950s` | `coffee` | `strawberry` |
-| --- | --- | --- | --- |
-| ![apogee theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-apogee.png) | ![1950s theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png) | ![coffee theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png) | ![cupcake theme](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-strawberry.png) |
+[![Themes](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/themes.png)](https://sourcethemes.com/academic/themes/)
 
 [Browse more themes...](https://sourcethemes.com/academic/themes/)
+
+## The Future of Technical Content Writing
+
+[![Writing technical content](https://sourcethemes.com/academic/img/docs/writing-technical-content.gif)](https://academic-demo.netlify.com/post/writing-technical-content/)
 
 ## Ecosystem
 
@@ -85,7 +83,7 @@ You can choose from one of the following four methods to install:
 Prerequisites:
 
 * [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo Extended v0.55.6+](https://gohugo.io/getting-started/installing/#quick-install)
+* [Download and install Hugo Extended v0.58.3+](https://gohugo.io/getting-started/installing/#quick-install)
 
 Install:
 
@@ -108,7 +106,7 @@ Install:
 
 Prerequisites:
 
-* [Download and install Hugo Extended v0.55.6+](https://gohugo.io/getting-started/installing/#quick-install)
+* [Download and install Hugo Extended v0.58.3+](https://gohugo.io/getting-started/installing/#quick-install)
 
 Install:
 

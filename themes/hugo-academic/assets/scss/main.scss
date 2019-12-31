@@ -1,5 +1,6 @@
 {{- $scr := .Scratch -}}
 {{- $site := $scr.Get "site" -}}
+{{/* Don't use partialCached as can error when admin changes theme config whilst `hugo server` is running. */}}
 {{- partial "functions/parse_theme" . -}}
 
 $sta-darken-percentage: 10%;
@@ -37,3 +38,4 @@ $sta-dark-home-section-even: {{ $scr.Get "dark_home_section_even" }};
 @import "bootstrap_variables";
 @import "vendor/bootstrap/bootstrap";
 @import "academic/academic";
+@import "custom";
