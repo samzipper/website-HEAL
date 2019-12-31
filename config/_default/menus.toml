@@ -32,10 +32,3 @@
   name = "Teaching"
   url = "#teaching"
   weight = 60
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/` and uncomment the lines below.
- [[main]]
-    name = "Contact"
-    url = "authors/samuel-c.-zipper"
-    weight = 70
