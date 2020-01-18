@@ -59,6 +59,7 @@ Icons:
  * Make copy of website repository in case something breaks.
  * Check hugo version (`blogdown::hugo_version()`) and compare to current [release version](https://github.com/gohugoio/hugo/releases).
   * `blogdown::update_hugo()`
+  * update version in `netlify.toml` file
  * Check version of academic theme: `themes/hugo-academic/data/academic.toml`
   * If update necessary, download current master branch of hugo-academic and replace your `themes/hugo-academic` folder
   * Fix all breaking changes from [hugo-academic release notes](https://sourcethemes.com/academic/updates/v4.7.0/).
