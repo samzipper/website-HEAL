@@ -1,8 +1,8 @@
-# samzipper.github.io
-Messing around with GitHub Pages.
+# The website for the HydroEcology of Anthropogenic Landscapes (HEAL) group at the Kansas Geological Survey/University of Kansas (HEAL@KGS).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8ab46337-8345-446c-8b42-45d8d73db848/deploy-status)](https://app.netlify.com/sites/samzipper/deploys)
+Currently deployed at [samzipper.com](https://www.samzipper.com)
 
  * Website made with Hugo and `blogdown` as described here: https://bookdown.org/yihui/blogdown/
- * Useful tips, especially for connecting website build repository and public repository: https://jdeines.github.io/post/r-blogdown-hugo-and-github-website/
 
 ## Theme reference: 
 https://sourcethemes.com/academic/docs
@@ -12,25 +12,20 @@ Icons:
  * fas, far: https://fontawesome.com/icons?d=gallery&s=regular,solid
  * ai: https://jpswalsh.github.io/academicons/
 
-## Quick tips
- * Preview site: `blogdown::serve_site()`
- * Turn off preview: `servr::daemon_stop(1)`
- * Pushing site to internet:
-  * Compile site: `blogdown::build_site()`
-  * Commit everything in public folder: `cd public`; `git add -A`; `git commit -m "changes"`; `git push`
-
 ## To-Do List
+ * Update publications
  * Add blog posts as links, update Open Science page
  * Make 'Lab Alums' section
  * Lab logo
  * [Icon for browser tab](https://sourcethemes.com/academic/docs/customization/#website-icon)
  * Social media images
 
-## Setting up on a new computer
-*Do the following steps in Git Bash, not RStudio*
- * [Set up GitHub SSH connection](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
- * Clone `website-HEAL` repository [recursively](https://stackoverflow.com/questions/11358082/empty-git-submodule-folder-when-repo-cloned): `git clone https://github.com/samzipper/website-HEAL.git --recursive`
- * You might have to go into the submodule folder and [initialize it as a branch](https://gist.github.com/Noitidart/7af2e120bb83e2be9aa4cc3ca0a37722): `cd public`; `git checkout master`
+## Quick tips
+ * Preview site: `blogdown::serve_site()`
+ * Turn off preview: `servr::daemon_stop(1)`
+ * Pushing site to internet:
+  * Compile site: `blogdown::build_site()`
+  * Commit everything in public folder: `cd public`; `git add -A`; `git commit -m "changes"`; `git push`
 
 ## Adding a publication
  * Make a folder with a somewhat descriptive name in the `content/publication` folder (e.g., ZhangEtAl-2020-ChinaVirtualWater)
@@ -75,6 +70,3 @@ KU colors:
   * Crimson #e8000d
   * Jayhawk yellow #ffc82d
   * Signature grey #85898a
-
-## Logo brainstorming
-Corn plant and house inside water drop?
