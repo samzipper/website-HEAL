@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 publication: "*Hydrological Processes*"
 tags: []
-url_pdf: "10.1002/hyp.13693"
+url_pdf: "PDFs/TagueEtAl-2020-EcohydroLeaves.pdf"
 doi: "10.1029/2019EF001377"
 ---
 

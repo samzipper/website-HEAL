@@ -1,5 +1,6 @@
 # The website for the HydroEcology of Anthropogenic Landscapes (HEAL) group at the Kansas Geological Survey/University of Kansas (HEAL@KGS).
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8ab46337-8345-446c-8b42-45d8d73db848/deploy-status)](https://app.netlify.com/sites/samzipper/deploys)
+
 Currently deployed at [samzipper.com](https://www.samzipper.com)
 
  * Website made with Hugo and `blogdown` as described here: https://bookdown.org/yihui/blogdown/
@@ -13,7 +14,7 @@ Icons:
  * ai: https://jpswalsh.github.io/academicons/
 
 ## To-Do List
- * Pubs to add: ecohydro leaves, Deines et al AWM
+ * Pubs to add: Deines et al AWM
  * Add blog posts as links, update Open Science page
  * Make 'Lab Alums' section
  * Lab logo
