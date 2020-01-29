@@ -13,7 +13,7 @@ Icons:
  * ai: https://jpswalsh.github.io/academicons/
 
 ## To-Do List
- * Update publications
+ * Pubs to add: ecohydro leaves, Deines et al AWM
  * Add blog posts as links, update Open Science page
  * Make 'Lab Alums' section
  * Lab logo
@@ -23,9 +23,8 @@ Icons:
 ## Quick tips
  * Preview site: `blogdown::serve_site()`
  * Turn off preview: `servr::daemon_stop(1)`
- * Pushing site to internet:
-  * Compile site: `blogdown::build_site()`
-  * Commit everything in public folder: `cd public`; `git add -A`; `git commit -m "changes"`; `git push`
+ * Pushing site to internet is done automatically via Netlify
+  * To manually compile site: `blogdown::build_site()`
 
 ## Adding a publication
  * Make a folder with a somewhat descriptive name in the `content/publication` folder (e.g., ZhangEtAl-2020-ChinaVirtualWater)

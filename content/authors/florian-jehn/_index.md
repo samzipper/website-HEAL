@@ -17,7 +17,7 @@ role: B.Sc. student
 social:
 superuser: false
 user_groups:
-- Undergrad Students
+- Alums
 ---
 Bachelors thesis co-supervised with [Andreas Hartmann](https://ahartmann.weebly.com/).
 

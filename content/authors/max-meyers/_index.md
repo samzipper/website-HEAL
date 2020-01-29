@@ -18,7 +18,7 @@ social:
 
 superuser: false
 user_groups:
-- Undergrad Students
+- Alums
 ---
 Bachelors thesis co-supervised with [Linda Reinen](https://www.pomona.edu/directory/people/linda-reinen) and [Eric Grosfils](https://research.pomona.edu/eric-grosfils/).
 

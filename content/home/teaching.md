@@ -54,7 +54,6 @@ I use place-based teaching as the thread binding these three principles together
 **Courses Taught**
  - *Sustainable Water Resources*, University of Victoria (CIVE340), Fall 2018. Instructor for core undergraduate water resource engineering course. Leading all lectures, in-class activities, homework assignments, and exams. Selected evaluation results (n=48):
 	- 'Overall, the instructor was effective in this course': 60% Excellent, 35% Good.
-	- 'The instructor motivated you to learn in this course': 48% Excellent, 48% Good.
 	- 'As a result of this course, my interest in the material...': 63% Increased.
 
 **Courses TA'ed**
