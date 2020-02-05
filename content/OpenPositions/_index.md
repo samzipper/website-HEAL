@@ -9,7 +9,7 @@ title: Open Positions
 **Currently open positions:**
 
 *Undergraduates:*
- - The KGS Applied Geohydrology Internship program will be recruiting two interns for the 2020 summer, which will be advertised and open for applications in early 2020. The students will contribute to a KWRI-funded project investigating the hydrology and biogeochemistry of intermittent streams in the High Plains Aquifer and will be co-supervised by Sam, [Erin Seybold](https://www.erinseybold.com). and [Chi Zhang](https://www.chizhanggeophysics.com). These internships are open to students or recent graduates from any institution and will pay $7200 for a 12-week summer research experience.
+ - The KGS Applied Geohydrology Internship program is recruiting two paid interns for the 2020 summer. The students will contribute to a KWRI-funded project investigating the hydrology and biogeochemistry of intermittent streams in the High Plains Aquifer and will be co-supervised by Sam, [Erin Seybold](https://www.erinseybold.com). and [Chi Zhang](https://www.chizhanggeophysics.com). These internships are open to students or recent graduates from any institution and will pay $7200 for a 12-week summer research experience. For more info and to apply [click here](https://employment.ku.edu/staff/16460BR) - review begins February 28.
 
 *Graduate Students:*
  - There are no currently funded graduate student positions open in HEAL. However, I am always happy to work with interested students on developing proposals for external funding, such as the [NSF GRFP](http://www.nsfgrfp.org/), or internal KU fellowships, such as the [Self Fellowship](https://selfgraduate.ku.edu). If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}).
