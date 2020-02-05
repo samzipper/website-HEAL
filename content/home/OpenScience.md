@@ -69,6 +69,6 @@ Science should be transparent and accessible to all. To support this, we activel
    - Community outreach events in person and online, such as [Skype A Scientist](https://www.skypeascientist.com/).
  - **Skill-sharing:** 
    - Co-organizer of AGU [Coding Help Desk](https://github.com/sheilasaia/agu-2019-coding-help-desk) in Student Center since 2018 (with [Sheila Saia](https://github.com/sheilasaia/agu-2019-coding-help-desk)).
-   - Recently been trying to write up random methods and techniques on the HEAL blog.
+   - Recently been trying to write up random methods and techniques and share - for example, here's a [post about plotting your Google Scholar data]({{< ref "/post/2020-02-04-kick-google-scholar-up-a-notch.html" >}})).
 
 What more can I do? I am always looking for ways to improve... Tweet [@ZipperSam](https://www.twitter.com/ZipperSam) with ideas!

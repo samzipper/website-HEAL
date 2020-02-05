@@ -15,7 +15,6 @@ Icons:
 
 ## To-Do List
  * Pubs to add: Deines et al AWM
- * Add blog posts as links, update Open Science page
  * Make 'Lab Alums' section
  * Lab logo
  * [Icon for browser tab](https://sourcethemes.com/academic/docs/customization/#website-icon)
