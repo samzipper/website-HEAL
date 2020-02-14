@@ -1,0 +1,14 @@
+---
+title: "Transitions from irrigated to dryland agriculture in the Ogallala Aquifer: Land use suitability and regional economic impacts"
+date: 2020-02-14
+publishDate: 2020-02-14
+authors: ["Jillian M. Deines", "Meagan E. Schipanski", "Bill Golden", "Samuel C. Zipper", "Soheil Nozari", "Caitlin Rottler", "Bridget Guerrero", "Vaishali Sharda"]
+publication_types: ["2"]
+abstract: "Many agricultural communities depend on groundwater irrigation as a supplemental or primary water source. However, groundwater resources are finite, and depletion can make continued irrigation inviable. When modeling the economic impacts of future aquifer decline, studies often assume that irrigated cropland will transition uniformly to dryland crop production. In reality, irrigation has allowed crops to be grown across a wider range of soil and climate conditions than can support dryland crop production. Here, we test the agronomic and economic importance of this assumption by mapping the spatiotemporal distribution of anticipated future irrigation losses across the Ogallala or High Plains Aquifer (USA) at annual, 30 m resolution. We then develop a land use suitability model to determine whether these lands would transition to dryland agriculture or pasture use. We find that 22,000 km2 (24%) of currently irrigated lands in the High Plains Aquifer may be unable to support irrigated agriculture by 2100, and 13% of these areas are not suitable for dryland crop production due primarily to low quality soils. To quantify the farm-scale and regional-scale economic importance of land use suitability, we selected six case study counties across the aquifer and modeled farm and community-scale economic outcomes (gross revenue and value added, respectively) with and without consideration of land use suitability. We find that not accounting for land use suitability leads to an overestimate of economic benefits in transitioned land by 12–45%, with variability across counties primarily driven by the distribution of soil capability, dryland crop mix, and local economic factors. Notably, this implies that the economic impacts of land transitions are not directly proportional to area lost but rather mediated by underlying variability in these three factors. Our analyses highlight the importance of considering local biophysical constraints in planning for future land use trajectories. Community and regional land use planning needs to incorporate the possibility that irrigated cropland may transition to non-irrigated pasture production rather than dryland crop production, which can have substantial biophysical and economic impacts."
+featured: true
+publication: "*Agricultural Water Management*"
+tags: ["Water and Agriculture", "Land Use-Land Cover Change", "Human-Environment Interface"]
+url_pdf: "PDFs/DeinesEtAl-2020-HPAtransitions.pdf"
+doi: "10.1016/j.agwat.2020.106061"
+---
+
