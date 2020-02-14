@@ -14,7 +14,8 @@ Icons:
  * ai: https://jpswalsh.github.io/academicons/
 
 ## To-Do List
- * Pubs to add: Deines et al AWM
+ * Pubs to add: Deines et al AWM, Shanafield et al. EOS
+ * 'Privacy Policy' and 'Terms' sections
  * Make 'Lab Alums' section
  * Lab logo
  * [Icon for browser tab](https://sourcethemes.com/academic/docs/customization/#website-icon)
