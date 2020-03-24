@@ -53,7 +53,7 @@ Science should be transparent and accessible to all. To support this, we activel
    - Co-curator of [CRAN Hydrology Task View](https://cran.r-project.org/web/views/Hydrology.html) synthesizing water-related R packages. Contribute via [GitHub here](https://github.com/ropensci/Hydrology/)!
  - **Sharing Data:** 
    - [Open Science Framework](https://osf.io/jx68u/) including code and data for publications.
-   - [Community and institutional repositories](https://lter.limnology.wisc.edu/power-search/data-set?search_api_views_fulltext=Zipper) for project-specific data.
+   - [Community and institutional repositories](https://lter.limnology.wisc.edu/data?combine=&field_data_set_core_areas_target_id=All&field_data_set_ntl_themes_target_id=All&family_name=Samuel+C.+Zipper) for project-specific data.
    - Active in the ethics of data sharing and led a collaborative effort to outline best practices for ['Balancing Open Science and Data Privacy in the Water Sciences'](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR025080).
  - **No Paywalls:** 
    - [Pre-prints of all manuscripts to EarthArXiv](https://osf.io/jx68u/).
