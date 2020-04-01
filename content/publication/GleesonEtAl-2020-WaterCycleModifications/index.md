@@ -8,7 +8,7 @@ abstract: "Fresh water – the bloodstream of the biosphere – is at the centre
 featured: false
 publication: "*Water Resources Research*"
 tags: ["Human-Environment Interface", "Land Use/Land Cover Change"]
-url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019WR024957"
+url_pdf: "PDFs/GleesonEtAl-2020-WaterCycleModifications.pdf"
 doi: "10.1029/2019WR024957"
 ---
 
