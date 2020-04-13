@@ -32,7 +32,6 @@ Icons:
 ## Adding a publication
  * Make a folder with a somewhat descriptive name in the `content/publication` folder (e.g., ZhangEtAl-2020-ChinaVirtualWater)
  * From Zotero, export a .bib file for that publication into the folder with the same filename
- * Copy contents of .bib file into `content/publication/publications.bib`
  * Copy an `index.md` file from another folder and fill in all the content (most can be grabbed from .bib)
     * in abstract, you might have to delete and backslashes (for example in front of `%`)
     * For the PDF, if not available online put a link into the `static/PDFs` folder.
