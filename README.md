@@ -54,11 +54,12 @@ Icons:
   * `blogdown::update_hugo()`
   * update version in `netlify.toml` file
  * Check version of academic theme: `themes/hugo-academic/data/academic.toml`
-  * If update necessary, download current master branch of hugo-academic and replace your `themes/hugo-academic` folder
+  * If update necessary, download [latest release](https://github.com/gcushen/hugo-academic/releases) of hugo-academic and replace your `themes/hugo-academic` folder
   * Fix all breaking changes from [hugo-academic release notes](https://sourcethemes.com/academic/updates/v4.7.0/).
   * In `hugo-academic/data/themes/minimal.toml`
 
 # Update history
+ * 2020-06-10: update HUGO to 0.72.0, Academic to 4.8.0
  * 2019-12-31: update to 4.6.3
  * Original install: 4.4.0
 
