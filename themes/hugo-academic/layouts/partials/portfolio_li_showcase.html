@@ -17,8 +17,10 @@
   {{ $summary = $item.Params.summary | markdownify | emojify }}
 {{ else if .Params.abstract }}
   {{ $summary = .Params.abstract | markdownify | emojify }}
-{{ else if $item.Summary }}
+{{ else if $item.Truncated }}
   {{ $summary = $item.Summary }}
+{{ else }}
+  {{ $summary = $item.Content }}
 {{ end }}
 
 {{ $order := "" }}

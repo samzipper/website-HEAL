@@ -1,27 +1,27 @@
 - id: toggle_navigation
-  translation: Nabigazio-barra
+  translation: Txandakatu nabigazioa
 - id: table_of_contents
-  translation: Aurkibidea
+  translation: Table of Contents
 - id: on_this_page
-  translation: Orrialde honetan
+  translation: On this page
 - id: back_to_top
-  translation: Hasierara itzuli
+  translation: Back to top
 - id: related
-  translation: Erlazionatuta
+  translation: Related
 - id: minute_read
-  translation: minutuko irakurketa
+  translation: min read
 - id: previous
-  translation: Aurrekoa
+  translation: Previous
 - id: next
-  translation: Hurrengoa
+  translation: Next
 - id: figure
-  translation: 'Figura %d:'
+  translation: 'Figure %d:'
 - id: btn_preprint
-  translation: Aurreargitalpena
+  translation: Preprint
 - id: btn_pdf
   translation: PDF
 - id: btn_cite
-  translation: Aipuak
+  translation: Cite
 - id: btn_slides
   translation: Diapositibak
 - id: btn_video
@@ -33,98 +33,98 @@
 - id: btn_project
   translation: Proiektua
 - id: btn_poster
-  translation: Posterra
+  translation: Poster
 - id: btn_source
-  translation: Jatorrizko dokumentua
+  translation: Source Document
 - id: btn_copy
-  translation: Kopiatu
+  translation: Copy
 - id: btn_download
-  translation: Deskargatu
+  translation: Download
 - id: interests
   translation: Interesak
 - id: education
   translation: Ikasketak
 - id: user_profile_latest
-  translation: Berriak
+  translation: Latest
 - id: see_certificate
-  translation: Ikusi zertifikatua
+  translation: See certificate
 - id: present
-  translation: Gaur egun
+  translation: Present
 - id: more_pages
-  translation: Dena ikusi
+  translation: See all
 - id: more_posts
-  translation: Post gehiago
+  translation: Bidalketa gehiago
 - id: more_talks
   translation: Hitzaldi gehiago
 - id: more_publications
   translation: Argitalpen gehiago
 - id: contact_name
-  translation: Izena
+  translation: Name
 - id: contact_email
-  translation: Emaila
+  translation: Email
 - id: contact_message
-  translation: Mezua
+  translation: Message
 - id: contact_send
-  translation: Bidali
+  translation: Send
 - id: book_appointment
-  translation: Hitzordua eskatu
+  translation: Book an appointment
 - id: abstract
   translation: Laburpena
 - id: publication
-  translation: Publikazioa
+  translation: Non argitaratua
 - id: publication_type
   translation: Mota
 - id: date
   translation: Data
 - id: last_updated
-  translation: Azkenengoz editatua 
+  translation: Last updated on
 - id: event
   translation: Ekitaldia
 - id: location
   translation: Kokalekua
 - id: pub_uncat
-  translation: Kategoria gabe
+  translation: Uncategorized
 - id: pub_conf
-  translation: Konferentzia-artikulua
+  translation: Conference paper
 - id: pub_journal
-  translation: Aldizkari-artikulua
+  translation: Journal article
 - id: pub_preprint
-  translation: Aurreargitalpena
+  translation: Preprint
 - id: pub_report
-  translation: Txostena
+  translation: Report
 - id: pub_book
-  translation: Liburua
+  translation: Book
 - id: pub_book_section
-  translation: Liburu-kapitulua
+  translation: Book section
 - id: pub_thesis
-  translation: Tesia
+  translation: Thesis
 - id: pub_patent
-  translation: Patentea
+  translation: Patent
 - id: open_project_site
   translation: Joan proiektuaren webgunera
 - id: posts
-  translation: Posts
+  translation: Bidalketak
 - id: publications
   translation: Argitalpenak
 - id: talks
   translation: Hitzaldiak
 - id: projects
-  translation: Projektuak
+  translation: Projects
 - id: search
-  translation: Bilatu
+  translation: Search
 - id: search_placeholder
-  translation: Bilatu...
+  translation: Search...
 - id: search_results
-  translation: Bilaketaren emaitzak
+  translation: results found
 - id: search_no_results
-  translation: Ez da ezer aurkitu
+  translation: No results found
 - id: page_not_found
-  translation: Ezin izan da orrialdea aurkitu
+  translation: Page not found
 - id: 404_recommendations
-  translation: Agian hauetako baten bila zenbiltzan?
+  translation: Perhaps you were looking for one of these?
 - id: cookie_message
-  translation: Webgune honek cookie-ak erabiltzen ditu esperientzia hobea bermatzeko.
+  translation: This website uses cookies to ensure you get the best experience on our website.
 - id: cookie_dismiss
-  translation: Ulertua!
+  translation: Got it!
 - id: cookie_learn
-  translation: Informazio gehiago
+  translation: Learn more

@@ -265,27 +265,12 @@ a.hero-cta-alt:hover {
   position: relative;
 }
 
-.avatar {
-  width: 270px;
-  height: 270px;
+.portrait {
+  width: 200px;
+  height: 200px;
   margin: 0 auto;
-  object-fit: cover;
-}
-
-// Use smaller avatar size in About widget on small devices.
-@include media-breakpoint-down(sm) {
-  .wg-about .avatar {
-    width: 200px;
-    height: 200px;
-  }
-}
-
-.avatar-circle {
   border-radius: 50%;
-}
-
-.avatar-square {
-  border-radius: 3px;
+  object-fit: cover;
 }
 
 .portrait-title h2 {
@@ -526,7 +511,7 @@ ul.ul-edu li .description p.institution {
   font-size: 0.7rem;
 }
 
-.people-widget .avatar {
+.people-widget .portrait {
   width: 80%;
   max-width: 150px;
   height: auto;
