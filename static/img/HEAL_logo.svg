@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="31.63204mm"
-   height="32.268745mm"
-   viewBox="0 0 31.63204 32.268745"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="HEAL_logo.svg"
-   inkscape:export-filename="C:\Users\samzipper\WorkGits\website-HEAL\static\img\HEAL-logo.png"
-   inkscape:export-xdpi="1000"
-   inkscape:export-ydpi="1000">
+   inkscape:export-filename="C:\Users\samzipper\WorkGits\website-HEAL\assets\images\icon.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,21 +28,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.450467"
-     inkscape:cx="24.017918"
-     inkscape:cy="40.928701"
+     inkscape:zoom="1"
+     inkscape:cx="78.343002"
+     inkscape:cy="85.648885"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g822"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
+     inkscape:window-height="1147"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      fit-margin-left="1"
      fit-margin-top="1"
      fit-margin-right="1"
-     fit-margin-bottom="1" />
+     fit-margin-bottom="1"
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -59,34 +60,42 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-14.431201,-23.327698)">
-    <path
-       style="fill:none;stroke:#0051ba;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 15.702208,40.313777 c -0.297384,4.285217 9.662467,6.352783 14.779071,6.301229 C 35.492457,46.564516 45.205267,44.428387 44.7857,40.239119 44.394573,36.333804 30.125291,24.6711 30.125291,24.6711 c 0,0 -14.160618,11.860646 -14.423083,15.642677 z"
-       id="path989"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssscs" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.578743"
-       y="43.151188"
-       id="text817"><tspan
-         sodipodi:role="line"
-         x="17.578743"
+     transform="translate(-15.166618,80.605641)">
+    <g
+       id="g822"
+       transform="matrix(4.4352681,0,0,4.4352681,-51.254582,-187.89717)">
+      <path
+         sodipodi:nodetypes="ssscs"
+         inkscape:connector-curvature="0"
+         id="path989"
+         d="m 15.702208,40.313777 c -0.297384,4.285217 9.662467,6.352783 14.779071,6.301229 C 35.492457,46.564516 45.205267,44.428387 44.7857,40.239119 44.394573,36.333804 30.125291,24.6711 30.125291,24.6711 c 0,0 -14.160618,11.860646 -14.423083,15.642677 z"
+         style="fill:none;stroke:#0051ba;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text817"
          y="43.151188"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan819">HEAL</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.475391"
-       y="53.924648"
-       id="text817-8"><tspan
-         sodipodi:role="line"
-         x="17.475391"
+         x="17.578743"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan819"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332;fill:#e8000d;fill-opacity:1"
+           y="43.151188"
+           x="17.578743"
+           sodipodi:role="line">HEAL</tspan></text>
+      <text
+         id="text817-8"
          y="53.924648"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
-         id="tspan819-3">@KGS</tspan></text>
+         x="17.475391"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan819-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.26458332"
+           y="53.924648"
+           x="17.475391"
+           sodipodi:role="line"><tspan
+             style="fill:#85898a;fill-opacity:1"
+             id="tspan826">@</tspan><tspan
+             style="fill:#ffc82d;fill-opacity:1"
+             id="tspan824">KGS</tspan></tspan></text>
+    </g>
   </g>
 </svg>
