@@ -60,7 +60,7 @@ Icons:
  * Check version of academic theme: `themes/hugo-academic/data/academic.toml`
   * If update necessary, download [latest release](https://github.com/gcushen/hugo-academic/releases) of hugo-academic and replace your `themes/hugo-academic` folder
   * Fix all breaking changes from [hugo-academic release notes](https://sourcethemes.com/academic/updates/).
-  * In `hugo-academic/data/themes/minimal.toml`
+	* Make sure you update `netlify.toml` with the number that Academic theme tells you to
 
 # Update history
  * 2020-06-10: update Academic to 4.8.0
