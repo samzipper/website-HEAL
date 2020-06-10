@@ -1,7 +1,7 @@
 ---
 header: 
-  caption: "The Kansas Geological Survey building at the University of Kansas. Photo: KGS"
-  image: "KGS_building.png"
+  caption: "The Kansas Geological Survey buildings at the University of Kansas. Photo: KGS"
+  image: "KGS_building_small.png"
 layout: docs
 title: Open Positions
 ---

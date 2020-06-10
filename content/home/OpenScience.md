@@ -44,7 +44,7 @@ subtitle = "*Transparency | Accessibility | Outreach*"
  # CSS class.
  css_class = ""
 +++
-Science should be transparent and accessible to all. To support this, we actively participate in the Open Science movement through multiple avenues:
+Science should be transparent and accessible to all, but [17% of scientific data 'disappears' per year](https://www.sciencedirect.com/science/article/pii/S0960982213014000) due to insufficient data archiving. We actively participate in the Open Science movement through multiple avenues:
  - **Open Software and Code:** 
    - Sam's [GitHub](https://www.github.com/samzipper) including all ongoing projects.
    - [streamDepletr R package](https://cran.r-project.org/package=streamDepletr), containing tools for streamflow depletion modeling.
@@ -69,6 +69,7 @@ Science should be transparent and accessible to all. To support this, we activel
    - Community outreach events in person and online, such as [Skype A Scientist](https://www.skypeascientist.com/).
  - **Skill-sharing:** 
    - Co-organizer of AGU [Coding Help Desk](https://github.com/sheilasaia/agu-2019-coding-help-desk) in Student Center since 2018 (with [Sheila Saia](https://github.com/sheilasaia/agu-2019-coding-help-desk)).
-   - Recently been trying to write up random methods and techniques and share - for example, here's a [post about plotting your Google Scholar data]({{< ref "/post/2020-02-04-kick-google-scholar-up-a-notch.html" >}}).
+   - Trying to write up random methods and techniques and share - for example, here's a [post about plotting your Google Scholar data]({{< ref "/post/2020-02-04-kick-google-scholar-up-a-notch.html" >}}).
+   - Recently completed [Carpentries](https://carpentries.org/) Instructor Training, will hopefully help teach a workshop soon!
 
 What more can I do? I am always looking for ways to improve... Tweet [@ZipperSam](https://www.twitter.com/ZipperSam) with ideas!

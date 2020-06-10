@@ -4,7 +4,7 @@ authors:
 bio: 
 education:
   courses:
-  - course: B.A. in Geology and Environmental Earth Sciences (in progress)
+  - course: B.A. in Geology and Environmental Earth Sciences (2019)
     institution: Pitzer College
 email: ""
 interests:
@@ -20,6 +20,8 @@ superuser: false
 user_groups:
 - Alums
 ---
+HEAL@KGS remote undergraduate researcher, 2018-2019.
+
 Bachelors thesis co-supervised with [Linda Reinen](https://www.pomona.edu/directory/people/linda-reinen) and [Eric Grosfils](https://research.pomona.edu/eric-grosfils/).
 
 **Project title:** Effects of Crop Rotation on Water Consumption in the High Plains Aquifer

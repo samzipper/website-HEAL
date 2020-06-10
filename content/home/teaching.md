@@ -61,6 +61,8 @@ I use place-based teaching as the thread binding these three principles together
  - *Ecohidrologia (Ecohydrology)*, Universidad Nacional de San Luis (Argentina), Spring 2015. Led student development of ecohydrological ‘bucket model’ in programming language R.
 
 **Guest Lectures**
+ - Lots of streams, not much time or money? Developing & testing analytical tools for evaluating groundwater pumping impacts on streamflow. *Introduction to Watershed Systems* (GEOG 441). University of North Carolina. Virtual lecture during COVID-19.
+ - Hydrogeology Field Methods. *Environmental Monitoring and Field Methods* (CE 736). University of Kansas. Virtual lecture during COVID-19.
  - Groundwater, ecosystems, and humans. *Hydrogeology* (EOS 491). University of Victoria.
  - Unsaturated flow. *Hydrogeology* (EPSC 549). McGill University.
  - Ecohydrology. *Hydrogeology* (EPSC 549), McGill University.
