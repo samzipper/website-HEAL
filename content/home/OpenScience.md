@@ -44,7 +44,7 @@ subtitle = "*Transparency | Accessibility | Outreach*"
  # CSS class.
  css_class = ""
 +++
-Science should be transparent and accessible to all, but [17% of scientific data 'disappears' per year](https://www.sciencedirect.com/science/article/pii/S0960982213014000) due to insufficient data archiving. We actively participate in the Open Science movement through multiple avenues:
+Science should be transparent and accessible to all, but [17% of scientific data 'disappears' per year](https://www.sciencedirect.com/science/article/pii/S0960982213014000) due to inadequate data archiving. We actively participate in the Open Science movement through multiple avenues:
  - **Open Software and Code:** 
    - Sam's [GitHub](https://www.github.com/samzipper) including all ongoing projects.
    - [streamDepletr R package](https://cran.r-project.org/package=streamDepletr), containing tools for streamflow depletion modeling.
