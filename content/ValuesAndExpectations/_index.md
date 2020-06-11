@@ -58,8 +58,8 @@ Science is hard. But it’s also fun. We want to make sure that everyone has a p
  - If you’re sick, stay home and take care of yourself. 
  - Be on time for your meetings and reschedule if you know you can't make it: respect that others have packed days and everyone’s time is valuable. 
  - Keep your office and any shared work spaces (conference room, kitchen, labs) tidy, clean, and uncluttered. Turn off the lights when you leave a room.
- - Backup your data and scripts regularly, and over-document them. See the 'Data Management' section below. 
- - Have a life outside of the lab, take care of your mental and physical health, and don’t ever feel bad for taking time off work. You are expected to get your work done (whatever time of day you like to do it). See 'Working Hours' section for more.
+ - Backup your data and scripts regularly, and over-document them. See the ['Data Management' section](#data-management). 
+ - Have a life outside of the lab, take care of your mental and physical health, and don’t ever feel bad for taking time off work. You are expected to get your work done (whatever time of day you like to do it). See the ['Work/life balance' section](#worklife-balance).
 
 ## Principal Investigator
 
@@ -103,7 +103,7 @@ All of the above, and you will also be expected to…
 
 All of the above, and you will also be expected to…
  - Share your expertise with other members of the lab - we are excited to have you as a guest and learn from you!
- - Make sure we can access your data/results when you leave the lab (see 'Data Management' section below)
+ - Make sure we can access your data/results when you leave the lab (see ['Data Management' section](#data-management))
  - Abide by the code of conduct
 
 # Lab policies and guidelines
