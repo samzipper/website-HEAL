@@ -75,10 +75,10 @@ All of the above, and I promise to also…
 
 All of the above, and you will also be expected to…
  - Develop your own independent line of research
- - Help train and mentor students in the lab (both undergraduate and graduate) when they need it – either because they ask, or because I ask you to
+ - Help train and mentor students in the lab (both undergraduate and graduate) when they need it
  - Present your work at departmental events, at other labs (if invited), and at conferences
  - Apply for grants. Though I will only hire you if I can support you for at least one year, it’s in your best interest to get experience writing grants – and if you get them you’ll be helping out the entire lab as well as yourself (because you’ll free up funds previously allocated to you)
- - Apply for jobs (academic or otherwise) when you’re ready, but no later than the beginning of your final funded year as a post-doc. If you think you’d like to leave academia, that’s completely ok – but you should still treat your post-doc seriously, and talk to me about how to best train for a job outside academia
+ - Apply for your next job when you’re ready, but no later than the beginning of your final funded year as a post-doc. I will support your pursuit of any job, whether within or outside academia
  - You were hired because you have unique skills and knowledge. Challenge me (Sam) when I’m wrong or when your opinion is different, and treat the rest of the lab to your unique expertise 
 
 ## Graduate Students

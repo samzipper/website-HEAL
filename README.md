@@ -15,7 +15,7 @@ Icons:
 
 ## To-Do List
  * Figure out how to preview effectively in Netlify
- * Add table of contents to values/code/expectations
+ * Add instructions about "How to join the lab" with steps and timelines
  * Add dropdown menu to main page linking other resources
  * Pubs to add: Shanafield et al. EOS
  * Google Analytics
