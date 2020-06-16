@@ -9,14 +9,15 @@ title: Lab Values, Code of Conduct, and Expectations
 
 # HEAL@KGS values
 
-HEAL@KGS is unequivocally committed to advancing diversity, equity, and inclusion (DEI) at an individual and collective level. Our mission is to improve fundamental and applied understanding of water resources and the societies they support, which requires understanding, respecting, and working with diverse communities. Regardless of our scientific goals, working to advance DEI is also a moral imperative.
+HEAL@KGS is unequivocally committed to diversity, equity, and inclusion (DEI) at an individual and collective level; we are anti-racist and anti-discrimination. Our mission is to improve understanding of water resources and the societies they support, which requires respecting and working with diverse communities. Regardless of our scientific goals, working to advance DEI is also a moral imperative.
 
-As part of [#ShutDownSTEM](https://www.shutdownstem.com/), Sam identified five specific, actionable steps he has taken or will take to advance these values:
+As part of [#ShutDownSTEM](https://www.shutdownstem.com/), Sam identified six specific, actionable steps he has taken or will take to advance these values:
  1. Just like scientific research, upholding our DEI goals requires a sustained investment of effort. I will integrate DEI actions into my own Individual Development Plan (IDP) and the IDPs that each lab member completes and revisits throughout their time in the group to ensure we are continually making effort and progress.
  2. Racial and gender bias [affects academic hiring decisions](https://www.sciencemag.org/careers/2019/06/racial-and-gender-biases-plague-postdoc-hiring). I will minimize bias in hiring for all positions (undergraduate, graduate, postdoc, intern) by writing inclusive job descriptions, standardizing interview questions, using an evaluation rubric, and having a diverse group participate in the interview process. ([source](https://www.forbes.com/sites/pragyaagarwaleurope/2019/02/20/how-to-minimize-unconscious-bias-during-recruitment))
  3. Preventing discrimination and harassment in the workplace is all of our jobs. I will complete [bystander intervention training](https://sapec.ku.edu/bystander) and put the practices we learn to use.
  4. Volunteer research experiences [exclude people who cannot afford to work for free](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/wsb.603), which disproportionately disadvantages minorities and other groups currently underrepresented in the sciences. We will write in salary for all necessary employees to grant budgets, and if we cannot afford to pay an employee, we will not find someone to work for free.
  5. In academia, citations are how we show someone's work is important and useful, and are often used in hiring/promotion decisions. My own citations [are heavily skewed male](https://twitter.com/ZipperSam/status/990722168370556928). I will seek out diverse voices through various platforms (such as social media and conferences), read their published work, and cite it where relevant.
+ 6. Individual actions, while meaningful, can only go so far. I will work with other KGS staff and scientists to develop specific, actionable steps that we can take at as an organization.
 
 I acknowledge that I am still learning and, as a white scholar from an upper-middle class background, can never fully understand the experiences of Black, Indigenous, immigrant, and other people of color. Nevertheless, I will continue to educate myself, listen, and change. 
 
