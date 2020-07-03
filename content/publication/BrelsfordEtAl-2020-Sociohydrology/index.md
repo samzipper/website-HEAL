@@ -1,0 +1,14 @@
+---
+title: "Developing a sustainability science approach for water systems"
+date: 2020-07-02
+publishDate: 2020-07-02T03:02:52.911408Z
+authors: ["Christa Brelsford", "Marion Dumas", "Edella Schlager", "Brian J. Dermody", "Michael Aiuvalasit", "Melissa R. Allen-Dumas", "Janice Beecher", "Udit Bhatia", "Paolo D'Odorico", "Margaret Garcia", "Patricia Gober", "David Groenfeldt", "Steve Lansing", "Kaveh Madani", "Linda Estelí Méndez-Barrientos", "Elena Mondino", "Marc F. Müller", "Frances C. O'Donnell", "Patrick M. Owuor", "James Rising", "Matthew R. Sanderson", "Felipe A. A. Souza", "Samuel C. Zipper"]
+publication_types: ["2"]
+abstract: "We convened a workshop to enable scientists who study water systems from both social science and physical science perspectives to develop a shared language. This shared language is necessary to bridge a divide between these disciplines’ different conceptual frameworks. As a result of this workshop, we argue that we should view socio-hydrological systems as structurally co-constituted of social, engineered, and natural elements and study the “characteristic management challenges” that emerge from this structure and reoccur across time, space, and socioeconomic contexts. This approach is in contrast to theories that view these systems as separately conceptualized natural and social domains connected by bi-directional feedbacks, as is prevalent in much of the water systems research arising from the physical sciences. A focus on emergent characteristic management challenges encourages us to go beyond searching for evidence of feedbacks and instead ask questions such as: What types of innovations have successfully been used to address these challenges? What structural components of the system affect its resilience to hydrological events and through what mechanisms? Are there differences between successful and unsuccessful strategies to solve one of the characteristic management challenges? If so, how are these differences affected by institutional structure and ecological and economic contexts? To answer these questions, social processes must now take center stage in the study and practice of water management. We also argue that water systems are an important class of coupled systems with relevance for sustainability science because they are particularly amenable to the kinds of systematic comparisons that allow knowledge to accumulate. Indeed, the characteristic management challenges we identify are few in number and recur over most of human history and in most geographical locations. This recurrence should allow us to accumulate knowledge to answer the above questions by studying the long historical record of institutional innovations to manage water systems."
+featured: false
+publication: "*Ecology and Society*"
+tags: ["Human-Environment Interface"]
+url_pdf: "https://www.ecologyandsociety.org/vol25/iss2/art23/ES-2020-11515.pdf"
+doi: "10.5751/ES-11515-250223"
+---
+
