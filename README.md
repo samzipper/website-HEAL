@@ -14,10 +14,8 @@ Icons:
  * ai: https://jpswalsh.github.io/academicons/
 
 ## To-Do List
- * Figure out how to preview effectively in Netlify
  * Add instructions about "How to join the lab" with steps and timelines
  * Add dropdown menu to main page linking other resources
- * Pubs to add: Shanafield et al. EOS
  * Google Analytics
  * Lab logo
  * [Icon for browser tab](https://sourcethemes.com/academic/docs/customization/#website-icon)

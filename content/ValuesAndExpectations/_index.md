@@ -25,15 +25,14 @@ I acknowledge that I am still learning and, as a white scholar from an upper-mid
 
 We value the participation of every member of our community and want to ensure an that everyone has an enjoyable and fulfilling experience. Accordingly, everyone who participates in any HEAL@KGS project is expected to show respect and courtesy to other community members at all time.
 
-Sam Zipper, as head of HEAL@KGS, and all lab members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
+Sam Zipper, as head of HEAL@KGS, and all lab members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or any other factor. **We do not tolerate harassment by and/or of members of our community in any form**.
 
 To make clear what is expected, we ask all members of HEAL@KGS and our collaborators to conform to the following Code of Conduct.
 
  - All communication - online and in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate at any time.
  - Be kind to others. Criticizing ideas (in a respectful and constructive manner) is OK. Criticizing people is never OK.
- - Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
+ - Restpect your colleagues and behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
  - Make an inclusive environment for everyone. Give everyone a chance to talk and an opportunity to contribute.
- - Respect your colleagues. Respect their strengths and weaknesses, respect their desire for quiet if they need it, and for support and a kind ear when they need that. Respect their culture, their religion, their beliefs, their sexual orientation - respect them.
  - Watch out for [microaggressions](https://en.wikipedia.org/wiki/Microaggression). Be aware that your actions can be hurtful to others or contribute to a negative environment even if you had no intent of harm. Listen. Offer a genuine apology. Commit to learning and doing better.
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
@@ -44,68 +43,40 @@ Members of the community who violate these rules will be approached by Sam and a
 
 # Expectations for lab members
 
-Science is hard. But it’s also fun. We want to make sure that everyone has a positive, engaging, hostility-free, challenging, and rewarding experience. Our top priority is to set mutually-agreed-upon goals about research, learning, and professional growth and then both do our best to make those goals reality. The following expectations are meant to encourage mutual accountability. We will go through and discuss these expectations at the beginning of your time in HEAL@KGS to make sure we are in agreement and modify if necessary.
+To make sure that everyone has a positive, challenging, and rewarding experience, in HEAL@KGS we set mutually-agreed-upon goals about research, learning, and professional growth. The following expectations are meant to encourage mutual accountability and make those goals reality. . We will go through and discuss these expectations at the beginning of your time in HEAL@KGS to make sure we are in agreement and modify if necessary.
 
 ## Everyone
 
- - Work hard and be careful. Don’t rush your work. Think about it. Double and triple check it. Incorporate sanity checks into your code. Do any data points look weird on your graph? Try to explain why they are where they are. Ask others to look at your code or data if you need help. It’s ok to makes mistakes, but mistakes shouldn’t be caused by carelessness or rushed work.
- - If you do make a mistake, tell your collaborators. This is true regardless of the stage a product is in, and especially true if the paper is being written up, is already submitted, or already accepted. To correct our mistakes, we need to admit them.
- - Be honest and have integrity. It is never ok to plagiarize, tamper with data, make up data, omit data, or fudge results in any way. Science is about finding out the truth, and null results and unexpected results are still important. This can’t be emphasized enough: no academic misconduct!
- - Support your colleagues. Help them out if they need help (even if you aren’t on the project), and let them vent when they need to. Science is collaborative, not competitive. Help others, and you can expect others to help you when you need it.
- - If you’re struggling, tell someone (feel free to tell Sam!). Your health and happiness come first. We will all look out for the well-being of everyone else. It’s ok to go through hard patches (we all do), but you shouldn’t feel shy about asking for help.
- - If there is any tension or hostility in the lab, something has to be done about it immediately. We can’t thrive in an environment we aren’t comfortable in, and disrespect or rudeness will not be tolerated in the lab. If you don’t feel comfortable confronting the person in question, tell Sam. In any case, tell Sam.
- - If you have a problem with Sam and are comfortable telling him about it, please do! He has a thick skin and will not hold it against you. If you aren’t comfortable talking to Sam, talk to Annette Delaney (KGS human resources director) or someone else that you feel comfortable talking to.
- - Stay up to date on the latest research through journal table of contents and/or exploring citations in manuscripts you find interesting. You might keep up-to-date by following scientists in your field on Twitter, but don't let social media take over your work - focused time for [deep work](https://www.calnewport.com/books/deep-work/) is a better use of your time.
- - If you’re sick, stay home and take care of yourself. 
- - Be on time for your meetings and reschedule if you know you can't make it: respect that others have packed days and everyone’s time is valuable. 
- - Keep your office and any shared work spaces (conference room, kitchen, labs) tidy, clean, and uncluttered. Turn off the lights when you leave a room.
- - Backup your data and scripts regularly, and over-document them. See the ['Data Management' section](#data-management). 
- - Have a life outside of the lab, take care of your mental and physical health, and don’t ever feel bad for taking time off work. You are expected to get your work done (whatever time of day you like to do it). See the ['Work/life balance' section](#worklife-balance).
+ - *Support your colleagues.* Science is collaborative, not competitive - be friendly and help people when you can. If you’re struggling, or if there is any tension or hostility with a colleague, tell Sam immediately and we will resolve it.
+ - *No academic misconduct.* Be honest and have integrity. It is never ok to plagiarize, tamper with data, make up data, omit data, or fudge results in any way. 
+ - *Do deep work.* Eliminating distractions and interruptions is the best way to make progress. Focused time for [deep work](https://www.calnewport.com/books/deep-work/) is a better use of your time than social media, emails, or meetings.
+ - *Be careful.* Double and triple check your work. Incorporate sanity checks into your code. Figure out why weird results are happening. It’s ok to make mistakes, but mistakes shouldn’t be caused by carelessness or rushed work. If you do make a mistake, fix it, tell your collaborators, and keep going.
+ - *Read the literature.* Your research will vastly improve the more you read other peoples' work. Stay up to date on the latest research through journal table of contents and/or exploring citations in manuscripts you find interesting.
+ - *Be on time* for your meetings and reschedule if you know you can't make it. If you’re sick, stay home and take care of yourself and reschedule. 
+ - *Backup your data* and scripts regularly, and over-document them. See the ['Data Management' section](#data-management). 
+ - *Have a life* outside of the lab and take care of your mental and physical health. See the ['Work/life balance' section](#worklife-balance).
 
-## Principal Investigator
+## Lab Leader (Sam)
 
 All of the above, and I promise to also…
- - Care for your emotional and physical well-being, and prioritize that above all else
- - Give you feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grants
- - Be available in person and via e-mail on a regular basis, including regular meetings to discuss your research (and anything else you’d like to discuss)
- - Give my perspective on where the lab is going, where the field is going, and tips about surviving and thriving in academia
- - Support your career development by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit
- - Help you prepare for the next step of your career, whether it’s a post-doc, a faculty job, or a job outside of academia
+ - Care for your emotional and physical well-being, and prioritize that above all else.
+ - Give you feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grants, etc.
+ - Be available in person and via e-mail on a regular basis, including regular meetings to discuss your research (and anything else you’d like to discuss).
+ - Support your career development by introducing you to other researchers, promoting your work at talks, writing recommendation letters, and anything else that will help you succeed.
+ - Help you prepare for the next step of your career, regardless of your chosen career path.
 
-## Post-Docs
-
-All of the above, and you will also be expected to…
- - Develop your own independent line of research
- - Help train and mentor students in the lab (both undergraduate and graduate) when they need it
- - Present your work at departmental events, at other labs (if invited), and at conferences
- - Apply for grants. Though I will only hire you if I can support you for at least one year, it’s in your best interest to get experience writing grants – and if you get them you’ll be helping out the entire lab as well as yourself (because you’ll free up funds previously allocated to you)
- - Apply for your next job when you’re ready, but no later than the beginning of your final funded year as a post-doc. I will support your pursuit of any job, whether within or outside academia
- - You were hired because you have unique skills and knowledge. Challenge me (Sam) when I’m wrong or when your opinion is different, and treat the rest of the lab to your unique expertise 
-
-## Graduate Students
+## Lab members (postdocs, students, visiting scientists, etc.)
 
 All of the above, and you will also be expected to…
- - Develop your thesis. In HEAL@KGS, we will write manuscript-based theses. A typical M.S. thesis will be 1-2 papers and a typical Ph.D. dissertation will be 3-4 papers. You are expected to be the intellectual leader of this work, but remember that others in lab (especially Sam!) are there to help you when you need it
- - Help mentor undergraduate students in the lab when they need it
- - Present your work at departmental events, at other labs (if invited), and at conferences
- - Apply for grants. It’s a valuable experience, and best to get it early.
- - Think about what you want for your career (academia – research or teaching, industry, science writing, something else), and talk to Sam about it to make sure you’re getting the training you need for that career
- - Make sure you meet all departmental deadlines (e.g., for your exams and thesis), and make sure Sam and your academic supervisor are aware of them!
- - Prioritize time for research. Coursework and TAing are important, but ultimately your research gets you your graduate degree and prepares you for the next stage of your career.
-
-## Undergraduate Students
-
-All of the above, and you will also be expected to…
- - Assist other lab members with data collection and analysis (unless you are working on your own independent project, in which case you should work on that)
- - Develop your weekly schedule by talking to your mentor (a graduate student, a post-doc, or Sam). You should be coming in every week, and scheduling enough time to get your work done
- - If you are earning course credit for research, you must also attend lab meetings when your schedule permits, present at one of these lab meetings, and submit a write-up of your research by the end of the semester
-
-## Visiting Scientists, Students, and Interns
-
-All of the above, and you will also be expected to…
- - Share your expertise with other members of the lab - we are excited to have you as a guest and learn from you!
- - Make sure we can access your data/results when you leave the lab (see ['Data Management' section](#data-management))
- - Abide by the code of conduct
+ - Attend, participate in, and occasionally lead group meetings.
+ - Help train and mentor other members of the lab when they need it.
+ - Present your work at university events, for other research groups (if invited), and at conferences
+ - Share your work with the scientific community by presenting at conferences and writing peer-reviewed publications. A typical M.S. thesis will be 1-2 papers and a typical Ph.D. dissertation will be 3-4 papers. 
+ - Apply for grants. They don't have to be big. It’s a valuable experience, and best to get it early.
+ - Think about what you want for your career, and talk to Sam to make sure you’re getting the correct training for your next job. Apply for your next job when you’re ready, but at least 6-9 months before you'll need it. 
+ - You were hired because you have unique skills and knowledge. Challenge others (respectfully) when your opinion is different, and treat the rest of the lab to your unique expertise.
+ - Make sure we can access your data when you leave the lab (see ['Data Management' section](#data-management)).
+ - If you have a problem with Sam, please tell him about it! He has a thick skin and will not hold it against you. If you aren’t comfortable with that, talk to Annette Delaney (KGS HR director) or someone else that can support you and help Sam improve.
 
 # Lab policies and guidelines
 
