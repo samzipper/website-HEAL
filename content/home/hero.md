@@ -32,7 +32,7 @@ hero_media = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "0", "0", "0"]
+  padding = ["100px", "0", "150px", "0"]
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
