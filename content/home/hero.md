@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "HEAL_logo.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
