@@ -1,7 +1,7 @@
 # The website for the HydroEcology of Anthropogenic Landscapes (HEAL) group at the Kansas Geological Survey/University of Kansas (HEAL@KGS).
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8ab46337-8345-446c-8b42-45d8d73db848/deploy-status)](https://app.netlify.com/sites/samzipper/deploys)
 
-Currently deployed at [samzipper.com](https://www.samzipper.com)
+Currently deployed at [samzipper.com](https://www.samzipper.com), with [code on GitHub](https://github.com/samzipper/website-HEAL).
 
  * Website made with Hugo and `blogdown` as described here: https://bookdown.org/yihui/blogdown/
 
@@ -16,7 +16,6 @@ Icons:
 ## To-Do List
  * Add instructions about "How to join the lab" with steps and timelines
  * Add dropdown menu to main page linking other resources
- * Google Analytics
  * Lab logo
  * [Icon for browser tab](https://sourcethemes.com/academic/docs/customization/#website-icon)
  * Social media images
