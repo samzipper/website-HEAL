@@ -11,7 +11,7 @@ education:
 email: "samzipper@ku.edu"
 interests:
  []
-name: Sam Zipper
+name: Sam Zipper (PI)
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
@@ -34,6 +34,6 @@ social:
   link: doc/Zipper_CV.pdf
 superuser: true
 user_groups:
-- PI
+- Current Members
 ---
 **Favorite body of water:** Lake Wenatchee

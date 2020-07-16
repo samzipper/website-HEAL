@@ -25,7 +25,7 @@ social:
   link: https://darcyslawyer.blogspot.com/
 superuser: false
 user_groups:
-- Students
+- Current Members
 ---
 **Project title:** Spatial variability and subsurface controls of groundwater recharge and nutrient mobilization in dry streams (funded by [Kansas Water Resources Institute](https://www.kcare.k-state.edu/kansas-water-resources-institute/)).
 

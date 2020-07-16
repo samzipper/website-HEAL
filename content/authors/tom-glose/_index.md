@@ -31,7 +31,7 @@ social:
   link: doc/Glose_CV.pdf
 superuser: false
 user_groups:
-- Postdocs
+- Current Members
 ---
 **Project title:** Groundwater sustainability pathways for the High Plains Aquifer
 

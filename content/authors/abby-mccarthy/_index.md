@@ -20,7 +20,7 @@ social:
   link: mailto:amccarth@students.pitzer.edu
 superuser: false
 user_groups:
-- Students
+- Current Members
 ---
 **Project title:** Past and future drivers of surface water-groundwater interactions in the Kansas River Alluvial Aquifer
 
