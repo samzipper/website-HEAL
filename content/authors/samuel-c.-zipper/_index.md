@@ -1,7 +1,7 @@
 ---
 authors:
 - samuel-c.-zipper
-bio: I specialize in ecohydrology and hydrogeology of agricultural systems.
+bio: I specialize in ecohydrology and hydrogeology of agricultural and urban landscapes.
 education:
   courses:
   - course: PhD in Freshwater and Marine Sciences
@@ -11,11 +11,11 @@ education:
 email: "samzipper@ku.edu"
 interests:
  []
-name: Sam Zipper (PI)
+name: Sam Zipper
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
-role: Assistant Scientist, Groundwater Hydrology
+role: HEAL@KGS PI; Assistant Scientist
 social:
 - icon: envelope
   icon_pack: fas
