@@ -14,7 +14,6 @@ Icons:
  * ai: https://jpswalsh.github.io/academicons/
 
 ## To-Do List
- * Add instructions about "How to join the lab" with steps and timelines
  * Add dropdown menu to main page linking other resources
  * Lab logo
  * [Icon for browser tab](https://sourcethemes.com/academic/docs/customization/#website-icon)
