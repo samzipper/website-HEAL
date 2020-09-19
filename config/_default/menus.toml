@@ -32,3 +32,9 @@
   name = "Teaching"
   url = "#teaching"
   weight = 60
+
+[[main]]
+  name = "Join HEAL"
+  url = "/OpenPositions"
+  weight = 70
+

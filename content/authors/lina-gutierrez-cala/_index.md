@@ -27,7 +27,7 @@ social:
   link: https://twitter.com/LinaGutierrezCa
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
 M.Sc. thesis co-supervised with [Fernando Jaramillo](https://www.su.se/english/profiles/fjara-1.188044) as part of FORMAS-funded Ripples of Resilience project.
 

@@ -25,8 +25,10 @@ social:
   link: https://darcyslawyer.blogspot.com/
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
 **Project title:** Spatial variability and subsurface controls of groundwater recharge and nutrient mobilization in dry streams (funded by [Kansas Water Resources Institute](https://www.kcare.k-state.edu/kansas-water-resources-institute/)).
 
 **Favorite body of water:** St. Lucie River
+
+**Post-HEAL Position:** Ph.D. student at Florida State University
