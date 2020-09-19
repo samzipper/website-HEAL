@@ -35,6 +35,6 @@
 
 [[main]]
   name = "Join HEAL"
-  url = "/OpenPositions"
+  url = "/join"
   weight = 70
 

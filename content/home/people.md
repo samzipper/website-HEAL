@@ -25,4 +25,4 @@ title = "Who We Are"
 +++
 *HEAL@KGS is part of the [Geohydrology Section](http://www.kgs.ku.edu/Hydro/hydroIndex.html) of the [Kansas Geological Survey](http://www.kgs.ku.edu/), a research and service center at the [University of Kansas](https://ku.edu/).*
 
-**[Want to join the group? Currently open positions here!]({{< ref "/OpenPositions" >}})**
+**[Want to join the group? Currently open positions here!]({{< ref "/join" >}})**
