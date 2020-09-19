@@ -8,13 +8,13 @@ title: Join HEAL@KGS!
 
 {{% toc %}}
 
-# Seeking Ph.D./M.S. student to begin fall 2020
+# Seeking Ph.D./M.S. student
 
 The HEAL@KGS research group, led by Sam Zipper, is seeking a graduate student to begin in Fall 2021 as part of the NSF-funded Aquatic Intermittency effects on Microbiomes in Streams (AIMS) project. This project seeks to develop interdisciplinary understanding of the hydrology, biogeochemistry, and microbial ecology of intermittent streams across the US. 
 
-This student's role will be to investigate groundwater-surface water interactions in intermittent streams during both flowing and dry phases. The student will both generate new understanding of the role of groundwater in intermittent streams, and also provide a hydrological basis for understanding biogeochemical and microbial processes, and therefore an interest in interdisciplinary research is essential. The research will include field-based research in Kansas and data synthesis spanning the Mountain West, Great Plains, and Southeastern Forest regions. For more information about life in the HEAL@KGS research group, see our [mission statement]({{< ref "/#mission" >}}), [current members]({{< ref "/#people" >}}), and our [group values and expectations]({{< ref "/ValuesAndExpectations" >}}).
+This student's role will be to investigate groundwater-surface water interactions in intermittent streams during both flowing and dry phases. The student will both generate new understanding of the role of groundwater in intermittent streams, and also provide a hydrological basis for understanding biogeochemical and microbial processes, and therefore an interest in interdisciplinary research is essential. The research will include field-based research in Kansas and data synthesis spanning the Mountain West, Great Plains, and Southeastern Forest regions. For more information about the HEAL@KGS research group, see our [mission statement]({{< ref "/#mission" >}}), [current members]({{< ref "/#people" >}}), and our [group values and expectations]({{< ref "/ValuesAndExpectations" >}}).
 
-This position is ideal for someone interested in interdisciplinary, collaborative research, as it is one of 11 AIMS graduate positions across seven different institutions (**[see here](https://docs.google.com/document/d/1m6YGdQ0UECpEwRRReC0LfIUPkeB4mWA7aSmPR5OQssk/edit)** for information on all positions). All AIMS graduate students will take a cross-institutional Team Science and Collaboration course in their first year, receive support for instructor training through The Carpentries Foundation, have opportunities to mentor undergraduate research projects, and will work with an amazing team of scientists from the University of Kansas, Kansas State University, Idaho State University, University of Alabama, University of Mississippi, University of Southern Mississippi, and Haskell Indian Nations University. 
+This position is ideal for someone interested in interdisciplinary, collaborative research, as it is one of [11 AIMS graduate positions across seven different institutions](https://docs.google.com/document/d/1m6YGdQ0UECpEwRRReC0LfIUPkeB4mWA7aSmPR5OQssk/edit). All AIMS graduate students will take a cross-institutional Team Science and Collaboration course in their first year, receive support for instructor training through The Carpentries Foundation, have opportunities to mentor undergraduate research projects, and will work with an amazing team of scientists from the University of Kansas, Kansas State University, Idaho State University, University of Alabama, University of Mississippi, University of Southern Mississippi, and Haskell Indian Nations University. 
 
 ## To Apply
 Feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with any questions. **To apply**, please send the following items *as a single PDF*:
@@ -22,7 +22,7 @@ Feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with a
  - C.V. or resume
  - Undergrad/graduate transcripts (unofficial)
 
-Review of applications will begin **October 26 2020**, but will continue until a suitable applicant pool. Promising candidate(s) will then be encouraged to apply to the [KU Department of Geology](https://geo.ku.edu)'s graduate program, with a deadline of December 31.
+Review of applications will begin **November 1 2020**, but will continue until a suitable applicant pool. Promising candidate(s) will then be encouraged to apply to the [KU Department of Geology](https://geo.ku.edu)'s graduate program, with a deadline of December 31.
 
 ## Qualifications
 *Required Qualifications*
