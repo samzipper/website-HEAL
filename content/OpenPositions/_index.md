@@ -14,12 +14,12 @@ This student's role will be to investigate groundwater-surface water interaction
 This position is ideal for someone interested in interdisciplinary, collaborative research, as it is one of 11 AIMS graduate positions across seven different institutions (**[see here](https://docs.google.com/document/d/1m6YGdQ0UECpEwRRReC0LfIUPkeB4mWA7aSmPR5OQssk/edit)** for information on all positions). All AIMS graduate students will take a cross-institutional Team Science and Collaboration course in their first year, receive support for instructor training through The Carpentries Foundation, have opportunities to mentor undergraduate research projects, and will work with an amazing team of scientists from the University of Kansas, Kansas State University, Idaho State University, University of Alabama, University of Mississippi, University of Southern Mississippi, and Haskell Indian Nations University. 
 
 ## To Apply
-**If interested in the position**, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items *as a single PDF*:
+**If interested**, feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with any questions. To apply, please send the following items *as a single PDF*:
  - Cover letter (max 2 pages) describing interest in the position, and how you meet the required/preferred qualifications (below)
  - C.V. or resume
  - Undergrad/graduate transcripts (unofficial)
 
-Review of applications will begin **October 19 2020**, but will continue until a suitable candidate is found. Promising candidate(s) will then be encouraged to apply to the [KU Department of Geology](https://geo.ku.edu/)'s graduate program.
+Review of applications will begin **October 26 2020**, but will continue until a suitable candidate is found. Promising candidate(s) will then be encouraged to apply to the [KU Department of Geology](https://geo.ku.edu)'s graduate program, with a deadline of December 31.
 
 ## Qualifications
 *Required Qualifications*

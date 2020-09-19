@@ -27,6 +27,8 @@ superuser: false
 user_groups:
 - Alums
 ---
+KGS Applied Geohydrology Intern, Summer 2020.
+
 **Project title:** Spatial variability and subsurface controls of groundwater recharge and nutrient mobilization in dry streams (funded by [Kansas Water Resources Institute](https://www.kcare.k-state.edu/kansas-water-resources-institute/)).
 
 **Favorite body of water:** St. Lucie River
