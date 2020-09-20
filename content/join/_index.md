@@ -10,11 +10,11 @@ title: Join HEAL@KGS!
 
 # Seeking Ph.D./M.S. student
 
-The HEAL@KGS research group, led by Sam Zipper, is seeking a graduate student to begin in Fall 2021 as part of the NSF-funded Aquatic Intermittency effects on Microbiomes in Streams (AIMS) project. This project seeks to develop interdisciplinary understanding of the hydrology, biogeochemistry, and microbial ecology of intermittent streams across the US. 
+The HEAL@KGS research group is seeking a graduate student to begin in Fall 2021 as part of the [NSF-funded Aquatic Intermittency effects on Microbiomes in Streams (AIMS)](https://nsf.gov/awardsearch/showAward?AWD_ID=2019603&HistoricalAwards=false) project. This project seeks to develop interdisciplinary understanding of the hydrology, biogeochemistry, and microbial ecology of intermittent streams across the US. 
 
-This student's role will be to investigate groundwater-surface water interactions in intermittent streams during both flowing and dry phases. The student will both generate new understanding of the role of groundwater in intermittent streams, and also provide a hydrological basis for understanding biogeochemical and microbial processes, and therefore an interest in interdisciplinary research is essential. The research will include field-based research in Kansas and data synthesis spanning the Mountain West, Great Plains, and Southeastern Forest regions. For more information about the HEAL@KGS research group, see our [mission statement]({{< ref "/#mission" >}}), [current members]({{< ref "/#people" >}}), and our [group values and expectations]({{< ref "/ValuesAndExpectations" >}}).
+This student's role will be to investigate groundwater-surface water interactions in intermittent streams during both flowing and dry phases. The student will generate new understanding of the role of groundwater in intermittent streams across the US, and also provide a hydrological basis for understanding biogeochemical and microbial processes. Therefore, an interest in collaborative, interdisciplinary research is essential. The student will get experience with field-based research in Kansas and data synthesis spanning the Mountain West, Great Plains, and Southeastern Forest regions. For more information about the HEAL@KGS research group, see our [mission statement]({{< ref "/#mission" >}}), [current members]({{< ref "/#people" >}}), and our [group values and expectations]({{< ref "/ValuesAndExpectations" >}}).
 
-This position is ideal for someone interested in interdisciplinary, collaborative research, as it is one of [11 AIMS graduate positions across seven different institutions](https://docs.google.com/document/d/1m6YGdQ0UECpEwRRReC0LfIUPkeB4mWA7aSmPR5OQssk/edit). All AIMS graduate students will take a cross-institutional Team Science and Collaboration course in their first year, receive support for data science instructor training through The Carpentries Foundation, have opportunities to mentor undergraduate research projects, and will work with an amazing team of scientists from the University of Kansas, Kansas State University, Idaho State University, University of Alabama, University of Mississippi, University of Southern Mississippi, and Haskell Indian Nations University. 
+This position is one of [11 AIMS graduate positions across seven different institutions](https://docs.google.com/document/d/1m6YGdQ0UECpEwRRReC0LfIUPkeB4mWA7aSmPR5OQssk/edit). All AIMS graduate students will take a cross-institutional Team Science and Collaboration course in their first year, receive support for data science instructor training through The Carpentries Foundation, have opportunities to mentor undergraduate research projects, and will work with an amazing team of scientists from the University of Kansas, Kansas State University, Idaho State University, University of Alabama, University of Mississippi, University of Southern Mississippi, and Haskell Indian Nations University. 
 
 Feel free to [email Sam]({{< ref "/authors/samuel-c.-zipper" >}}) with any questions.
 
@@ -24,13 +24,14 @@ To apply, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) wi
  - C.V. or resume
  - Academic transcripts (unofficial is fine)
 
-Review of applications will begin **November 1 2020**, but will continue until a suitable applicant pool is achieved. Promising candidates will then be encouraged to apply to the [KU Department of Geology](https://geo.ku.edu)'s graduate program, with a deadline of December 31.
+Review of applications will begin **November 1 2020**, but will continue until a suitable applicant pool is achieved. Promising candidates will then be encouraged to apply to the [KU Department of Geology](https://geo.ku.edu) graduate program, with a deadline of December 31.
 
 ## Qualifications
 *Required Qualifications*
  - Coursework in hydrogeology, hydrology, ecohydrology, or other water-related topics
  - Ability to work well indepedently and as part of a team
  - Excellent written and oral communication skills
+ - Experience and/or interest in collaborative, interdisciplinary research
 
 *Preferred Qualifications*
  - Field-based hydrogeology and/or hydrology research experience or training
@@ -39,9 +40,9 @@ Review of applications will begin **November 1 2020**, but will continue until a
 
 ## Position benefits and details
  - This position will begin in summer/fall of 2021. 
- - The student's research home will be the [Kansas Geological Survey](http://www.kgs.ku.edu/) and their academic home will be the [KU Department of Geology](https://geo.ku.edu/). Through these multiple homes (which are both on KU's campus), the student will gain access to a wide professional network across diverse career paths. 
+ - The student's research home will be the [Kansas Geological Survey](http://www.kgs.ku.edu/) and their academic home will be the [KU Department of Geology](https://geo.ku.edu/). Through these multiple homes (which are both on KU's campus and a quick 5 minute bike ride apart), the student will gain access to a wide professional network across diverse career paths. 
  - This position will be supported with a graduate research assistantship (for at least 3 years) and teaching assistantship (if additional time required). This includes tuition remission, an annual stipend, and funding to present research at local and international conferences and visit project collaborators and field sites. 
- - The student will be based in Lawrence KS, an eclectic town of ~100,000 people along the banks of the beautiful Kansas River. Lawrence has an excellent cultural scene, historic downtown, cutting-edge library, and too many delicious restaurants to count. Outdoor opportunities around town including biking, hiking, and boating. The big-city vibes (and international airport) of Kansas City are less than an hour away.
+ - The student will be based in Lawrence KS, an eclectic town of ~100,000 people along the banks of the beautiful Kansas River. Lawrence has an excellent cultural scene, historic downtown, cutting-edge library, and too many delicious restaurants to count. Outdoor opportunities around town including biking, hiking, and boating. The big-city vibes (and international airport) of Kansas City are less than an hour away. [More info about Lawrence is available here](https://unmistakablylawrence.com/).
 
 # Other opportunities with HEAL@KGS
 
