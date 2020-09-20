@@ -23,6 +23,7 @@ To apply, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) wi
  - Cover letter (max 2 pages) describing interest in the position, and how you meet the required/preferred qualifications (below)
  - C.V. or resume
  - Academic transcripts (unofficial is fine)
+ - Contact information for 3 professional references
 
 Review of applications will begin **November 1 2020**, but will continue until a suitable applicant pool is achieved. Promising candidates will then be encouraged to apply to the [KU Department of Geology](https://geo.ku.edu) graduate program, with a deadline of December 31.
 
