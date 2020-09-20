@@ -19,29 +19,29 @@ This position is ideal for someone interested in interdisciplinary, collaborativ
 Feel free to [email Sam]({{< ref "/authors/samuel-c.-zipper" >}}) with any questions.
 
 ## To Apply
-**To apply**, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items attached *as a single PDF*:
+To apply, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items attached *as a single PDF*:
  - Cover letter (max 2 pages) describing interest in the position, and how you meet the required/preferred qualifications (below)
  - C.V. or resume
- - Undergrad/graduate transcripts (unofficial)
+ - Academic transcripts (unofficial is fine)
 
-Review of applications will begin **November 1 2020**, but will continue until a suitable applicant pool. Promising candidate(s) will then be encouraged to apply to the [KU Department of Geology](https://geo.ku.edu)'s graduate program, with a deadline of December 31.
+Review of applications will begin **November 1 2020**, but will continue until a suitable applicant pool is achieved. Promising candidates will then be encouraged to apply to the [KU Department of Geology](https://geo.ku.edu)'s graduate program, with a deadline of December 31.
 
 ## Qualifications
 *Required Qualifications*
- - Coursework in hydrogeology, hydrology, ecohydrology, or other water-focused research
+ - Coursework in hydrogeology, hydrology, ecohydrology, or other water-related topics
  - Ability to work well indepedently and as part of a team
  - Excellent written and oral communication skills
 
 *Preferred Qualifications*
- - Field-based hydrogeology and/or hydrology research experience
+ - Field-based hydrogeology and/or hydrology research experience or training
  - Experience with script-based data analysis (Python, R, etc.)
- - Experience working with geospatial and/or timeseries data
+ - Experience working with geospatial and/or timeseries environmental data
 
 ## Position benefits and details
- - This position will begin in summer/fall of 2020. 
+ - This position will begin in summer/fall of 2021. 
  - The student's research home will be the [Kansas Geological Survey](http://www.kgs.ku.edu/) and their academic home will be the [KU Department of Geology](https://geo.ku.edu/). Through these multiple homes (which are both on KU's campus), the student will gain access to a wide professional network across diverse career paths. 
  - This position will be supported with a graduate research assistantship (for at least 3 years) and teaching assistantship (if additional time required). This includes tuition remission, an annual stipend, and funding to present research at local and international conferences and visit project collaborators and field sites. 
- - The student will be based in Lawrence KS, which is an eclectic town of ~90,000 people with an excellent cultural and food scene. Recreational opportunities abound including biking, hiking, and boating around town, and the big-city vibes of Kansas City are just an hour away.
+ - The student will be based in Lawrence KS, an eclectic town of ~100,000 people along the banks of the beautiful Kansas River. Lawrence has an excellent cultural scene, historic downtown, cutting-edge library, and too many delicious restaurants to count. Outdoor opportunities around town including biking, hiking, and boating. The big-city vibes (and international airport) of Kansas City are less than an hour away.
 
 # Other opportunities with HEAL@KGS
 
