@@ -25,7 +25,7 @@ To apply, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) wi
  - Academic transcripts (unofficial is fine)
  - Contact information for 3 professional references
 
-Review of applications will begin **November 1 2020**, but will continue until a suitable applicant pool is achieved. Promising candidates will then be encouraged to apply to the [KU Department of Geology](https://geo.ku.edu) graduate program, with a deadline of December 31.
+Review of applications will begin **November 1 2020**, but will continue until a suitable applicant pool is achieved. Promising candidates will then be encouraged to apply to the KU graduate program.
 
 ## Qualifications
 *Required Qualifications*
@@ -41,7 +41,7 @@ Review of applications will begin **November 1 2020**, but will continue until a
 
 ## Position benefits and details
  - This position will begin in summer/fall of 2021. 
- - The student's research home will be the [Kansas Geological Survey](http://www.kgs.ku.edu/) and their academic home will be the [KU Department of Geology](https://geo.ku.edu/). Through these multiple homes (which are both on KU's campus and a quick 5 minute bike ride apart), the student will gain access to a wide professional network across diverse career paths. 
+ - The student's research appointment will be with the [Kansas Geological Survey](http://www.kgs.ku.edu/) and their academic department will be either the [KU Department of Geology](https://geo.ku.edu/) or the [KU Department of Geography and Atmospheric Science](https://geog.ku.edu/) depending on student interests and programmatic fit. Through these multiple homes (which are both on KU's campus and a quick 5 minute bike ride apart), the student will gain access to a wide professional network across diverse career paths. 
  - This position will be supported with a graduate research assistantship (for at least 3 years) and teaching assistantship (if additional time required). This includes tuition remission, an annual stipend, and funding to present research at local and international conferences and visit project collaborators and field sites. 
  - The student will be based in Lawrence KS, an eclectic town of ~100,000 people along the banks of the beautiful Kansas River. Lawrence has an excellent cultural scene, historic downtown, cutting-edge library, and too many delicious restaurants to count. Outdoor opportunities around town including biking, hiking, and boating. The big-city vibes (and international airport) of Kansas City are less than an hour away. [More info about Lawrence is available here](https://unmistakablylawrence.com/).
 
