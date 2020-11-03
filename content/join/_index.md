@@ -25,7 +25,7 @@ To apply, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) wi
  - Academic transcripts (unofficial is fine)
  - Contact information for 3 professional references
 
-Review of applications will begin **November 1 2020**, but will continue until a suitable applicant pool is achieved. Promising candidates will then be encouraged to apply to the KU graduate program.
+**Application review has begun and new applications will be reviewed as they are received.** Promising candidates will then be encouraged to apply to the KU graduate program.
 
 ## Qualifications
 *Required Qualifications*
