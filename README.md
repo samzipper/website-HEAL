@@ -46,6 +46,8 @@ Icons:
  * Edit `_index.md`
 
 ## New post
+ * Run `blogdown:::new_post_addin()`, which will open a pop-up window.
+ * Choose a title, etc.
 
 ## Update Hugo and Academic Theme
  * Make copy of website repository in case something breaks.
