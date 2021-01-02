@@ -46,8 +46,7 @@ Icons:
  * Edit `_index.md`
 
 ## New post
- * Run `blogdown:::new_post_addin()`, which will open a pop-up window.
- * Choose a title, etc.
+ * Try copying the 2020-02-04... post's .Rmd file, knitting to html locally, then pushing to GitHub?
 
 ## Update Hugo and Academic Theme
  * Make copy of website repository in case something breaks.
