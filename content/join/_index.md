@@ -8,6 +8,10 @@ title: Join HEAL@KGS!
 
 {{% toc %}}
 
+# Current Opportunities
+
+The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) is recruiting **two paid interns for summer 2021**. The students will contribute to a project investigating the hydrology and biogeochemistry of intermittent streams and will be co-supervised by Sam and [Erin Seybold](https://www.erinseybold.com). These internships are open to students or recent graduates from any institution and will pay $15/hr for a 12-week summer research experience. For more information and to apply, please see the posting here: [http://www.employment.ku.edu/staff/18492BR](http://www.employment.ku.edu/staff/18492BR)
+
 # Opportunities with HEAL@KGS
 
 We love working with new people and value the skills that all members of HEAL@KGS bring to the table. There are numerous ways to join the group, whether you are based in Kansas or elsewhere. Please see below for opportunities at the undergraduate, graduate, postdoc, and visiting scientist levels. 
@@ -15,7 +19,7 @@ We love working with new people and value the skills that all members of HEAL@KG
 Before you get in touch, please read [this article](https://www.sciencemag.org/careers/2015/05/dear-dr-neufeld) and [this blog post](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/) for how to email a prospective advisor. While they are targeted towards people seeking graduate degrees, the points are relevant for people interested in any type of position.
 
 ## Internships (undergrad/grad student or recent graduates)
-The KGS Applied Geohydrology Internship program will likely be recruiting **two paid interns for summer 2021**. The students will contribute to a KWRI-funded project investigating the hydrology and biogeochemistry of intermittent streams in the High Plains Aquifer and will be co-supervised by Sam and [Erin Seybold](https://www.erinseybold.com). These internships are open to students or recent graduates from any institution and will pay $15/hr for a 12-week summer research experience. Watch for an advertisement in spring 2021.
+The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) typically hires several **paid interns** each summer to contribute to a variety of ongoing projects. These internships are open to students or recent graduates from any institution and will pay $15/hr for a 12-week summer research experience. Advertisements are typically posted in January/February with a May/June start date. You can [sign up here](http://www.kgs.ku.edu/Hydro/gipIndex.html) to be notified when new positions are posted.
 
 ## Undergrads
 We often have undergraduate research opportunities spring up through various funding sources. If you are interested in gaining research experience, please [get in touch]({{< ref "/authors/samuel-c.-zipper" >}}) and we can figure out the best options regarding research projects and funding sources.
