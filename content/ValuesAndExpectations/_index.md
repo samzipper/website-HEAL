@@ -9,7 +9,7 @@ title: Lab Values, Code of Conduct, and Expectations
 
 # HEAL@KGS values
 
-HEAL@KGS is unequivocally committed to diversity, equity, and inclusion (DEI) at an individual and collective level; we are anti-racist and anti-discrimination. Our mission is to improve understanding of water resources and the societies they support, which requires respecting and working with diverse communities. Regardless of our scientific goals, working to advance DEI is also a moral imperative.
+HEAL@KGS is unequivocally committed to diversity, equity, and inclusion (DEI) at an individual and collective level; we strive to be anti-racist and anti-discrimination and are always working to improve on these fronts. Our mission is to improve understanding of water resources and the societies they support, which requires respecting and working with diverse communities. Regardless of our scientific goals, working to advance DEI is also a moral imperative.
 
 As part of [#ShutDownSTEM](https://www.shutdownstem.com/), Sam identified six specific, actionable steps he has taken or will take to advance these values:
  1. Just like scientific research, upholding our DEI goals requires a sustained investment of effort. I will integrate DEI actions into my own Individual Development Plan (IDP) and the IDPs that each lab member completes and revisits throughout their time in the group to ensure we are continually making effort and progress.
