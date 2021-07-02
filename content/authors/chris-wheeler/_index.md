@@ -5,7 +5,7 @@ bio: Ph.D. Student
 education:
   courses:
   - course: M.S. in Geosciences
-    institution: Georgia Southern University
+    institution: Georgia State University
   - course: B.S. in Geology
     institution: University of Georgia
 email: "christopher.wheeler@ku.edu"
