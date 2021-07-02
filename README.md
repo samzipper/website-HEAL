@@ -38,6 +38,7 @@ Icons:
     * Ephemeral Hydrology
     * Stream-Aquifer Interactions
     * Human-Environment Interface
+ * For publication_types: 2 = journal article, 4 = report
 
 ## Adding a new person
  * Go `content/authors`
