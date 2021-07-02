@@ -1,33 +1,25 @@
 ---
 authors:
-- kyle-compare
+- ilinca-popescu
 bio: KGS Intern
 education:
   courses:
-  - course: M.S. in Geology
-    institution: Florida State University
-  - course: B.S. in Geology
-    institution: Florida State University
-email: "kcompare@ku.edu"
+  - course: B.S. in Earth Systems Program in Land Systems Science (expected)
+    institution: Stanford University
 interests:
  []
-name: Kyle Compare
+name: Ilinca Popescu
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
 role: KGS Intern
 social:
-- icon: book
-  icon_pack: fas
-  link: https://darcyslawyer.blogspot.com/
 superuser: false
 user_groups:
-- Alums
+- Current Members
 ---
-KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2020.
+KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2021.
 
 **Project title:** Spatial variability and subsurface controls of groundwater recharge and nutrient mobilization in dry streams (funded by [Kansas Water Resources Institute](https://www.kcare.k-state.edu/kansas-water-resources-institute/)).
 
-**Favorite body of water:** St. Lucie River
-
-**Post-HEAL Position:** Ph.D. student at Florida State University
+**Favorite body of water:** Hinkson Creek, Columbia MO

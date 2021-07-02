@@ -8,10 +8,6 @@ title: Join HEAL@KGS!
 
 {{% toc %}}
 
-# Current Opportunities
-
-The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) is recruiting **two paid interns for summer 2021**. The students will contribute to a project investigating the hydrology and biogeochemistry of intermittent streams and will be co-supervised by Sam and [Erin Seybold](https://www.erinseybold.com). These internships are open to students or recent graduates from any institution and will pay $15/hr for a 12-week summer research experience. For more information and to apply, please see the posting here: [http://www.employment.ku.edu/staff/18492BR](http://www.employment.ku.edu/staff/18492BR)
-
 # Opportunities with HEAL@KGS
 
 We love working with new people and value the skills that all members of HEAL@KGS bring to the table. There are numerous ways to join the group, whether you are based in Kansas or elsewhere. Please see below for opportunities at the undergraduate, graduate, postdoc, and visiting scientist levels. 
@@ -25,7 +21,6 @@ The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.h
 We often have undergraduate research opportunities spring up through various funding sources. If you are interested in gaining research experience, please [get in touch]({{< ref "/authors/samuel-c.-zipper" >}}) and we can figure out the best options regarding research projects and funding sources.
 
 ## Graduate Students
- - There is an opening for an NSF-funded graduate student to begin Fall 2021 (see top of page).
  - I can advise students through the [KU Department of Geology](https://geo.ku.edu/) or the [KU Department of Geography and Atmospheric Science](https://geog.ku.edu/) depending on student interests and programmatic fit.I am always happy to work with students on developing proposals for external funding, such as the [NSF GRFP](http://www.nsfgrfp.org/), or internal KU fellowships, such as the [Self Fellowship](https://selfgraduate.ku.edu). If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}).
 
 ## Postdocs

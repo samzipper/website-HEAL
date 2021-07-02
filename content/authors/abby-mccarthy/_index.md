@@ -20,8 +20,12 @@ social:
   link: mailto:amccarth@students.pitzer.edu
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
-**Project title:** Past and future drivers of surface water-groundwater interactions in the Kansas River Alluvial Aquifer
+HEAL@KGS undergraduate researcher, 2020-2021.
+
+**Project title:** Time Series Analysis of Groundwater Level Change in the Kansas River Alluvial Aquifer
 
 **Favorite body of water:** Walden Pond, Concord MA
+
+**Post-HEAL Position:** M.S. student at Syracuse University
