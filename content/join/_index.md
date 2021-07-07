@@ -21,7 +21,7 @@ The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.h
 We often have undergraduate research opportunities spring up through various funding sources. If you are interested in gaining research experience, please [get in touch]({{< ref "/authors/samuel-c.-zipper" >}}) and we can figure out the best options regarding research projects and funding sources.
 
 ## Graduate Students
- - I can advise students through the [KU Department of Geology](https://geo.ku.edu/) or the [KU Department of Geography and Atmospheric Science](https://geog.ku.edu/) depending on student interests and programmatic fit.I am always happy to work with students on developing proposals for external funding, such as the [NSF GRFP](http://www.nsfgrfp.org/), or internal KU fellowships, such as the [Self Fellowship](https://selfgraduate.ku.edu). If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}).
+ - I can advise students through the [KU Department of Geology](https://geo.ku.edu/) or the [KU Department of Geography and Atmospheric Science](https://geog.ku.edu/) depending on student interests and programmatic fit.I am always happy to work with students on developing proposals for external funding, such as the [NSF GRFP](http://www.nsfgrfp.org/), [USDA Predoctoral Fellowship](https://nifa.usda.gov/funding-opportunity/agriculture-and-food-research-initiative-education-workforce-development), or internal KU fellowships, such as the [Self Fellowship](https://selfgraduate.ku.edu). If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}).
 
 ## Postdocs
  There are no currently funded postdoctoral positions open to join HEAL. I would be excited to work together to develop a mutually agreeable project and identify a suitable funding body, such as:
@@ -29,6 +29,7 @@ We often have undergraduate research opportunities spring up through various fun
  - [SESYNC Socio-Environmental Immersion Postdoctoral Fellowship Program](https://www.sesync.org/opportunities/research-fellowships-postdoctoral-fellowships/socio-environmental-immersion-1)
  - [David H. Smith Conservation Research Fellowship](https://conbio.org/mini-sites/smith-fellows) 
  - [Ford Foundation Fellowships](https://sites.nationalacademies.org/PGA/FordFellowships/index.htm)
+ - [USDA Postdoctoral Fellowship](https://nifa.usda.gov/funding-opportunity/agriculture-and-food-research-initiative-education-workforce-development)
 
 If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}).
 
