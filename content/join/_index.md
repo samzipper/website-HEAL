@@ -8,11 +8,25 @@ title: Join HEAL@KGS!
 
 {{% toc %}}
 
-# Opportunities with HEAL@KGS
+# Currently open positions
 
-We love working with new people and value the skills that all members of HEAL@KGS bring to the table. There are numerous ways to join the group, whether you are based in Kansas or elsewhere. Please see below for opportunities at the undergraduate, graduate, postdoc, and visiting scientist levels. 
+## M.S. student (start in January or summer 2022)
+I am currently searching for an M.S. student interested in applying cutting-edge hydrologic, agronomic, and data science techniques to address real-world challenges. The student will lead crop and water use modeling efforts on an [NSF-funded DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false) seeking to better understand social and environmental factors that contribute to sustinable and resilient groundwater-supported agricultural systems. Within the project, the M.S. research will help determine how crop yield and water use respond to different water and land management decisions, and work closely with other project students and scientists to connect these outcomes to water and social sustainability. [Here are more details about the project and collaborators](https://drive.google.com/file/d/1CJUS2Gad1-Ss1akuvGKRHDkcSI76l9G6/view). This position will be fully supported through a graduate research assistantship, and if the M.S. project is successful and funding permits, the student may transition into a Ph.D. position. The student will be co-supervised by [Dr. Landon Marston (Virginia Tech)](http://marstonresearchgroup.com/) and work closely with diverse KGS scientists, technical staff, and various water decision-makers in addition to the DISES project team, thus preparing the student for a variety of different career paths in academia, government, and/or industry.
 
-Before you get in touch, please read [this article](https://www.sciencemag.org/careers/2015/05/dear-dr-neufeld) and [this blog post](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/) for how to email a prospective advisor. While they are targeted towards people seeking graduate degrees, the points are relevant for people interested in any type of position.
+**Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) Experience with coding (Python, R, MATLAB, etc.) and/or modeling approaches, (iii) Proficiency in oral and written communication in English.
+**Preferred Qualifications:** (i) Demonstrated ability to work effectively in an interdisciplinary team, (ii) Experience working with geospatial data and/or GIS software; (iii) Experience working with crop models.
+**Start date:** First half of 2022 (January or May/June). 
+**To apply:** [Send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items *as a single PDF attachment*: (i) current resume/CV, and (ii) short (max 2-page) letter detailing your interest in the position and how you meet the required and preferred qualifications.
+
+## Hiring soon: postdoc and summer interns
+We will also be hiring a postdoctoral scholar (start date late 2022/early 2023) and interns (each summer) associated with the [DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false).
+ 
+ - *Postdoc:* The postdoctoral scholar will lead the development of an open source Crop-Hydrological-Agent Modeling Platform (CHAMP) that will couple together groundwater models, crop models, and agent-based models to investigate feedbacks and interactions among hydrologic, agronomic, and social systems. The postdoc and other project members will use CHAMP to evaluate factors affecting the resilience and sustainability of groundwater-dependent agriculture in Kansas and Colorado. Thus, the ideal candidate would have both strong technical skills for working with and coupling environmental models, as well as an interest in advancing social-environmental systems theory. More details on the hiring process will begin in early 2022, but feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) if you are interested.
+  - *Internships:* The first position will be posted in January/February 2022, for a summer 2022 position. You can [sign up here](http://www.kgs.ku.edu/Hydro/gipIndex.html) to be notified when the application is open and learn more about the KGS internship program.
+
+# Other opportunities with HEAL@KGS
+
+We love working with new people and value the skills that all members of HEAL@KGS bring to the table. There are numerous ways to join the group, whether you are based in Kansas or elsewhere. Before you get in touch, please read [this article](https://www.sciencemag.org/careers/2015/05/dear-dr-neufeld) and [this blog post](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/) for how to email a prospective advisor. While they are targeted towards people seeking graduate degrees, the points are relevant for people interested in any type of position.
 
 ## Internships (undergrad/grad student or recent graduates)
 The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) typically hires several **paid interns** each summer to contribute to a variety of ongoing projects. These internships are open to students or recent graduates from any institution and will pay $15/hr for a 12-week summer research experience. Advertisements are typically posted in January/February with a May/June start date. You can [sign up here](http://www.kgs.ku.edu/Hydro/gipIndex.html) to be notified when new positions are posted.
@@ -21,10 +35,10 @@ The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.h
 We often have undergraduate research opportunities spring up through various funding sources. If you are interested in gaining research experience, please [get in touch]({{< ref "/authors/samuel-c.-zipper" >}}) and we can figure out the best options regarding research projects and funding sources.
 
 ## Graduate Students
- - I can advise students through the [KU Department of Geology](https://geo.ku.edu/) or the [KU Department of Geography and Atmospheric Science](https://geog.ku.edu/) depending on student interests and programmatic fit.I am always happy to work with students on developing proposals for external funding, such as the [NSF GRFP](http://www.nsfgrfp.org/), [USDA Predoctoral Fellowship](https://nifa.usda.gov/funding-opportunity/agriculture-and-food-research-initiative-education-workforce-development), or internal KU fellowships, such as the [Self Fellowship](https://selfgraduate.ku.edu). If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}).
+I can advise students through the [KU Department of Geology](https://geo.ku.edu/) or the [KU Department of Geography and Atmospheric Science](https://geog.ku.edu/) depending on student interests and programmatic fit. I am always happy to work with students on developing proposals for external funding, such as the [NSF GRFP](http://www.nsfgrfp.org/), [USDA Predoctoral Fellowship](https://nifa.usda.gov/funding-opportunity/agriculture-and-food-research-initiative-education-workforce-development), or internal KU fellowships, such as the [Self Fellowship](https://selfgraduate.ku.edu). If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}).
 
 ## Postdocs
- There are no currently funded postdoctoral positions open to join HEAL. I would be excited to work together to develop a mutually agreeable project and identify a suitable funding body, such as:
+I will be hiring a postdoctoral scholar in late 2022/early 2023. Details will be posted in early 2022. I would be excited to work together to develop a mutually agreeable project and identify a suitable funding body, such as:
  - [NSF Earth Sciences postdoctoral fellowship (EAR-PF)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503144)
  - [SESYNC Socio-Environmental Immersion Postdoctoral Fellowship Program](https://www.sesync.org/opportunities/research-fellowships-postdoctoral-fellowships/socio-environmental-immersion-1)
  - [David H. Smith Conservation Research Fellowship](https://conbio.org/mini-sites/smith-fellows) 
