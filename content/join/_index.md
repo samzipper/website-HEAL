@@ -14,8 +14,11 @@ title: Join HEAL@KGS!
 I am currently searching for an M.S. student interested in applying cutting-edge hydrologic, agronomic, and data science techniques to address real-world challenges. The student will lead crop and water use modeling efforts on an [NSF-funded DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false) seeking to better understand social and environmental factors that contribute to sustinable and resilient groundwater-supported agricultural systems. Within the project, the M.S. research will help determine how crop yield and water use respond to different water and land management decisions, and work closely with other project students and scientists to connect these outcomes to water and social sustainability. [Here are more details about the project and collaborators](https://drive.google.com/file/d/1CJUS2Gad1-Ss1akuvGKRHDkcSI76l9G6/view). This position will be fully supported through a graduate research assistantship, and if the M.S. project is successful and funding permits, the student may transition into a Ph.D. position. The student will be co-supervised by [Dr. Landon Marston (Virginia Tech)](http://marstonresearchgroup.com/) and work closely with diverse KGS scientists, technical staff, and various water decision-makers in addition to the DISES project team, thus preparing the student for a variety of different career paths in academia, government, and/or industry.
 
 **Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) Experience with coding (Python, R, MATLAB, etc.) and/or modeling approaches, (iii) Proficiency in oral and written communication in English.
+
 **Preferred Qualifications:** (i) Demonstrated ability to work effectively in an interdisciplinary team, (ii) Experience working with geospatial data and/or GIS software; (iii) Experience working with crop models.
+
 **Start date:** First half of 2022 (January or May/June). 
+
 **To apply:** [Send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items *as a single PDF attachment*: (i) current resume/CV, and (ii) short (max 2-page) letter detailing your interest in the position and how you meet the required and preferred qualifications.
 
 ## Hiring soon: postdoc and summer interns
