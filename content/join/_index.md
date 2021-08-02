@@ -41,7 +41,7 @@ We often have undergraduate research opportunities spring up through various fun
 I can advise students through the [KU Department of Geology](https://geo.ku.edu/) or the [KU Department of Geography and Atmospheric Science](https://geog.ku.edu/) depending on student interests and programmatic fit. I am always happy to work with students on developing proposals for external funding, such as the [NSF GRFP](http://www.nsfgrfp.org/), [USDA Predoctoral Fellowship](https://nifa.usda.gov/funding-opportunity/agriculture-and-food-research-initiative-education-workforce-development), or internal KU fellowships, such as the [Self Fellowship](https://selfgraduate.ku.edu). If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}).
 
 ## Postdocs
-I will be hiring a postdoctoral scholar in late 2022/early 2023. Details will be posted in early 2022. I would be excited to work together to develop a mutually agreeable project and identify a suitable funding body, such as:
+I will be hiring a postdoctoral scholar in late 2022/early 2023. Details will be posted in early 2022. Apart from that, I am always excited to work together to develop a mutually agreeable project and identify a suitable funding body, such as:
  - [NSF Earth Sciences postdoctoral fellowship (EAR-PF)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503144)
  - [SESYNC Socio-Environmental Immersion Postdoctoral Fellowship Program](https://www.sesync.org/opportunities/research-fellowships-postdoctoral-fellowships/socio-environmental-immersion-1)
  - [David H. Smith Conservation Research Fellowship](https://conbio.org/mini-sites/smith-fellows) 
