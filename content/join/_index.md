@@ -19,7 +19,7 @@ I am currently searching for an M.S. student interested in applying cutting-edge
 
 **Start date:** First half of 2022 (January or May/June). 
 
-**To apply:** [Send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items *as a single PDF attachment*: (i) current resume/CV, and (ii) short (max 2-page) letter detailing your interest in the position and how you meet the required and preferred qualifications. Review of applications will begin on **August 15** and continue until a suitable candidate is identified.
+**To apply:** [Send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items *as a single PDF attachment*: (i) current resume/CV, and (ii) short (max 2-page) letter detailing your interest in the position and how you meet the required and preferred qualifications. Review of applications will begin on **August 23** and continue until a suitable candidate is identified.
 
 ## Hiring soon: postdoc and summer interns
 We will also be hiring a postdoctoral scholar (start date late 2022/early 2023) and interns (each summer) associated with the [DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false).
