@@ -4,7 +4,7 @@ authors:
 bio: M.S. Student
 education:
   courses:
-  - course: B.S. in Geoscience: Geology
+  - course: B.S. in Geoscience - Geology
     institution: Winona State University
 email: "loganswenson@ku.edu"
 interests:
