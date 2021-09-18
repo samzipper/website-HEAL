@@ -10,16 +10,43 @@ title: Join HEAL@KGS!
 
 # Currently open positions
 
-## M.S. student (start in January or summer 2022)
-I am currently searching for an M.S. student interested in applying cutting-edge hydrologic, agronomic, and data science techniques to address real-world challenges. The student will lead crop and water use modeling efforts on an [NSF-funded DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false) seeking to better understand social and environmental factors that contribute to sustainable and resilient groundwater-supported agricultural systems. Within the project, the M.S. research will help determine how crop yield and water use respond to different water and land management decisions, and work closely with other project students and scientists to connect these outcomes to water and social sustainability. [Here are more details about the project and collaborators](https://drive.google.com/file/d/1CJUS2Gad1-Ss1akuvGKRHDkcSI76l9G6/view). This position will be fully supported through a graduate research assistantship. If the M.S. project is successful and funding permits, the student may transition into a Ph.D. position if they are interested. The student will be co-supervised by [Dr. Landon Marston (Virginia Tech)](http://marstonresearchgroup.com/) and work closely with diverse KGS scientists, technical staff, and various water decision-makers in addition to the DISES project team, thus preparing the student for a variety of different career paths in academia, government, and/or industry.
+I am currently searching for two M.S. students for projects integrating physical and social aspects of water science. For either position, if the M.S. project is successful and funding is available, the student may transition into a Ph.D. position if they are interested. In addition to project collaborators, all students in HEAL@KGS will get the chance to work closely with diverse KGS scientists, technical staff, and various water decision-makers in addition to the DISES project team, thus preparing the student for a variety of different career paths in academia, government, and/or industry. 
 
-**Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) Experience with coding (Python, R, MATLAB, etc.) and/or modeling approaches, (iii) Proficiency in oral and written communication in English.
+Please see below for details and how to apply for each position. If you would like to apply for both positions, please submit a single file with the name *LastName_FirstName_DISES+USDA.pdf*.
+
+## Position 1: USDA M.S. student (start in summer/fall 2022)
+This position will support an M.S. student interested in developing improved water management decision support systems such as groundwater models. The student will lead groundwater modeling efforts on USDA-fnuded project seeking to better understand how groundwater model structure and results are represented, understood, and interpreted by water managers and water user decision-making, with a particular focus on the importance of uncertainty. Within the project, the M.S. research will relate uncertainty in groundwater model predictions to key management indicators such as surface and groundwater availability, and and work closely with other project students and researchers to connect these outcomes to water management and decision support. This position will be fully supported through a graduate research assistantship. The primary project collaborators are [Chloe Wardropper (Idaho)](https://chloewardropper.weebly.com/) and [Adam Zwickle (Michigan State)](https://cj.msu.edu/directory/zwickle-adam.html).
+
+**Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) Experience with MODFLOW and/or other hydrological models, (iii) Proficiency in oral and written communication in English.
+
+**Preferred Qualifications:** (i) Experience with coding (Python, R, etc.) and/or modeling approaches, (ii) Demonstrated ability to work effectively in an interdisciplinary team, (iii) Work experience related to groundwater modeling and/or water management.
+
+**Start date:** Summer/Fall 2022. 
+
+**To apply:** [Send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items *as a single PDF attachment*, with the following file name format: *LastName_FirstName_USDA.pdf*:
+ - Cover letter (max 2-page) detailing your interest in the position and how you meet the required and preferred qualifications.
+ - Current resume/CV
+ - Names/contact information for three references.
+ - Unofficial transcripts
+ 
+Applications will be reviewed beginning **October 15**. This advertisement will be removed when the position is filled.
+
+## Position 2: DISES M.S. student (start in January or summer 2022)
+This position will support an M.S. student interested in applying cutting-edge hydrologic, agronomic, and data science techniques to address real-world challenges. The student will lead crop and water use modeling efforts on an [NSF-funded DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false) seeking to better understand social and environmental factors that contribute to sustainable and resilient groundwater-supported agricultural systems. Within the project, the M.S. research will help determine how crop yield and water use respond to different water and land management decisions, and work closely with other project students and scientists to connect these outcomes to water and social sustainability. [Here are more details about the project and collaborators](https://drive.google.com/file/d/1CJUS2Gad1-Ss1akuvGKRHDkcSI76l9G6/view). This position will be fully supported through a graduate research assistantship. The student will be co-supervised by [Dr. Landon Marston (Virginia Tech)](http://marstonresearchgroup.com/).
+
+**Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) Experience with coding (Python, R, etc.) and/or modeling approaches, (iii) Proficiency in oral and written communication in English.
 
 **Preferred Qualifications:** (i) Demonstrated ability to work effectively in an interdisciplinary team, (ii) Experience working with geospatial data and/or GIS software; (iii) Experience working with crop models.
 
 **Start date:** First half of 2022 (January or May/June). 
 
-**To apply:** [Send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items *as a single PDF attachment*: (i) current resume/CV, and (ii) short (max 2-page) letter detailing your interest in the position and how you meet the required and preferred qualifications. **Applications will be reviewed as they are received.** This advertisement will be removed when the position is filled.
+**To apply:** [Send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items *as a single PDF attachment*, with the following file name format: *LastName_FirstName_DISES.pdf*:
+ - Cover letter (max 2-page) detailing your interest in the position and how you meet the required and preferred qualifications.
+ - Current resume/CV
+ - Names/contact information for three references.
+ - Unofficial transcripts
+ 
+Applications will be reviewed as they are received. This advertisement will be removed when the position is filled.
 
 ## Hiring soon: postdoc and summer interns
 We will also be hiring a postdoctoral scholar (start date late 2022/early 2023) and interns (each summer) associated with the [DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false).
