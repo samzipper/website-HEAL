@@ -29,7 +29,7 @@ This position will support an M.S. student interested in developing improved wat
  - Names/contact information for three references.
  - Unofficial transcripts
  
-Applications will be reviewed beginning **October 15**. This advertisement will be removed when the position is filled.
+Applications will be reviewed beginning **October 22**. This advertisement will be removed when the position is filled.
 
 ## Position 2: DISES M.S. student (start in January or summer 2022)
 This position will support an M.S. student interested in applying cutting-edge hydrologic, agronomic, and data science techniques to address real-world challenges. The student will lead crop and water use modeling efforts on an [NSF-funded DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false) seeking to better understand social and environmental factors that contribute to sustainable and resilient groundwater-supported agricultural systems. Within the project, the M.S. research will help determine how crop yield and water use respond to different water and land management decisions, and work closely with other project students and scientists to connect these outcomes to water and social sustainability. [Here are more details about the project and collaborators](https://drive.google.com/file/d/1CJUS2Gad1-Ss1akuvGKRHDkcSI76l9G6/view). This position will be fully supported through a graduate research assistantship. The student will be co-supervised by [Dr. Landon Marston (Virginia Tech)](http://marstonresearchgroup.com/).
