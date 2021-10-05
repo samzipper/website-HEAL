@@ -12,7 +12,7 @@ title: Join HEAL@KGS!
 
 I am currently searching for two M.S. students for projects integrating physical and social aspects of water science. For either position, if the project is successful and funding is available, the student may transition into a Ph.D. position if they are interested. In addition to project collaborators, all students in HEAL@KGS will get the chance to interact with diverse KGS scientists, technical staff, and various water decision-makers, thus preparing the student for a variety of different career paths in academia, government, and/or industry. 
 
-Please see below for details and how to apply for each position. If you would like to apply for both positions, please submit a single file with the name: *LastName_FirstName_DISES+USDA.pdf*.
+Please see below for details and how to apply for each position. If you would like to apply for both positions, please submit a single file with the name: *LastName_FirstName_DISES+USDA.pdf*. Applications will be reviewed beginning **October 22** and advertisements will be removed as positions are filled.
 
 ## Position 1: USDA M.S. student (start in summer/fall 2022)
 This position will support an M.S. student interested in developing improved water management decision support systems such as groundwater models. The student will lead groundwater modeling efforts on USDA-funded project seeking to better understand how groundwater model structure and results are represented, understood, and interpreted by water managers and water user decision-making, with a particular focus on the importance of uncertainty. Within the project, the M.S. research will relate uncertainty in groundwater model predictions to key management indicators such as surface and groundwater availability, and and work closely with other project students and researchers to connect these outcomes to water management and decision support. This position will be fully supported through a graduate research assistantship. The primary project collaborators are [Chloe Wardropper (Idaho)](https://chloewardropper.weebly.com/) and [Adam Zwickle (Michigan State)](https://cj.msu.edu/directory/zwickle-adam.html).
@@ -28,8 +28,6 @@ This position will support an M.S. student interested in developing improved wat
  - Current resume/CV
  - Names/contact information for three references.
  - Unofficial transcripts
- 
-Applications will be reviewed beginning **October 22**. This advertisement will be removed when the position is filled.
 
 ## Position 2: DISES M.S. student (start in January or summer 2022)
 This position will support an M.S. student interested in applying cutting-edge hydrologic, agronomic, and data science techniques to address real-world challenges. The student will lead crop and water use modeling efforts on an [NSF-funded DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false) seeking to better understand social and environmental factors that contribute to sustainable and resilient groundwater-supported agricultural systems. Within the project, the M.S. research will help determine how crop yield and water use respond to different water and land management decisions, and work closely with other project students and scientists to connect these outcomes to water and social sustainability. [Here are more details about the project and collaborators](https://drive.google.com/file/d/1CJUS2Gad1-Ss1akuvGKRHDkcSI76l9G6/view). This position will be fully supported through a graduate research assistantship. The student will be co-supervised by [Dr. Landon Marston (Virginia Tech)](http://marstonresearchgroup.com/).
@@ -45,8 +43,6 @@ This position will support an M.S. student interested in applying cutting-edge h
  - Current resume/CV
  - Names/contact information for three references.
  - Unofficial transcripts
- 
-Applications will be reviewed as they are received. This advertisement will be removed when the position is filled.
 
 ## Coming soon: postdoc and summer interns
 We will also be hiring a postdoctoral scholar (start date late 2022/early 2023) and interns (each summer) associated with the [DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false).
