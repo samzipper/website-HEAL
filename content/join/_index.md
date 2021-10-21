@@ -10,11 +10,21 @@ title: Join HEAL@KGS!
 
 # Currently open positions
 
-I am currently searching for two M.S. students for projects integrating physical and social aspects of water science. For either position, if the project is successful and funding is available, the student may transition into a Ph.D. position if they are interested. In addition to project collaborators, all students in HEAL@KGS will get the chance to interact with diverse KGS scientists, technical staff, and various water decision-makers, thus preparing the student for a variety of different career paths in academia, government, and/or industry. 
+I am currently searching for two M.S. students for projects integrating physical and social aspects of water science, and have an additional three positions available on an interdisciplinary project I am leading. For either position, if the project is successful and funding is available, the student may transition into a Ph.D. position if they are interested. In addition to project collaborators, all students in HEAL@KGS will get the chance to interact with diverse KGS scientists, technical staff, and various water decision-makers, thus preparing the student for a variety of different career paths in academia, government, and/or industry. 
 
-Please see below for details and how to apply for each position. If you would like to apply for both positions, please submit a single file with the name: *LastName_FirstName_DISES+USDA.pdf*. Applications will be reviewed beginning **October 22** and advertisements will be removed as positions are filled.
+Please see below for details and how to apply for each position. If you would like to apply for both positions of the positions with me (USDA and DISES), please submit a single file with the name: *LastName_FirstName_DISES+USDA.pdf*. Applications will be reviewed beginning **October 22** and advertisements will be removed as positions are filled.
 
-## Position 1: USDA M.S. student (start in summer/fall 2022)
+## Three positions on water, agriculture, and communities in the eastern Great Plains
+We are recruiting up to three graduate students (M.S. or Ph.D.) to begin in summer/fall 2022 for a new USDA-funded project investigating how agriculture, water, and communities in the eastern Great Plains can manage and adapt to future climate conditions. These students will live, study, and conduct place-based research in the Kansas River Watershed to understand potential exposure to climate risks, agricultural water and land management practices, and resulting impacts on water resources and community resilience. As part of the project, students will work closely with each other and with a group of local stakeholders, and will receive training in interdisciplinary, solutions-oriented science. 
+
+Please see the links below for specific details, qualifications, and how to apply for each position:
+ - [Climate and agriculture impacts on water quality/quantity (Supervisor: Erin Seybold, Kansas Geological Survey/University of Kansas).(http://www.erinseybold.com/current-openings.html) 
+ - [Geography and community resilience (Supervisor: Kate Nelson, Kansas State University)](https://scales-ksu-new.netlify.app/post/recruiting-new-ms-phd-student-for-fall-2022/). 
+ - [Climate change and cropping systems (Supervisor: Vaishali Sharda, Kansas State University)](https://bae.k-state.edu/docs/jobs/grad-student-job-v-sharda.pdf). 
+
+General questions about the project can be directed to [Sam Zipper]({{< ref "/authors/samuel-c.-zipper" >}}).
+
+## USDA M.S. student (start in summer/fall 2022)
 This position will support an M.S. student interested in developing improved water management decision support systems such as groundwater models. The student will lead groundwater modeling efforts on USDA-funded project seeking to better understand how groundwater model structure and results are represented, understood, and interpreted by water managers and water user decision-making, with a particular focus on the importance of uncertainty. Within the project, the M.S. research will relate uncertainty in groundwater model predictions to key management indicators such as surface and groundwater availability, and and work closely with other project students and researchers to connect these outcomes to water management and decision support. This position will be fully supported through a graduate research assistantship. The primary project collaborators are [Chloe Wardropper (Idaho)](https://chloewardropper.weebly.com/) and [Adam Zwickle (Michigan State)](https://cj.msu.edu/directory/zwickle-adam.html).
 
 **Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) Experience with MODFLOW and/or other hydrological models, (iii) Proficiency in oral and written communication in English.
@@ -29,7 +39,7 @@ This position will support an M.S. student interested in developing improved wat
  - Names/contact information for three references.
  - Unofficial transcripts
 
-## Position 2: DISES M.S. student (start in January or summer 2022)
+## DISES M.S. student (start in January or summer 2022)
 This position will support an M.S. student interested in applying cutting-edge hydrologic, agronomic, and data science techniques to address real-world challenges. The student will lead crop and water use modeling efforts on an [NSF-funded DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false) seeking to better understand social and environmental factors that contribute to sustainable and resilient groundwater-supported agricultural systems. Within the project, the M.S. research will help determine how crop yield and water use respond to different water and land management decisions, and work closely with other project students and scientists to connect these outcomes to water and social sustainability. [Here are more details about the project and collaborators](https://drive.google.com/file/d/1CJUS2Gad1-Ss1akuvGKRHDkcSI76l9G6/view). This position will be fully supported through a graduate research assistantship. The student will be co-supervised by [Dr. Landon Marston (Virginia Tech)](http://marstonresearchgroup.com/).
 
 **Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) Experience with coding (Python, R, etc.) and/or modeling approaches, (iii) Proficiency in oral and written communication in English.
