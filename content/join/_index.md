@@ -12,7 +12,7 @@ title: Join HEAL@KGS!
 
 I am currently searching for two M.S. students for projects integrating physical and social aspects of water science, and have an additional three positions available on an interdisciplinary project I am leading. For either position, if the project is successful and funding is available, the student may transition into a Ph.D. position if they are interested. In addition to project collaborators, all students in HEAL@KGS will get the chance to interact with diverse KGS scientists, technical staff, and various water decision-makers, thus preparing the student for a variety of different career paths in academia, government, and/or industry. 
 
-Please see below for details and how to apply for each position. If you would like to apply for both positions of the positions with me (USDA and DISES), please submit a single file with the name: *LastName_FirstName_DISES+USDA.pdf*. Applications will be reviewed beginning **October 22** and advertisements will be removed as positions are filled.
+Please see below for details and how to apply for each position. If you would like to apply for both positions of the positions with me (USDA and DISES), please submit a single file with the name: *LastName_FirstName_DISES+USDA.pdf*. Applications will be reviewed beginning **October 22** and advertisements will be removed as positions are filled. For interested students, [the GeoGradApp website](https://geogradapp.com/) provides lots of useful information about the process and timeline for applying to graduate school.
 
 ## Three positions on water, agriculture, and communities in the eastern Great Plains
 We are recruiting up to three graduate students (M.S. or Ph.D.) to begin in summer/fall 2022 for a new USDA-funded project investigating how agriculture, water, and communities in the eastern Great Plains can manage and adapt to future climate conditions. These students will live, study, and conduct place-based research in the Kansas River Watershed to understand potential exposure to climate risks, agricultural water and land management practices, and resulting impacts on water resources and community resilience. As part of the project, students will work closely with each other and with a group of local stakeholders, and will receive training in interdisciplinary, solutions-oriented science. 
@@ -72,6 +72,8 @@ We often have undergraduate research opportunities spring up through various fun
 
 ## Graduate Students
 I can advise students through the [KU Department of Geology](https://geo.ku.edu/) or the [KU Department of Geography and Atmospheric Science](https://geog.ku.edu/) depending on student interests and programmatic fit. I am always happy to work with students on developing proposals for external funding, such as the [NSF GRFP](http://www.nsfgrfp.org/), [USDA Predoctoral Fellowship](https://nifa.usda.gov/funding-opportunity/agriculture-and-food-research-initiative-education-workforce-development), or internal KU fellowships, such as the [Self Fellowship](https://selfgraduate.ku.edu). If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}).
+
+For more about applying to graduate school, [the GeoGradApp website](https://geogradapp.com/) provides lots of useful information about applying to graduate school.
 
 ## Postdocs
 I will be hiring a postdoctoral scholar in late 2022/early 2023. Details will be posted in early 2022. Apart from that, I am always excited to work together to develop a mutually agreeable project and identify a suitable funding body, such as:
