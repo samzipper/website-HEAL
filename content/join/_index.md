@@ -14,7 +14,7 @@ I am currently searching for two M.S. students for projects integrating physical
 
 Please see below for details and how to apply for each position. If you would like to apply for both positions of the positions with me (USDA and DISES), please submit a single file with the name: *LastName_FirstName_DISES+USDA.pdf*. I have already begun reviewing applications, and review will continue as additional applications as they are received. Advertisements will be removed from this website when positions are filled. For interested students, [the GeoGradApp website](https://geogradapp.com/) provides lots of useful information about the process and timeline for applying to graduate school.
 
-## Three positions on water, agriculture, and communities in the eastern Great Plains
+## Three positions on water, agriculture, and communities in the eastern Great Plains (start summer/fall 2022)
 We are recruiting up to three graduate students (M.S. or Ph.D.) to begin in summer/fall 2022 for a new USDA-funded project investigating how agriculture, water, and communities in the eastern Great Plains can manage and adapt to future climate conditions. These students will live, study, and conduct place-based research in the Kansas River Watershed to understand potential exposure to climate risks, agricultural water and land management practices, and resulting impacts on water resources and community resilience. As part of the project, students will work closely with each other and with a group of local stakeholders, and will receive training in interdisciplinary, solutions-oriented science. 
 
 Please see the links below for specific details, qualifications, and how to apply for each position:
