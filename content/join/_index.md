@@ -18,7 +18,7 @@ Please see below for details and how to apply for each position. If you would li
 We are recruiting up to three graduate students (M.S. or Ph.D.) to begin in summer/fall 2022 for a new USDA-funded project investigating how agriculture, water, and communities in the eastern Great Plains can manage and adapt to future climate conditions. These students will live, study, and conduct place-based research in the Kansas River Watershed to understand potential exposure to climate risks, agricultural water and land management practices, and resulting impacts on water resources and community resilience. As part of the project, students will work closely with each other and with a group of local stakeholders, and will receive training in interdisciplinary, solutions-oriented science. 
 
 Please see the links below for specific details, qualifications, and how to apply for each position:
- - [Climate and agriculture impacts on water quality/quantity (Supervisor: Erin Seybold, Kansas Geological Survey/University of Kansas).(http://www.erinseybold.com/current-openings.html) 
+ - [Climate and agriculture impacts on water quality/quantity (Supervisor: Erin Seybold, Kansas Geological Survey/University of Kansas)](http://www.erinseybold.com/current-openings.html).
  - [Geography and community resilience (Supervisor: Kate Nelson, Kansas State University)](https://scales-ksu-new.netlify.app/post/recruiting-new-ms-phd-student-for-fall-2022/). 
  - [Climate change and cropping systems (Supervisor: Vaishali Sharda, Kansas State University)](https://bae.k-state.edu/docs/jobs/grad-student-job-v-sharda.pdf). 
 
