@@ -34,7 +34,12 @@
   weight = 60
 
 [[main]]
+  name = "Consulting"
+  url = "#Consulting"
+  weight = 70
+
+[[main]]
   name = "Join HEAL"
   url = "/join"
-  weight = 70
+  weight = 80
 
