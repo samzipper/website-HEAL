@@ -60,13 +60,6 @@ I use place-based teaching as the thread binding these three principles together
  - *Ecohydrology*, University of Wisconsin (CEE619), Spring 2016. Developed new module on rainfall-runoff partitioning including student programming exercise simulating banded vegetation dynamics. Lectured on various topics in class and assisted with curriculum design.
  - *Ecohidrologia (Ecohydrology)*, Universidad Nacional de San Luis (Argentina), Spring 2015. Led student development of ecohydrological ‘bucket model’ in programming language R.
 
-**Guest Lectures**
- - Lots of streams, not much time or money? Developing & testing analytical tools for evaluating groundwater pumping impacts on streamflow. *Introduction to Watershed Systems* (GEOG 441). University of North Carolina. Virtual lecture during COVID-19.
- - Hydrogeology Field Methods. *Environmental Monitoring and Field Methods* (CE 736). University of Kansas. Virtual lecture during COVID-19.
- - Groundwater, ecosystems, and humans. *Hydrogeology* (EOS 491). University of Victoria.
- - Unsaturated flow. *Hydrogeology* (EPSC 549). McGill University.
- - Ecohydrology. *Hydrogeology* (EPSC 549), McGill University.
- - Hydraulic Properties and Aquifer Testing. *Hydrogeology* (EPSC 549). McGill University.
- - Groundwater and crop yield. *Groundwater and Water Resources* (EPSC 550), McGill University.
- - Food security and environmental sustainability. *Resources & Sustainability* (CHE 390), University of Wisconsin-Baraboo
- - Ecohydrology: Earth science at the intersection of water and life. *Introduction to Environmental Geology* (GLG 135), University of Wisconsin-Baraboo. 
+**Other Teaching Experience**
+ - Certified [Carpentries](https://carpentries.org/) Instructor since 2020. Lead instructor for Geospatial Analysis in R workshop. Helper for workshops on Introduction to R, Introduction to Git, and more.
+ - Guest lectures for courses at the University of Kansas, McGill University, University of Wisconsin-Baraboo, University of North Carolina, and University of Victoria.

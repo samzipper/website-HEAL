@@ -45,16 +45,14 @@ subtitle = "*Transparency | Accessibility | Outreach*"
  css_class = ""
 +++
 Science should be transparent and accessible to all, but [17% of scientific data 'disappears' per year](https://www.sciencedirect.com/science/article/pii/S0960982213014000) due to inadequate data archiving. We actively participate in the Open Science movement through multiple avenues:
- - **Open Software and Code:** 
+ - **Open Software, Data, and Code:** 
    - Sam's [GitHub](https://www.github.com/samzipper) including all ongoing projects.
+   - Active in the ethics of data sharing and led a collaborative effort to outline best practices for ['Balancing Open Science and Data Privacy in the Water Sciences'](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR025080).
    - [streamDepletr R package](https://cran.r-project.org/package=streamDepletr), containing tools for streamflow depletion modeling.
-   - [AgroStream](https://github.com/samzipper/AgroStream) program for scraping agricultural tweets described in [Zipper (2018)](https://dl.sciencesocieties.org/publications/aj/articles/110/1/349).
    - [High Resolution Mapping of EvapoTranspiration (HRMET)](https://github.com/samzipper/HRMET) surface energy balance model for R and MATLAB.
    - Co-curator of [CRAN Hydrology Task View](https://cran.r-project.org/web/views/Hydrology.html) synthesizing water-related R packages. Contribute via [GitHub here](https://github.com/ropensci/Hydrology/)!
- - **Sharing Data:** 
    - [Open Science Framework](https://osf.io/jx68u/) including code and data for publications.
    - [Community and institutional repositories](https://lter.limnology.wisc.edu/data?combine=&field_data_set_core_areas_target_id=All&field_data_set_ntl_themes_target_id=All&family_name=Samuel+C.+Zipper) for project-specific data.
-   - Active in the ethics of data sharing and led a collaborative effort to outline best practices for ['Balancing Open Science and Data Privacy in the Water Sciences'](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019WR025080).
  - **No Paywalls:** 
    - [Pre-prints of all manuscripts to EarthArXiv](https://osf.io/jx68u/).
    - Publish in open-access venues when funding permits.
@@ -63,13 +61,9 @@ Science should be transparent and accessible to all, but [17% of scientific data
    - Using [colorblind-friendly palettes](https://sashat.me/2017/01/11/list-of-20-simple-distinct-colors/) on slides and figures
    - Formatting [manuscripts](https://osf.io/jx68u/) for text-to-voice compatibility.
  - **Outreach:** 
+   - Certified [Carpentries](https://carpentries.org/) Instructor and have taught several workshops.
    - Blogger for AGU/EGU [Water Underground](https://blogs.agu.org/waterunderground/) blog.
    - Actively [engaged on scientific Twitter](https://www.twitter.com/ZipperSam).
    - Run the [AGU Ecohydrology Technical Committee social media accounts](https://twitter.com/AGUecohydro).
-   - Community outreach events in person and online, such as [Skype A Scientist](https://www.skypeascientist.com/).
- - **Skill-sharing:** 
-   - Co-organizer of AGU [Coding Help Desk](https://github.com/sheilasaia/agu-2019-coding-help-desk) in Student Center since 2018 (with [Sheila Saia](https://github.com/sheilasaia/agu-2019-coding-help-desk)).
-   - Trying to write up random methods and techniques and share - for example, here's a [post about plotting your Google Scholar data]({{< ref "/post/2020-02-04-kick-google-scholar-up-a-notch.html" >}}).
-   - Recently completed [Carpentries](https://carpentries.org/) Instructor Training, will hopefully help teach a workshop soon!
 
 What more can I do? I am always looking for ways to improve... Tweet [@ZipperSam](https://www.twitter.com/ZipperSam) with ideas!
