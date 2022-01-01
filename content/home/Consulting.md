@@ -54,5 +54,6 @@ Past work has ranged from a handful of hours to multi-year collaborative project
  - data collection and analysis
  - modeling and data science
  - scientific and technical writing
+ - instruction and training
 
 If you could benefit from any of these services, please [**send me an email**](mailto:samuelczipper@gmail.com) and I'm happy to develop a scope of work that meets your needs and budget.
