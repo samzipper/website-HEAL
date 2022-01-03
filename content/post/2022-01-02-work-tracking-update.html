@@ -1,0 +1,80 @@
+---
+title: "What did I do in 2021?"
+subtitle: "Tracking my work and non-work time."
+author: "Sam Zipper"
+date: 2022-01-02
+output: 
+  html_document:
+    toc: true
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<div id="what-is-this" class="section level1">
+<h1>What is this?</h1>
+<p>I started tracking my work activities in 2019 to make sure I wasn’t overworking myself and to better understand how I spent my time. <a href="https://www.samzipper.com/post/2021-01-02_how-much-do-i-work/">A year ago, I analyzed my work activities for 2019 and 2020</a> and found that I tended to work ~40-45 hrs in an average week, which seems reasonable, but I would often spend an hour or two working over the weekend, which I didn’t like. Additionally, the amount of time I spent on research activities was decreasing, paired with an increase in logistics (stuff like checking emails, doing project management, etc.).</p>
+<p>Based on the 2019-2020 data, I set two goals:</p>
+<ol style="list-style-type: decimal">
+<li>Take at least one day per weekend with 0 work hours (preferably both).</li>
+<li>Reduce the amount of time spent on logistics.</li>
+</ol>
+<p>With another year of data, I can we see whether I’ve been able to meet these goals, and look at two questions: how much do I work, and what do I do when I’m working?</p>
+<p>For those interested, here’s the raw data for <a href="https://docs.google.com/spreadsheets/d/1O4tB-IDLZUqP1I2ECJ9JnBOEDbQEoOwNLbbcBjrV4Tk/edit?usp=sharing">2019</a>, <a href="https://docs.google.com/spreadsheets/d/1I4kUeZEEtup1e7Wd3PSqfBpaHyK6ntcL18Dz2zYSCfs/edit?usp=sharing">2020</a>, and <a href="https://docs.google.com/spreadsheets/d/1cE-u8IsB96H01Y-3G3_JeL8AugWl2oJEPOJDEMtraj0/edit?usp=sharing">2021</a>. If you want to try this yourself, feel free to copy the spreadsheet and track your own hours - I just keep it open as a pinned tab and try to fill it a couple times a day. <a href="https://github.com/samzipper/SelfAnalysis/blob/master/WorkTimeAnalysis_CollectData.R">Here is a script that can scrape the data from Google Sheets into a CSV file</a>, and <a href="https://github.com/samzipper/SelfAnalysis/blob/master/WorkTimeAnalysis_Post-20220102.Rmd">here is the code for this blog post</a>.</p>
+</div>
+<div id="how-much-do-i-work" class="section level1">
+<h1>How much do I work?</h1>
+<p>In 2021, my hour count remained pretty consistent with past years, fluctuating around 40-45 hrs with occasional spikes associated with field work and/or conferences:</p>
+<p><img src="/post/2022-01-02-work-tracking-update_files/figure-html/unnamed-chunk-2-1.png" width="576" /></p>
+<p>The dip in mid-2020 is a period of partial parental leave (I extended my leave by working part-time, rather than taking one large chunk). In total, I worked 1980.5 hours in 2021, compared to 1838 hours in 2020 and 2070 hours in 2019. This translated to a median weekly hour count of 40.75 hours in 2021 (2020 = 40.5 hrs, 2019 = 43 hrs).</p>
+<p>My goals mostly focused on my daily work. While I never worked long days on weekends, I would often check my email during kid naptime, and I wanted to avoid this so I would have more days with 0 hours worked. This, overall, was successful:</p>
+<p><img src="/post/2022-01-02-work-tracking-update_files/figure-html/unnamed-chunk-3-1.png" width="576" /></p>
+<p>We can see that, in 2021, there are far more days with 0 hours (65 days in 2021, compared to 73 in 2019 and 2020 combined). In the histograms, we can see that this is compensated for with fewer days with 0.5 - 1 hours worked. Most of this increase was the result of a deliberate effort to not check my email on at least one of the two weekend days:</p>
+<p><img src="/post/2022-01-02-work-tracking-update_files/figure-html/unnamed-chunk-4-1.png" width="576" /></p>
+<p>There are a lot more gray bars in 2021 compared to past years! This had the additional benefit of reducing the maximum consecutive days I worked (27 days in 2021, down from 61 in the prior two years) and an increase the maximum number of consecutive days off (9 days, up from 5 days in the two years prior).</p>
+</div>
+<div id="what-do-i-do-when-im-working" class="section level1">
+<h1>What do I do when I’m working?</h1>
+<p>As a reminder, my six categories of work are:</p>
+<ul>
+<li><code>talking</code> = things that involved other people… meetings, seminars, zoom calls, etc.</li>
+<li><code>logistics</code> = stuff that is generally unimportant (but sometimes necessary). emails, expense reports, etc.</li>
+<li><code>research</code> = what pays the bills - writing, making presentations, data analysis, reading papers, etc.</li>
+<li><code>field</code> = field work, which in last year’s posted I lumped into the <code>research</code> category but here have separated out.</li>
+<li><code>conference</code> = anything at a conference/workshop. I define it broadly so it includes going out for meals with colleagues, etc. - basically, any time I am in the presence of other people.</li>
+<li><code>service</code> = journal or grant reviews, committees, open science stuff, etc.</li>
+<li><code>mentees</code> = talking to or working with someone who I am mentoring such as a postdoc or student.</li>
+</ul>
+<p>Looking at the breakdown of activity for each year:</p>
+<p><img src="/post/2022-01-02-work-tracking-update_files/figure-html/unnamed-chunk-6-1.png" width="576" /></p>
+<p>There was a dramatic increase in <code>field</code> in 2021, which I attribute to the start of our NSF AIMS project that requires lots of time outdoors. There has also been a general increase in <code>logistics</code> and <code>mentees</code> at the expense of <code>research</code> (note: I didn’t start logging <code>mentees</code> as a separate category until April 2020 so 2021 is the first full year of data there). <code>Service</code> is generally a tricky category because much of it (for example, the DEIB committee, etc.) is in the form of meetings so gets lumped into the <code>talking</code> category. <code>Talking</code> was remarkable consistent from year to year, despite the fact that I felt like I had more meetings than ever in 2021, so maybe that just indicates my meeting tolerance has decreased.</p>
+<p>Across all of 2021, my time breaks down as:</p>
+<ul>
+<li><code>logistics</code> = 30.4%</li>
+<li><code>research</code> = 21.4%</li>
+<li><code>talking</code> = 15.9%</li>
+<li><code>field</code> = 14.3%</li>
+<li><code>mentees</code> = 11%</li>
+<li><code>service</code> = 4.1%</li>
+<li><code>conference</code> = 3%</li>
+</ul>
+<p><img src="/post/2022-01-02-work-tracking-update_files/figure-html/unnamed-chunk-7-1.png" width="768" /></p>
+<p>While some of these are pretty consistent, the trend in <code>research</code> is even more noticeable here. There is a significant (p&lt;1e-5) trend of -0.13 percentage points per week, which comes out to ~-7 percentage points over the course of a year. Some of this is driven by an increase in field work compared to previous years - in 2021 I conducted field work on 34 days, compared to 18 days in 2020 and 0 days in 2019. There was also a slight, but not significant, positive trend in <code>logistics</code> of 0.03 percentage points per week.</p>
+</div>
+<div id="how-about-evening-work" class="section level1">
+<h1>How about evening work?</h1>
+<p>During the last couple months of the year, I felt like I regressed into working periodically in the evenings, in part because my wife was working evenings so I didn’t have anything to do after the kids were in bed. Here, I define the “evening” as anything after 5 PM, and exclude the <code>field</code>, <code>conference</code>, and <code>travel</code> categories since those are when I am away from home.</p>
+<p><img src="/post/2022-01-02-work-tracking-update_files/figure-html/unnamed-chunk-10-1.png" width="576" /></p>
+<p>This suggests that my ability to resist to evening work ebbs and flows, with more hours in the spring and fall and fewer hours over the summer. In November, it approached 20 hours (40 half-hours), which averages about an hour per workday. December was low because I was at a conference for a week and on holiday for over a week. The large majority of this time is spent on <code>logistics</code>, the most boring category.</p>
+</div>
+<div id="whats-next-for-2022" class="section level1">
+<h1>What’s next for 2022?</h1>
+<p>In 2021, I met one of my goals but not the other. I was happy that my plan to not work at least 1 day per weekend was a success, and led to a substantial increase in the number of 0-hour work days I had during the year. However, I wasn’t able to decrease the amount of time spent on <code>logistics</code>, which in fact has a slight (non-significant) upward slope.</p>
+<p>For 2022, my goals are:</p>
+<ul>
+<li>Stem the significant downward trend in <code>research</code> time. My 2022 target is to stabilize at an average no lower than 25%, which I will do by reserving the first couple hours of each day for research before getting in to other stuff.</li>
+<li>My evening work is creeping upwards and needs to be stemmed. The 2022 target is to maintain an evening work level of no more than 10 hours/month.</li>
+<li>Reduce the number of <code>field</code> days. I love field work, but 34 days is too many since field work typically involves longer hours and strains our family’s childcare schedule. I’m aiming for a max of 24 total days (2/month) next year.</li>
+</ul>
+<p>Results forthcoming in a year!</p>
+</div>
