@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Consulting Services"
-subtitle = "*science and solutions with value*"
+subtitle = "*science, solutions, value*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -44,11 +44,13 @@ subtitle = "*science and solutions with value*"
  # CSS class.
  css_class = ""
 +++
-I've contributed to numerous projects as a consultant, working with diverse groups including [The Nature Conservancy](https://www.nature.org/), [Foundry Spatial](https://foundryspatial.com/), [Dairy Management Inc.](https://www.usdairy.com/about-us/dmi), and the [Soil Health Institute](https://soilhealthinstitute.org/). 
 
-As an independent freelancer, I provide exceptional value to your project since my overhead costs are effectively zero - all you pay for is the time I spend doing science for you. 
 
-Past work has ranged from a handful of hours to multi-year collaborative projects. My services include:
+I work as a consultant on projects ranging from a handful of hours to multi-year collaborative projects. As an independent freelancer, I provide exceptional value to your project since my overhead costs are effectively zero - all you pay for is the time I spend doing science for you. 
+
+I've contributed to numerous projects, working with diverse groups including [The Nature Conservancy](https://www.nature.org/), [Foundry Spatial](https://foundryspatial.com/), [Dairy Management Inc.](https://www.usdairy.com/about-us/dmi), and the [Soil Health Institute](https://soilhealthinstitute.org/). 
+
+My services include:
  - strategic planning and fundraising
  - project design
  - data collection and analysis
