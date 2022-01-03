@@ -46,8 +46,13 @@ Icons:
  * Name their picture `avatar.png`
  * Edit `_index.md`
 
-## New post
- * Try copying the 2020-02-04... post's .Rmd file, knitting to html locally, then pushing to GitHub?
+## New post from Rmarkdown
+ * Copy the .Rmd for a recent post, for example "2022-01-02-work-tracking-update.Rmd"
+ * Write your post and make sure you are happy with everything.
+ * Knit the file in Rstudio. This will make a .html file in the posts folder and store all the image files in the static folder.
+	* The html file will have a weird header - that's OK.
+ * Commit and push the changes to the web
+ * Netlify should automatically render it. The URL will be https://www.samzipper.com/post/name_of_post/
 
 ## Update Hugo and Academic Theme
  * Make copy of website repository in case something breaks.
