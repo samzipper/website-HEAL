@@ -8,57 +8,17 @@ title: Join HEAL@KGS!
 
 {{% toc %}}
 
-# Currently open positions
+# Currently open positions and/or coming soon
 
-I am currently searching for two M.S. students for projects integrating physical and social aspects of water science, and there are an additional three positions available on an interdisciplinary project I am leading. For either position, if the project is successful and funding is available, the student may transition into a Ph.D. position if they are interested. In addition to project collaborators, all students in HEAL@KGS will get the chance to interact with diverse KGS scientists, technical staff, and various water decision-makers, thus preparing the student for a variety of different career paths in academia, government, and/or industry. 
+**The KU Geology Department's graduate application deadline has passed for Fall 2022. I am no longer considering new applicants.** 
 
-Please see below for details and how to apply for each position. If you would like to apply for both positions of the positions with me (USDA and DISES), please submit a single file with the name: *LastName_FirstName_DISES+USDA.pdf*. I have already begun reviewing applications, and review will continue as additional applications as they are received. For interested students, [the GeoGradApp website](https://geogradapp.com/) provides lots of useful information about the process and timeline for applying to graduate school.
+There are several anticipated openings in the near future:
 
-## Three positions on water, agriculture, and communities in the eastern Great Plains (start summer/fall 2022)
-We are recruiting up to three graduate students (M.S. or Ph.D.) to begin in summer/fall 2022 for a new USDA-funded project investigating how agriculture, water, and communities in the eastern Great Plains can manage and adapt to future climate conditions. These students will live, study, and conduct place-based research in the Kansas River Watershed to understand potential exposure to climate risks, agricultural water and land management practices, and resulting impacts on water resources and community resilience. As part of the project, students will work closely with each other and with a group of local stakeholders, and will receive training in interdisciplinary, solutions-oriented science. 
+ - *Summer interns:* We anticipate hiring 3-5 interns this summer for the [KGS Geohydrology Internship Program]((http://www.kgs.ku.edu/Hydro/gipIndex.html) to contribute to several existing projects. These positions are open to current undergrad/grad students and recent graduates.
+ - *Postdoc, starting late 2022/early 2023*: The [DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false) will be hiring a postdoctoral scholar to lead the development of an open source Crop-Hydrological-Agent Modeling Platform (CHAMP) that will couple together groundwater models, crop models, and agent-based models to investigate feedbacks and interactions among hydrologic, agronomic, and social systems. The postdoc and other project members will use CHAMP to evaluate factors affecting the resilience and sustainability of groundwater-dependent agriculture in Kansas and Colorado. Thus, the ideal candidate would have both strong technical skills for working with and coupling environmental models, as well as an interest in advancing social-environmental systems theory. 
+ - *Postdoc, starting mid/late 2023:* We will also need a postdoctoral scholar for a new USDA-funded project investigating how agriculture, water, and communities in the eastern Great Plains can manage and adapt to future climate conditions. These students will live, study, and conduct place-based research in the Kansas River Watershed to understand potential exposure to climate risks, agricultural water and land management practices, and resulting impacts on water resources and community resilience. As part of the project, students will work closely with each other and with a group of local stakeholders, and will receive training in interdisciplinary, solutions-oriented science.
 
-Please see the links below for specific details, qualifications, and how to apply for each position:
- - [Climate and agriculture impacts on water quality/quantity (Supervisor: Erin Seybold, Kansas Geological Survey/University of Kansas)](http://www.erinseybold.com/current-openings.html).
- - [Geography and community resilience (Supervisor: Kate Nelson, Kansas State University)](https://scales-ksu-new.netlify.app/post/recruiting-new-ms-phd-student-for-fall-2022/). 
- - [Climate change and cropping systems (Supervisor: Vaishali Sharda, Kansas State University)](https://bae.k-state.edu/docs/jobs/grad-student-job-v-sharda.pdf). 
-
-General questions about the project can be directed to [Sam Zipper]({{< ref "/authors/samuel-c.-zipper" >}}).
-
-## USDA M.S. student (start in summer/fall 2022)
-This position will support an M.S. student interested in developing improved water management decision support systems such as groundwater models. The student will lead groundwater modeling efforts on USDA-funded project seeking to better understand how groundwater model structure and results are represented, understood, and interpreted by water managers and water user decision-making, with a particular focus on the importance of uncertainty. Within the project, the M.S. research will relate uncertainty in groundwater model predictions to key management indicators such as surface and groundwater availability, and and work closely with other project students and researchers to connect these outcomes to water management and decision support. This position will be fully supported through a graduate research assistantship. The primary project collaborators are [Chloe Wardropper (Idaho)](https://chloewardropper.weebly.com/) and [Adam Zwickle (Michigan State)](https://cj.msu.edu/directory/zwickle-adam.html).
-
-**Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) Experience with MODFLOW and/or other hydrological models, (iii) Proficiency in oral and written communication in English.
-
-**Preferred Qualifications:** (i) Experience with coding (Python, R, etc.) and/or modeling approaches, (ii) Demonstrated ability to work effectively in an interdisciplinary team, (iii) Work experience related to groundwater modeling and/or water management.
-
-**Start date:** Summer/Fall 2022. 
-
-**To apply:** [Send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items *as a single PDF attachment*, with the following file name format: *LastName_FirstName_USDA.pdf*:
- - Cover letter (max 2-page) detailing your interest in the position and how you meet the required and preferred qualifications.
- - Current resume/CV
- - Names/contact information for three references.
- - Unofficial transcripts
-
-## DISES M.S. student (start in January or summer 2022)
-This position will support an M.S. student interested in applying cutting-edge hydrologic, agronomic, and data science techniques to address real-world challenges. The student will lead crop and water use modeling efforts on an [NSF-funded DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false) seeking to better understand social and environmental factors that contribute to sustainable and resilient groundwater-supported agricultural systems. Within the project, the M.S. research will help determine how crop yield and water use respond to different water and land management decisions, and work closely with other project students and scientists to connect these outcomes to water and social sustainability. [Here are more details about the project and collaborators](https://drive.google.com/file/d/1CJUS2Gad1-Ss1akuvGKRHDkcSI76l9G6/view). This position will be fully supported through a graduate research assistantship. The student will be co-supervised by [Dr. Landon Marston (Virginia Tech)](http://marstonresearchgroup.com/).
-
-**Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) Experience with coding (Python, R, etc.) and/or modeling approaches, (iii) Proficiency in oral and written communication in English.
-
-**Preferred Qualifications:** (i) Demonstrated ability to work effectively in an interdisciplinary team, (ii) Experience working with geospatial data and/or GIS software; (iii) Experience working with crop models.
-
-**Start date:** First half of 2022 (January or May/June). 
-
-**To apply:** [Send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with the following items *as a single PDF attachment*, with the following file name format: *LastName_FirstName_DISES.pdf*:
- - Cover letter (max 2-page) detailing your interest in the position and how you meet the required and preferred qualifications.
- - Current resume/CV
- - Names/contact information for three references.
- - Unofficial transcripts
-
-## Coming soon: postdoc and summer interns
-We will also be hiring a postdoctoral scholar (start date late 2022/early 2023) and interns (each summer) associated with the [DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false).
- 
- - *Postdoc:* The postdoctoral scholar will lead the development of an open source Crop-Hydrological-Agent Modeling Platform (CHAMP) that will couple together groundwater models, crop models, and agent-based models to investigate feedbacks and interactions among hydrologic, agronomic, and social systems. The postdoc and other project members will use CHAMP to evaluate factors affecting the resilience and sustainability of groundwater-dependent agriculture in Kansas and Colorado. Thus, the ideal candidate would have both strong technical skills for working with and coupling environmental models, as well as an interest in advancing social-environmental systems theory. More details on the hiring process will be available in late 2021/early 2022, but feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) if you are interested.
-  - *Internships:* The first position will be posted in January/February 2022, for a summer 2022 position. You can [sign up here](http://www.kgs.ku.edu/Hydro/gipIndex.html) to be notified when the application is open and learn more about the KGS internship program.
+Details will be posted to this page when these positions are open, but feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) if you are interested.
 
 # Other opportunities with HEAL@KGS
 
