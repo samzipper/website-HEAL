@@ -31,8 +31,12 @@ social:
   link: doc/Glose_CV.pdf
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
+HEAL@KGS postdoctoral researcher, 2019-2021.
+
 **Project title:** Groundwater sustainability pathways for the High Plains Aquifer
 
 **Favorite body of water:** Lake George
+
+**Post-HEAL Position:** Postdoctoral researcher with [Jim Butler](https://www.kgs.ku.edu/General/Personnel/abc/butler.html) and [Franek Hasiuk](https://www.kgs.ku.edu/General/Personnel/ghj/hasiuk.html) at the KGS.

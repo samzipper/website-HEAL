@@ -10,11 +10,12 @@ title: Join HEAL@KGS!
 
 # Currently open positions and/or coming soon
 
-**The KU Geology Department's graduate application deadline has passed for Fall 2022. I am no longer considering new applicants.** 
+The KU Geology Department's graduate application deadline has passed for Fall 2022. I am no longer considering new applicants.
+
+We currently have openings for **3-5 paid summer interns** as part of the [KGS Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) to contribute to several existing projects, including investigating water quantity and quality in intermittent streams; evaluating irrigation management strategies to promote groundwater sustainability; and characterizing the drivers of water availability and water quality in the Kansas River corridor. These positions are open to current undergrad/grad students and recent graduates. Please see the [Geohydrology Internship Program web site](http://www.kgs.ku.edu/Hydro/gipIndex.html) for more information and a link to the application portal.
 
 There are several anticipated openings in the near future:
 
- - *Summer interns:* We anticipate hiring 3-5 interns this summer for the [KGS Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) to contribute to several existing projects. These positions are open to current undergrad/grad students and recent graduates.
  - *Postdoc, starting late 2022/early 2023*: The [DISES project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false) will be hiring a postdoctoral scholar to lead the development of an open source Crop-Hydrological-Agent Modeling Platform (CHAMP) that will couple together groundwater models, crop models, and agent-based models to investigate feedbacks and interactions among hydrologic, agronomic, and social systems. The postdoc and other project members will use CHAMP to evaluate factors affecting the resilience and sustainability of groundwater-dependent agriculture in Kansas and Colorado. Thus, the ideal candidate would have both strong technical skills for working with and coupling environmental models, as well as an interest in advancing social-environmental systems theory. 
  - *Postdoc, starting mid/late 2023:* We will also need a postdoctoral scholar for a new USDA-funded project investigating how agriculture, water, and communities in the eastern Great Plains can manage and adapt to future climate conditions. These students will live, study, and conduct place-based research in the Kansas River Watershed to understand potential exposure to climate risks, agricultural water and land management practices, and resulting impacts on water resources and community resilience. As part of the project, students will work closely with each other and with a group of local stakeholders, and will receive training in interdisciplinary, solutions-oriented science.
 

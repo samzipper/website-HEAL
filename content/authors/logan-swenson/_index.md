@@ -1,7 +1,7 @@
 ---
 authors:
 - logan-swenson
-bio: M.S. Student
+bio: Ph.D. Student
 education:
   courses:
   - course: B.S. in Geoscience - Geology
@@ -13,7 +13,7 @@ name: Logan Swenson
 organizations:
 - name: Department of Geology, University of Kansas
   url: "https://geo.ku.edu/"
-role: M.S. Student
+role: Ph.D. Student
 social:
 - icon: envelope
   icon_pack: fas
