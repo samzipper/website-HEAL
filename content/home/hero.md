@@ -54,4 +54,4 @@ hero_media = ""
 
 **How do water and land management decisions impact the people, economy, and environment of the Great Plains?**
 
-hydrogeology | ecohydrology | socio-environmental synthesis
+ecohydrology | hydrogeology | human-water interactions
