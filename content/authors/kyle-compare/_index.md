@@ -22,9 +22,10 @@ social:
   link: https://darcyslawyer.blogspot.com/
 superuser: false
 user_groups:
-- Alums
+- Current Members
 ---
-KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2020.
+ - HydroInformatics Intern, April 2022 - current.
+ - [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2020.
 
 **Project title:** Spatial variability and subsurface controls of groundwater recharge and nutrient mobilization in dry streams (funded by [Kansas Water Resources Institute](https://www.kcare.k-state.edu/kansas-water-resources-institute/)).
 
