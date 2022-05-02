@@ -1,13 +1,13 @@
 ---
-title: "Characterizing Streamflow Intermittency and Subsurface Heterogeneity in the Middle Arkansas River Basin"
-date: 2021-05-13
-publishDate: 2021-05-13T03:02:52.635048Z
-authors: ["Kyle Compare", "Samuel C. Zipper", "Chi Zhang", "Erin Seybold"]
+title: "Identifying Regime Shifts in the Arkansas River Near Larned, Kansas"
+date: 2022-04-29
+publishDate: 2022-04-29T03:02:52.635048Z
+authors: ["Ilinca Popescu", "Sam Zipper", "Erin Seybold"]
 publication_types: ["4"]
-abstract: "Non-perennial streams are widespread but understudied relative to their perennial counterparts. In this study, we investigated the flow and intermittency regimes for the Arkansas River near Larned using historical streamflow, groundwater level, and climate data. We found that the river shifted between a dry regime (characterized by no flow apart from rapid responses to precipitation events) and wet regime (with near-continuous flow) several times over the past two decades. Wet and dry regimes were associated with wetter and drier than average climate conditions at the annual time scale but were not as responsive to seasonal (three-month) climate conditions. The alluvial aquifer exhibits a rapid, flashy response to precipitation, but longer-term (annual) climate appears to sustain groundwater levels in the alluvial aquifer, with  wet regimes occurring when alluvial aquifer water levels rise above the streambed elevation. We sought to explore the relationship between aquifer dynamics and surface water intermittency by investigating subsurface heterogeneity. To investigate the subsurface, we conducted electrical resistivity tomography (ERT) surveys and compared ERT results to forward modeling of different subsurface hydrostratigraphic configurations. We found the best agreement between ERT and forward models for a conceptual model that included interbedded silt lenses in the alluvial aquifer, which agrees with past work, though there was substantial uncertainty in the ERT surveys due to the coarse and dry streambank sediment. Furthermore, the ERT profiles did not reach sufficient depth to characterize the confining layer separating the alluvial aquifer from the underlying High Plains aquifer, so potential exchange between these two units remains uncertain."
+abstract: "Characterizing the drivers of flow in non-perennial streams is increasingly important for understanding the effects of variable flow regimes on local communities and ecosystems. Regime shift theory has been used to explain changes in other hydrologic systems, but the theory as it applies to non-perennial streams has yet to be fully explored. Here, we use the Arkansas River basin near Larned, Kansas, to determine whether changes between flow and no-flow conditions can be described using a regime shift framework. We combined hydrological, meteorological, and ecological time series data to test for the presence of statistical hints commonly associated with regime shifting systems and used a sequential t-test analysis of regime shifts (STARS) algorithm to test for regime shifts in the time series of weekly and monthly no-flow days. Although flow data exhibited hints such as critical slowing down and asymmetry of flow rates, evidence for increased variance and autocorrelation was weak. STARS identified at least five shifts between dry (predominantly no-flow conditions), intermediate (alternating flowing and no-flow conditions), and wet (predominantly flowing conditions) regimes in the river between 1998 and 2021. The intermediate regime appears to be a transitory phase between the stable wet and dry regimes observed at Larned. Regime shifts at the site are likely driven by a complex interaction between climate, pumping, and stream-aquifer interactions."
 featured: true
-publication: "*KGS Open-File Report 2021-1*"
+publication: "*KGS Open-File Report 2022-4*"
 tags: ["Stream-Aquifer Interactions", "Ephemeral Hydrology"]
-url_pdf: "http://www.kgs.ku.edu/Publications/OFR/2021/OFR2021-1.pdf"
+url_pdf: "https://www.kgs.ku.edu/Publications/OFR/2022/OFR2022-4/index.html"
 ---
 
