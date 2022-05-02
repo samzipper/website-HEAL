@@ -8,6 +8,6 @@ abstract: "Characterizing the drivers of flow in non-perennial streams is increa
 featured: true
 publication: "*KGS Open-File Report 2022-4*"
 tags: ["Stream-Aquifer Interactions", "Ephemeral Hydrology"]
-url_pdf: "https://www.kgs.ku.edu/Publications/OFR/2022/OFR2022-4/index.html"
+url_pdf: "https://www.kgs.ku.edu/Publications/OFR/2022/OFR2022-4/OFR2022-4.pdf"
 ---
 
