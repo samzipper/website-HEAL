@@ -22,6 +22,8 @@ superuser: false
 user_groups:
 - Current Members
 ---
+**PhD student, 2021 - present**
+
 **Project title:** Groundwater-surface water interactions in intermittent streams as part of NSF-funded [Aquatic Intermittency Effects on Microbiomes in Streams (AIMS) project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019603&HistoricalAwards=false). 
 
 **Favorite body of water:** Whitewater River, Minnesota

@@ -17,6 +17,15 @@ organizations:
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
 role: KGS Intern
 social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/kylecontrast
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.ca/citations?user=N2xt7v4AAAAJ&hl=en&oi=ao
+- icon: github
+  icon_pack: fab
+  link: https://github.com/kylecomp
 - icon: book
   icon_pack: fas
   link: https://darcyslawyer.blogspot.com/
@@ -24,10 +33,12 @@ superuser: false
 user_groups:
 - Current Members
 ---
- - HydroInformatics Intern, April 2022 - current.
- - [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2020.
+**
+ - CUAHSI HydroInformatics Intern, April 2022 - current.
+ - [KGS Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2020.
+**
 
-**Project title:** Spatial variability and subsurface controls of groundwater recharge and nutrient mobilization in dry streams (funded by [Kansas Water Resources Institute](https://www.kcare.k-state.edu/kansas-water-resources-institute/)).
+**Project title:** Characterizing streamflow intermittency and subsurface heterogeneity in the Middle Arkansas River Basin (funded by [Kansas Water Resources Institute](https://www.kcare.k-state.edu/kansas-water-resources-institute/)).
 
 **Favorite body of water:** St. Lucie River
 

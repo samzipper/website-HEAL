@@ -33,7 +33,7 @@ superuser: false
 user_groups:
 - Alums
 ---
-HEAL@KGS postdoctoral researcher, 2019-2021.
+**Postdoctoral researcher, 2019-2021.**
 
 **Project title:** Groundwater sustainability pathways for the High Plains Aquifer
 
