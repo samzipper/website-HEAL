@@ -17,7 +17,7 @@ role: KGS Intern
 social:
 - icon: envelope
   icon_pack: fas
-  link: agrinstead@ku.edu
+  link: mailto:agrinstead@ku.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/ashleygrinstead
