@@ -4,7 +4,7 @@ authors:
 bio: Ph.D. Student
 education:
   courses:
-  - course: M.S. in Geology
+  - course: M.S. in Hydrogeology
     institution: Illinois State University
   - course: M.Phil. in Geology
     institution: University of Ghana
