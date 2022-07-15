@@ -33,7 +33,7 @@ Icons:
     * For the PDF, if not available online put a link into the `static/PDFs` folder.
     * If it should be on the main page, set `featured: true` (most recent 4 papers will be shown)
 	* use "Samuel C. Zipper" for my name in index.md since that is linked to my author profile.
- * Add a tag for which core research area it is part of. Options: ["Water and Agriculture", "Land Use/Land Cover Change", "Ephemeral Hydrology", "Stream-Aquifer Interactions", "Human-Environmental Interface"]
+ * Add a tag for which core research area it is part of. Options: ["Water and Agriculture", "Land Use/Land Cover Change", "Ephemeral Hydrology", "Stream-Aquifer Interactions", "Human-Environment Interface"]
  * For publication_types: 2 = journal article, 4 = report
 
 ## Adding a new person
