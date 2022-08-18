@@ -4,9 +4,9 @@ authors:
 bio: M.S. Student
 education:
   courses:
-  - course: B.A. in Geosciences and B.A. in 
+  - course: B.A. in Geosciences
     institution: Smith College
-  - course: B.a. in Statistical and Data Sciences
+  - course: B.A. in Statistical and Data Sciences
     institution: Smith College
 email: "wndlovu@ku.edu"
 interests:
