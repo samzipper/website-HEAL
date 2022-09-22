@@ -16,13 +16,7 @@ This M.S. student will contribute to a NASA-funded effort to develop better with
 
 **Preferred Qualifications:** (i) Experience with crop models such as AquaCrop-OS, (ii) experience with version control software such as git, (iii) demonstrated ability to work effectively in an interdisciplinary team, (iv) experience working with agricultural and/or water management communities.
 
-**To apply:** [Send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with a single PDF attachment with the name *LastName_FirstName_NASA.pdf* that includes:
-
- - Cover letter (max 2 pages) detailing why you are interested in the position and how you meet the required and preferred qualifications.
- - CV detailing relevant education, experience, and products.
- - Contact information (name, relationship to you, and email address) for 3 professional references.
- 
-Apply by **October 15** for full consideration. A short-list of candidates will be contacted for follow-up interview. For interested students, [the GeoGradApp website](https://geogradapp.com/) provides lots of useful information about the process and timeline for applying to graduate school.
+**To apply:** [Please fill out this form as an expression of interest](https://docs.google.com/forms/d/e/1FAIpQLSepKruN5WOGsErjctCnzh2TzBLF4dutH--IiSRth673vlofAg/viewform) (google account required). Apply by **October 15** for full consideration. A short-list of candidates will be contacted for follow-up interview. For interested students, [the GeoGradApp website](https://geogradapp.com/) provides lots of useful information about the process and timeline for applying to graduate school.
 
 # Coming soon
 
