@@ -8,13 +8,28 @@ title: Join HEAL@KGS!
 
 {{% toc %}}
 
-# Currently open positions and/or coming soon
+# Currently open positions
 
-The KU Geology Department's graduate application deadline has passed for Fall 2022. I am no longer considering new applicants for Fall 2022. 
+**M.S. student, 2 years NASA funding, starting August 2023:** This graduate student will contribute to a NASA-funded effort to develop better within-season yield and water use forecasting tools. The position will involve data assimilation of near-real-time evapotranspiration data into crop models to improve subseasonal forecast skill, and work with agricultural producers and organizations to better understand water use decision heuristics. The project will focus on regions within Kansas, Colorado, and Nebraska. 
+
+**Start date:** Summer/Fall 2022. 
+
+**Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) experience with coding, preferably in python, and (iii) proficiency in oral and written communication in English.
+
+**Preferred Qualifications:** (i) Experience with crop models such as AquaCrop-OS, (ii) experience with version control software such as git, (iii) demonstrated ability to work effectively in an interdisciplinary team, (iv) experience working with agricultural and/or water management communities.
+
+**To apply:** [Send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) with a single PDF attachment with the name *LastName_FirstName_NASA.pdf* that includes:
+
+ - Cover letter (max 2 pages) detailing why you are interested in the position and how you meet the required and preferred qualifications.
+ - CV detailing relevant education, experience, and products.
+ - Contact information (name, relationship to you, and email address) for 3 professional references.
+ 
+Apply by **October 15** for full consideration. A short-list of candidates will be contacted for follow-up interview. For interested students, [the GeoGradApp website](https://geogradapp.com/) provides lots of useful information about the process and timeline for applying to graduate school.
+
+# Coming soon
 
 I anticipate offering the following positions in the near-term:
 
- - *M.S. student, 2 years NASA funding, starting August 2023:* This graduate student will contribute to a NASA-funded effort to develop better within-season yield and water use forecasting tools. The position will involve data assimilation of near-real-time evapotranspiration data into crop models to improve subseasonal forecast skill, and work with agricultural producers and organizations to better understand water use decision heuristics. The project will focus on regions within Kansas, Colorado, and Nebraska. **This position will be posted here in October/November 2022.**
  - *Postdoc, 3 years USDA funding, starting mid/late 2023:* We will also need a postdoctoral scholar for a new USDA-funded project investigating how agriculture, water, and communities in the eastern Great Plains can manage and adapt to future climate conditions. These students will live, study, and conduct place-based research in the Kansas River Watershed to understand potential exposure to climate risks, agricultural water and land management practices, and resulting impacts on water resources and community resilience. As part of the project, students will work closely with each other and with a group of local stakeholders, and will receive training in interdisciplinary, solutions-oriented science. **This position will be posted here in late 2022/early 2023.**
  - *Interns, variety of projects, summer 2023:* The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) typically hires several paid interns each summer to contribute to a variety of ongoing projects. These internships are open to students or recent graduates from any institution and will pay $15/hr for a 12-week summer research experience. **Positions are typically posted in January/February** with a May/June start date. You can [sign up here](http://www.kgs.ku.edu/Hydro/gipIndex.html) to be notified when new positions are posted.
 
