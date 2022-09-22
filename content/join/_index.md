@@ -8,11 +8,9 @@ title: Join HEAL@KGS!
 
 {{% toc %}}
 
-# Currently open positions
+# Currently open position: M.S. position (2 years funding) starting August 2023
 
-**M.S. student, 2 years NASA funding, starting August 2023:** This graduate student will contribute to a NASA-funded effort to develop better within-season yield and water use forecasting tools. The position will involve data assimilation of near-real-time evapotranspiration data into crop models to improve subseasonal forecast skill, and work with agricultural producers and organizations to better understand water use decision heuristics. The project will focus on regions within Kansas, Colorado, and Nebraska. 
-
-**Start date:** Summer/Fall 2022. 
+This M.S. student will contribute to a NASA-funded effort to develop better within-season yield and water use forecasting tools. The position will involve data assimilation of near-real-time evapotranspiration data into crop models to improve subseasonal forecast skill, and work with agricultural producers and organizations to better understand water use decision heuristics. The project will focus on northwestern Kansas with potential connections to Colorado and Nebraska. 
 
 **Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) experience with coding, preferably in python, and (iii) proficiency in oral and written communication in English.
 

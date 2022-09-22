@@ -33,3 +33,5 @@ user_groups:
 **Project title:** Toward resilient and adaptive community-driven management of groundwater dependent agricultural systems (funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false)).
 
 **Favorite body of water:** Lake Tenaya
+
+**Post-HEAL Position:** Intern in [NASA DEVELOP program](https://appliedsciences.nasa.gov/what-we-do/capacity-building/develop).
