@@ -8,16 +8,6 @@ title: Join HEAL@KGS!
 
 {{% toc %}}
 
-# Currently open position: M.S. position (2 years funding) starting August 2023
-
-This M.S. student will contribute to a NASA-funded effort to develop better within-season yield and water use forecasting tools. The position will involve data assimilation of near-real-time evapotranspiration data into crop models to improve subseasonal forecast skill, and work with agricultural producers and organizations to better understand water use decision heuristics. The project will focus on northwestern Kansas with potential connections to Colorado and Nebraska. 
-
-**Required Qualifications:** (i) Bachelor’s degree in a water-related science or engineering discipline, (ii) experience with coding, preferably in python, and (iii) proficiency in oral and written communication in English.
-
-**Preferred Qualifications:** (i) Experience with crop models such as AquaCrop-OS, (ii) experience with version control software such as git, (iii) demonstrated ability to work effectively in an interdisciplinary team, (iv) experience working with agricultural and/or water management communities.
-
-**To apply:** [Please fill out this form as an expression of interest](https://docs.google.com/forms/d/e/1FAIpQLSepKruN5WOGsErjctCnzh2TzBLF4dutH--IiSRth673vlofAg/viewform) (google account required). Apply by **October 15** for full consideration. A short-list of candidates will be contacted for follow-up interview. For interested students, [the GeoGradApp website](https://geogradapp.com/) provides lots of useful information about the process and timeline for applying to graduate school.
-
 # Coming soon
 
 I anticipate offering the following positions in the near-term:
