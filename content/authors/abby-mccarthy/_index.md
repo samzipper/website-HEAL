@@ -22,7 +22,7 @@ superuser: false
 user_groups:
 - Alums
 ---
-HEAL@KGS undergraduate researcher, 2020-2021.
+**Undergraduate researcher, 2020-2021.**
 
 **Project title:** Time Series Analysis of Groundwater Level Change in the Kansas River Alluvial Aquifer
 

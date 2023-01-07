@@ -16,10 +16,10 @@ role: KGS Intern
 social:
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
-KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2021.
+**[KGS Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2021.**
 
-**Project title:** Spatial variability and subsurface controls of groundwater recharge and nutrient mobilization in dry streams (funded by [Kansas Water Resources Institute](https://www.kcare.k-state.edu/kansas-water-resources-institute/)).
+**Project title:** Identifying regime shifts in the Arkansas River near Larned, Kansas (funded by [Kansas Water Resources Institute](https://www.kcare.k-state.edu/kansas-water-resources-institute/)).
 
 **Favorite body of water:** Hinkson Creek, Columbia MO

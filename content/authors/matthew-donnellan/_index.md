@@ -18,7 +18,7 @@ superuser: false
 user_groups:
 - Alums
 ---
-KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2021.
+**[KGS Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2021.**
 
 **Project title:** Roving scientist, specializing in piezometers for intermittent streams.
 

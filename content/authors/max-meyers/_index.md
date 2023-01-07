@@ -4,7 +4,7 @@ authors:
 bio: 
 education:
   courses:
-  - course: B.A. in Geology and Environmental Earth Sciences (2019)
+  - course: B.A. in Geology and Environmental Earth Sciences
     institution: Pitzer College
 email: ""
 interests:
@@ -20,7 +20,7 @@ superuser: false
 user_groups:
 - Alums
 ---
-HEAL@KGS undergraduate researcher, 2018-2019.
+**Undergraduate researcher, 2018-2019.**
 
 Bachelors thesis co-supervised with [Linda Reinen](https://www.pomona.edu/directory/people/linda-reinen) and [Eric Grosfils](https://research.pomona.edu/eric-grosfils/).
 

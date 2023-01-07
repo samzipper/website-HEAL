@@ -4,7 +4,7 @@ authors:
 bio: 
 education:
   courses:
-  - course: M.Sc. in Social-Ecological Resilience for Sustainable Development (in progress)
+  - course: M.Sc. in Social-Ecological Resilience for Sustainable Development
     institution: Stockholm Resilience Centre, University of Stockholm
   - course: M.Sc. in Biological Sciences
     institution: Universidad de los Andes, Bogotá-Colombia
