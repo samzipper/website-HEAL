@@ -31,10 +31,10 @@ social:
   link: https://darcyslawyer.blogspot.com/
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
 **
- - CUAHSI HydroInformatics Intern, April 2022 - current.
+ - CUAHSI HydroInformatics Intern, April 2022 - December 2022.
  - [KGS Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2020.
 **
 
