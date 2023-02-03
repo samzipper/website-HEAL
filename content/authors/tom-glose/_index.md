@@ -1,7 +1,7 @@
 ---
 authors:
 - tom-glose
-bio: Postdoc in HEAL.
+bio: Postdoctoral Scholar
 education:
   courses:
   - course: PhD in Geology
