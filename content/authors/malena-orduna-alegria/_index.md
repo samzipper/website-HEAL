@@ -34,7 +34,7 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Maria-Elena-Orduna-Alegria
-  - icon: cv
+- icon: cv
   icon_pack: ai
   link: doc/Malena_CV.pdf
 superuser: false
