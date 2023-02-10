@@ -8,14 +8,14 @@ title: Join HEAL@KGS!
 
 {{% toc %}}
 
-# Coming soon
+# Now hiring
 
-I anticipate offering the following positions in the near-term:
+Two open positions available:
 
- - *Postdoc, 3 years USDA funding, starting mid/late 2023:* We will also need a postdoctoral scholar for a new USDA-funded project investigating how agriculture, water, and communities in the eastern Great Plains can manage and adapt to future climate conditions. These students will live, study, and conduct place-based research in the Kansas River Watershed to understand potential exposure to climate risks, agricultural water and land management practices, and resulting impacts on water resources and community resilience. As part of the project, students will work closely with each other and with a group of local stakeholders, and will receive training in interdisciplinary, solutions-oriented science. **This position will be posted here in late 2022/early 2023.**
- - *Interns, variety of projects, summer 2023:* The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) typically hires several paid interns each summer to contribute to a variety of ongoing projects. These internships are open to students or recent graduates from any institution and will pay $15/hr for a 12-week summer research experience. **Positions are typically posted in January/February** with a May/June start date. You can [sign up here](http://www.kgs.ku.edu/Hydro/gipIndex.html) to be notified when new positions are posted.
+ - *Postdoc starting mid/late 2023:* We will also need a postdoctoral scholar for a new USDA-funded project investigating how agriculture, water, and communities in the eastern Great Plains can manage and adapt to future climate conditions. These students will live, study, and conduct place-based research in the Kansas River Watershed to understand potential exposure to climate risks, agricultural water and land management practices, and resulting impacts on water resources and community resilience. As part of the project, students will work closely with each other and with a group of local stakeholders, and will receive training in interdisciplinary, solutions-oriented science. **[Click here for details and to apply](http://www.employment.ku.edu/staff/24327BR).**
+ - *Interns, variety of projects, summer 2023:* The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) typically hires several paid interns each summer to contribute to a variety of ongoing projects. **[Click here for details and to apply](http://www.employment.ku.edu/staff/24185BR).**
 
-Details will be posted to this page when these positions are open, but feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) if you are interested.
+Details will be posted to this page when positions are open, but feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) if you are interested.
 
 # Other opportunities with HEAL@KGS
 
