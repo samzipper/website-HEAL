@@ -17,7 +17,7 @@ name: Malena Orduna Alegria
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
-role: M.S. Student
+role: Postdoctoral Scholar
 social:
 - icon: envelope
   icon_pack: fas
