@@ -52,7 +52,9 @@ I've had the privilege to teach at the high school, undergraduate, and graduate 
 I use place-based teaching as the thread binding these three principles together. By using local examples, experiential field education, and real-world data, students build upon their sense of place to make connections between new material and their existing knowledge.
 
 **Courses Taught**
- - *Sustainable Water Resources*, University of Victoria (CIVE340), Fall 2018. Instructor for core undergraduate water resource engineering course. Leading all lectures, in-class activities, homework assignments, and exams. Selected evaluation results (n=48):
+ - *Hydrologic Data Visualization*, Universidade Federal de Mato Grosso do Sul, Programa de Pós-Graduação em Tecnologias Ambientais, March 2023. Invited instructor of weeklong graduate intensive course. Developed and led course including lectures, assignments, and assessment. Enrollment = 10 students.
+ - *Advanced Interdisciplinary Water Science: CUAHSI Virtual University*, University of Kansas Department of Geology (GEOL791), Fall 2022. Instructor for graduate-level hydrology course at KU as part of [CUAHSI Virtual University](https://www.cuahsi.org/virtual-university) program. Administered 3-credit graduate course, including developing and leading 4-week module on Hydrologic Data Visualization taught to students at all participating universities. KU course enrollment = 11 students. Module enrollment = 27 students.
+ - *Sustainable Water Resources*, University of Victoria Department of Civil Engineering (CIVE340), Fall 2018. Instructor for core undergraduate water resource engineering course. Leading all lectures, in-class activities, homework assignments, and exams. Selected evaluation results (n=48):
 	- 'Overall, the instructor was effective in this course': 60% Excellent, 35% Good.
 	- 'As a result of this course, my interest in the material...': 63% Increased.
 
