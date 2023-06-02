@@ -4,8 +4,10 @@ authors:
 bio: Visiting Scholar
 education:
   courses:
+  - course: Ph.D. student in Hydraulics and River Dynamics
+    institution: Hohai University (China)
   - course: M.S. in Geochemistry
-    institution: University of Chinese Academy of Sciences
+    institution: University of Chinese Academy of Sciences (China)
   - course: B.S. in Hydrology and Water Resources Engineering
     institution: Lanzhou University (China)
 email: "xl.yuan.isl@outlook.com"
