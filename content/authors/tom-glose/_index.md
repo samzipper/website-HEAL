@@ -39,4 +39,4 @@ user_groups:
 
 **Favorite body of water:** Lake George
 
-**Post-HEAL Position:** Postdoctoral researcher with [Jim Butler](https://www.kgs.ku.edu/General/Personnel/abc/butler.html) and [Franek Hasiuk](https://www.kgs.ku.edu/General/Personnel/ghj/hasiuk.html) at the KGS.
+**Post-HEAL Position:** Hydrogeologist at [LRE Water](https://lrewater.com/).
