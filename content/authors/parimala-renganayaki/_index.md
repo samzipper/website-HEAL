@@ -36,3 +36,5 @@ Current position: Associate Professor, Vellore Institute of Technology (VIT), Ve
 **Project title:** Comparing agricultural impoundments and playas in western Kansas
 
 **Favorite body of water:** Punganoor Lake, Yelagiri, Tamil Nadu, India
+
+**Latest:** Shifting of pumping wells during River Bank Filtration near Check Dam across Non-Perennial River, Fuzzy based irrigation water quality analysis, Hydrogeochemical Characteristics and Seawater Intrusion in Coastal Parts of Southwest India, Multi-collinearity Based Parameter Optimization and Comparison among Multi-criteria Decision Analysis to Map Groundwater Potential Zones
