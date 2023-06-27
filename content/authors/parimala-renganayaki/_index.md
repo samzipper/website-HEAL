@@ -5,9 +5,9 @@ bio: Visiting Scholar
 education:
   courses:
   - course: Ph.D. in Civil Engineering
-    institution: Anna University (China)
+    institution: Anna University (India)
   - course: M.E. in Water Resources Management
-    institution: Annamalai University(India)
+    institution: Annamalai University (India)
   - course: B.E. in Civil Engineering
     institution: SRM Engineering College (India)
 email: "parimala.renganayaki@vit.ac.in"
