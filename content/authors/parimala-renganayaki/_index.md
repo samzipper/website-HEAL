@@ -31,6 +31,8 @@ user_groups:
 ---
 **Visiting Scholar, June-July 2023**
 
+Current position: Associate Professor, Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India
+
 **Project title:** Comparing agricultural impoundments and playas in western Kansas
 
 **Favorite body of water:** Punganoor Lake, Yelagiri, Tamil Nadu, India
