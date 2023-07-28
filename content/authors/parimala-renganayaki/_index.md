@@ -27,7 +27,7 @@ social:
   link: https://scholar.google.com/citations?user=wEhQVhcAAAAJ&hl=en
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
 **Visiting Scholar, June-July 2023**
 

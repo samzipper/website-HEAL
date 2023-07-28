@@ -8,6 +8,7 @@ abstract: "Rivers that do not flow year-round are the predominant type of runnin
 featured: false
 publication: "*BioScience*"
 tags: ["Ephemeral Hydrology", "Human-Environment Interface"]
+url_pdf: "PDFs/DatryEtAl-2023-ArtificialFlowIntermittence.pdf"
 doi: "10.1093/biosci/biac098"
 ---
 
