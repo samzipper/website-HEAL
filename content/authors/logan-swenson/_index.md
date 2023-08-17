@@ -24,6 +24,6 @@ user_groups:
 ---
 **PhD student, 2021 - present**
 
-**Project title:** Groundwater-surface water interactions in intermittent streams as part of NSF-funded [Aquatic Intermittency Effects on Microbiomes in Streams (AIMS) project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019603&HistoricalAwards=false). 
+**Dissertation title:** Linking Models of Stream-Aquifer Interactions to Decision-making under Global Change (funding from NSF, USDA, KWRI). 
 
 **Favorite body of water:** Whitewater River, Minnesota
