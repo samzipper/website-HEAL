@@ -12,10 +12,10 @@ title: Join HEAL@KGS!
 
 Two open positions available:
 
- - *Postdoc starting mid/late 2023:* We will also need a postdoctoral scholar for a new USDA-funded project investigating how agriculture, water, and communities in the eastern Great Plains can manage and adapt to future climate conditions. These students will live, study, and conduct place-based research in the Kansas River Watershed to understand potential exposure to climate risks, agricultural water and land management practices, and resulting impacts on water resources and community resilience. As part of the project, students will work closely with each other and with a group of local stakeholders, and will receive training in interdisciplinary, solutions-oriented science. **[Click here for details and to apply](http://www.employment.ku.edu/staff/24327BR).**
- - *Interns, variety of projects, summer 2023:* The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) typically hires several paid interns each summer to contribute to a variety of ongoing projects. **[Click here for details and to apply](http://www.employment.ku.edu/staff/24185BR).**
+ - *Postdoc starting mid/late 2024:* I will be seeking a postdoctoral scholar to contribute to a project on soil health and hydrology beginning sometime in mid/late 2024. This scholar will lead a field-based soil hydrology research in a large, multi-institution, academic-industry collaborative project. Details will be posted here when available, but please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) if you are interested in knowing more.
+ - *Interns, variety of projects, summer 2024:* The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) typically hires several paid interns each summer to contribute to a variety of ongoing projects. Positions will be posted at the linked page above in early 2024.
 
-Details will be posted to this page when positions are open, but feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) if you are interested.
+Details will be posted to this page when positions are open, but feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) if you are interested in hearing what may be in the pipeline.
 
 # Other opportunities with HEAL@KGS
 
