@@ -9,14 +9,11 @@ name: Angie Brownrabbit
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
-role: Data Analyst
+role: Project Coordinator
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ian.gambill@ku.edu
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ian-gambill/
+  link: mailto:angiebabbit@ku.edu
 superuser: false
 user_groups:
 - Current Members
