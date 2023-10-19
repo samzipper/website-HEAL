@@ -1,7 +1,7 @@
 ---
 authors:
 - ian-gambill
-bio: KGS Intern
+bio: Data Analyst
 education:
   courses:
   - course: M.S. in Hydrology
@@ -15,7 +15,7 @@ name: Ian Gambill
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
-role: KGS Intern
+role: Data Analyst
 social:
 - icon: envelope
   icon_pack: fas
