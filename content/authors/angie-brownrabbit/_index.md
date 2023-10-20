@@ -2,6 +2,12 @@
 authors:
 - angie-brownrabbit
 bio: Project Coordinator
+education:
+  courses:
+  - course: M.S. in Biology
+    institution: Emporia State University
+  - course: B.S. in Environmental Studies
+    institution: University of Kansas
 email: "angiebabbit@ku.edu"
 interests:
  []
@@ -14,10 +20,20 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:angiebabbit@ku.edu
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/BrownrabbitPress/
+- icon: flickr
+  icon_pack: fab
+  link: https://www.flickr.com/photos/flower_alice/
 superuser: false
 user_groups:
 - Current Members
 ---
 **Project Coordinator, 2022 - present**
 
+Angie is a kayaker, printmaker and weaver, and her background is in prairie conservation and restoration.
+
 **Project title:** [SAFE KAW](https://safekaw-ku.hub.arcgis.com/) and [Aquatic Intermittency Effects on Microbiomes in Streams (AIMS)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019603&HistoricalAwards=false). 
+
+**Favorite body of water:** Rio Chama, New Mexicosam
