@@ -36,4 +36,4 @@ Angie is a kayaker, printmaker and weaver, and her background is in prairie cons
 
 **Project title:** [SAFE KAW](https://safekaw-ku.hub.arcgis.com/) and [Aquatic Intermittency Effects on Microbiomes in Streams (AIMS)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019603&HistoricalAwards=false). 
 
-**Favorite body of water:** Rio Chama, New Mexicosam
+**Favorite body of water:** Rio Chama, New Mexico
