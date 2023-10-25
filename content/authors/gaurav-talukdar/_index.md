@@ -17,7 +17,7 @@ name: Gaurav Talukdar
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
-role: Project Coordinator
+role: Postdoctoral Scholar
 social:
 - icon: envelope
   icon_pack: fas
