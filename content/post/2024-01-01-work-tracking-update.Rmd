@@ -2,7 +2,7 @@
 title: "What did I do in 2023?"
 subtitle: "Tracking my work and non-work time."
 author: "Sam Zipper"
-date: 2024-01-01
+date: 2023-12-29
 output: 
   html_document:
     toc: true
@@ -254,7 +254,7 @@ ggplot(weekly_hrs, aes(x = week_start_date, y = hours_worked)) +
   scale_fill_viridis_d(guide = "none")
 ```
 
-After account for time off by dividing total hours worked over number of work days, I've had a slight increase to `r round(daily_hrs_yr$work_hrs.day[daily_hrs_yr$Year == 2023], 1)` in 2023, up from `r round(daily_hrs_yr$work_hrs.day[daily_hrs_yr$Year == 2022], 1)` hours in 2022 but still down from my peak of `r round(daily_hrs_yr$work_hrs.day[daily_hrs_yr$Year == 2019], 1)` when I started tracking in 2019:
+After accounting for time off by dividing total hours worked over number of work days, I've had a slight increase to `r round(daily_hrs_yr$work_hrs.day[daily_hrs_yr$Year == 2023], 1)` in 2023, up from `r round(daily_hrs_yr$work_hrs.day[daily_hrs_yr$Year == 2022], 1)` hours in 2022 but still down from my peak of `r round(daily_hrs_yr$work_hrs.day[daily_hrs_yr$Year == 2019], 1)` when I started tracking in 2019:
 
 ```{r, echo=FALSE, fig.width=4, fig.height=4} 
 ggplot(daily_hrs_yr, aes(x = Year, y = work_hrs.day)) +
