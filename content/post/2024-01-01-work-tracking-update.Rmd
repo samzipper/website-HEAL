@@ -211,13 +211,11 @@ evening_work_days <-
   group_by(Year) |> 
   summarize(weeks_le_1 = 52-sum(n_days >  1))
 
-
-
 ```
 
 # What is this?
 
-This is the fourth edition of my time tracking analysis, adding in the 2023 calendar years. Past versions include:
+This is the fourth edition of my time tracking analysis, adding in the 2023 calendar year. Past versions include:
 
  - [2019-2020 initial analysis](https://www.samzipper.com/post/2021-01-02_how-much-do-i-work/)
  - [2019-2021 follow-up](https://www.samzipper.com/post/2022-01-02-work-tracking-update/)
@@ -232,7 +230,7 @@ Targets for 2023 included:
     - Average 20% time research
     - <= 1 day/month field work.
 
-The hours are tracked in a [simple google sheet](https://docs.google.com/spreadsheets/d/14ob3Ncsa_6ttzFWDB2FSn-NEEeSbKFZ2E7-P2qkWL48/edit#gid=244257672) at 30 min resolution and divided into a few simple categories:
+I track the hours in a [simple google sheet](https://docs.google.com/spreadsheets/d/14ob3Ncsa_6ttzFWDB2FSn-NEEeSbKFZ2E7-P2qkWL48/edit#gid=244257672) at 30 min resolution and divided into a few simple categories:
 
  - `talking` = things that involved other people... meetings, seminars, zoom calls, etc.
  - `logistics` = stuff that is generally unimportant (but sometimes necessary). emails, expense reports, etc.
