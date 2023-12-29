@@ -233,6 +233,7 @@ Targets for 2023 included:
     - <= 1 day/month field work.
 
 The hours are tracked in a [simple google sheet](https://docs.google.com/spreadsheets/d/14ob3Ncsa_6ttzFWDB2FSn-NEEeSbKFZ2E7-P2qkWL48/edit#gid=244257672) at 30 min resolution and divided into a few simple categories:
+
  - `talking` = things that involved other people... meetings, seminars, zoom calls, etc.
  - `logistics` = stuff that is generally unimportant (but sometimes necessary). emails, expense reports, etc.
  - `research` = writing proposals or papers, making presentations, data analysis, reading papers, etc.
@@ -266,16 +267,6 @@ ggplot(daily_hrs_yr, aes(x = Year, y = work_hrs.day)) +
   scale_fill_viridis_d(guide = "none")
 ```
 
-```{r, echo=FALSE, fig.width=6, fig.height=8}
-ggplot(daily_hrs, aes(x = Day, y = week_start_date, fill = hours_worked_cut)) +
-  geom_raster() +
-  scale_x_discrete(expand = c(0, 0)) +
-  scale_y_datetime(name = "Week", expand = c(0, 0), limits = date_limits) +
-  scale_fill_manual(name = "Daily Hours Worked",
-                    values = c("gray65", "#ffffb2", "#fecc5c", "#fd8d3c", "#e31a1c")) +
-  theme(legend.position = "bottom")
-```
-
 # Key goals/indicators
 
 ## 1. No work on days off
@@ -291,7 +282,7 @@ ggplot(yearly_no_work, aes(x = Year, y = no_work_days_yr)) +
 ```
 
 
-Looking weekly, this means there was at least one day completely off in `r yearly_no_work$weeks_gt_0[yearly_no_work$Year == 2023]` weeks. Since there are only 52 weeks in the year, minimal improvement is possible here, but I can aim for more weeks with at least two days completely off (i.e., both weekend days) - in 2023, I only had `r yearly_no_work$weeks_gt_1[yearly_no_work$Year == 2023]` weeks where I took two days off. This would require shifting my week planning from it's current timeslot (Sunday after lunch) to the end of the prior week (Friday afternoon). 
+Looking weekly, this means there was at least one day completely off in `r yearly_no_work$weeks_gt_0[yearly_no_work$Year == 2023]` weeks. Since there are only 52 weeks in the year, minimal improvement is possible here, but I can aim for more weeks with at least two days completely off (i.e., both weekend days) - in 2023, I only had `r yearly_no_work$weeks_gt_1[yearly_no_work$Year == 2023]` weeks where I took two days off. 
 
 ```{r, echo=FALSE, fig.width=8, fig.height=4} 
 p_weeksoff1d <-
@@ -312,9 +303,21 @@ p_weeksoff1d + p_weeksoff2d +
   plot_layout(nrow = 1)
 ```
 
+My full Saturdays off have been fairly consistent the past couple years, along with a short (< 2 hrs) bit of work on Sundays. Increasing the number of weeks with 2 full days off would require shifting my week planning from it's current timeslot (Sunday after lunch) to the end of the prior week (Friday afternoon). 
+
+```{r, echo=FALSE, fig.width=6, fig.height=8}
+ggplot(daily_hrs, aes(x = Day, y = week_start_date, fill = hours_worked_cut)) +
+  geom_tile() +
+  scale_x_discrete(expand = c(0, 0)) +
+  scale_y_datetime(name = "Week", expand = c(0, 0), limits = date_limits) +
+  scale_fill_manual(name = "Daily Hours Worked",
+                    values = c("gray65", "#ffffb2", "#fecc5c", "#fd8d3c", "#e31a1c")) +
+  theme(legend.position = "bottom")
+```
+
 ## 2. Do more research and less logistics
 
-In 2023, I worked basically the exact same number of hours as 2022 (`r sum(work_by_year$Time_hrs[work_by_year$Year == 2023])` hours), with basically flat percent of my time allocated to logistics + talking (just over half, at `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2023 & work_by_year$Activity %in% c("logistics", "talking")]), 1)`%). However, my percent time for research did jump from `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2022 & work_by_year$Activity == "research"]), 1)`% in 2022 to `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2023 & work_by_year$Activity == "research"]), 1)`% in 2023, with a smaller jump for mentees (`r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2022 & work_by_year$Activity == "mentees"]), 1)`% to `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2023 & work_by_year$Activity == "mentees"]), 1)`%). These increases were compensated for by minor decreases in field work, service, and teaching. So, trending in the right direction.
+In 2023, I worked basically the exact same number of hours as 2022 (`r sum(work_by_year$Time_hrs[work_by_year$Year == 2023])` hours), with basically flat percent of my time allocated to logistics + talking (just over half, at `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2023 & work_by_year$Activity %in% c("logistics", "talking")]), 1)`%). However, my percent time for research did jump from `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2022 & work_by_year$Activity == "research"]), 1)`% in 2022 to `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2023 & work_by_year$Activity == "research"]), 1)`% in 2023, with a smaller jump for mentees (`r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2022 & work_by_year$Activity == "mentees"]), 1)`% to `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2023 & work_by_year$Activity == "mentees"]), 1)`%). 
 
 ```{r, echo=FALSE, fig.width=6, fig.height=4}
 all_work |> 
@@ -326,15 +329,17 @@ all_work |>
   scale_fill_manual(values = pal_activity)
 ```
 
+These increases were compensated for by minor decreases in field work, service, and teaching. So, trending in the right direction, though the overall number of hours spent on logistics remains fairly sticky across the entire period of record, and decreases in total hours worked and shifts in time allocation tends to come at the expense of other activities.
 
 ```{r, echo=FALSE, fig.width=4, fig.height=10}
 work_by_year %>% 
-  mutate(Activity_factor = factor(Activity, levels = levels(work_by_week$Activity))) %>% 
+  mutate(Activity_factor = factor(Activity, levels = rev(levels(work_by_week$Activity)))) %>% 
   ggplot(aes(x = Activity_factor, y = Time_hrs, fill = Activity)) +
   geom_col() +
   facet_wrap(~Year, ncol = 1, scales = "free_x") +
   scale_y_continuous(name = "Hours") +
-  scale_fill_manual(values = pal_activity, guide = F) +
+  scale_x_discrete(name = "Activity") +
+  scale_fill_manual(values = pal_activity, guide = "none") +
   theme(axis.text.x = element_text(angle = 25, hjust = 1, vjust = 1))
 ```
 
@@ -364,7 +369,7 @@ ggplot(evening_work_days, aes(x = Year, y = weeks_le_1)) +
   scale_fill_viridis_d(guide = "none")
 ```
 
-## 4. Maximum 24 total field work days. 
+## 4. Maximum 12 total field work days. 
 
 ```{r, include=FALSE}
 n_field_days_yr <-
@@ -384,13 +389,13 @@ ggplot(n_field_days_yr, aes(x = Year, y = n_field_days)) +
   geom_col(fill = "black") +
   scale_y_continuous(name = "Number of days with field work",
                      expand = expansion(mult = c(0, 0.05))) +
-  geom_hline(yintercept = 24, color = col.gray)
+  geom_hline(yintercept = 12, color = col.gray)
 ```
 
 # Any updates for 2024?
 
-Most goals will remain the same:
+My 2024 goals are focused on maintaining and continued progress along most of these dimensions:
 
   - Maintain 1/day week with no work and increase number of weeks with at least 2 days/week with no work.
-  - Maximum of 1 day/week with evening work
+  - Maximum of 1 day/week with evening work.
   - Maintain research time at least 15% with target of 20%.
