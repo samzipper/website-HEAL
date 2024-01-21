@@ -34,4 +34,4 @@ user_groups:
 
 **Favorite body of water:** Lake Tenaya
 
-**Post-HEAL Position:** Intern in [NASA DEVELOP program](https://appliedsciences.nasa.gov/what-we-do/capacity-building/develop).
+**Post-HEAL Position:** Intern in [NASA DEVELOP program](https://appliedsciences.nasa.gov/what-we-do/capacity-building/develop); M.S. student, University of Connecticut.

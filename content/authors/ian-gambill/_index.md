@@ -27,8 +27,11 @@ superuser: false
 user_groups:
 - Current Members
 ---
-**Intern, 2023 - present**
+**Intern, Summer/Fall 2023; Data Analyst, 2023 - present.**
 
-**Project title:** Groundwater modeling in the Konza Prairie stream network as part of NSF-funded [Aquatic Intermittency Effects on Microbiomes in Streams (AIMS) project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019603&HistoricalAwards=false). 
+**Project titles:**
+
+ - *Data Analyst:* Developing a unified modeling approach to assess streamflow depletion impacts due to groundwater pumping, funded by The Nature Conservancy.
+ - *Internship:* Groundwater modeling in the Konza Prairie stream network as part of NSF-funded [Aquatic Intermittency Effects on Microbiomes in Streams (AIMS) project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019603&HistoricalAwards=false). 
 
 **Favorite body of water:** Barlow Creek, Colorado

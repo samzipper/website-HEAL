@@ -10,10 +10,11 @@ title: Join HEAL@KGS!
 
 # Now hiring
 
-Two open positions available:
+There are no currently open positions in HEAL. However, three potential opportunities may be available in the first half of 2024:
 
- - *Postdoc starting mid/late 2024:* I will be seeking a postdoctoral scholar to contribute to a project on soil health and hydrology beginning sometime in mid/late 2024. This scholar will lead a field-based soil hydrology research in a large, multi-institution, academic-industry collaborative project. Details will be posted here when available, but please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) if you are interested in knowing more.
  - *Interns, variety of projects, summer 2024:* The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) typically hires several paid interns each summer to contribute to a variety of ongoing projects. Positions will be posted at the linked page above in early 2024.
+ - *Postdoc starting mid/late 2024:* I may be seeking a postdoctoral scholar to contribute to a project on soil health and hydrology beginning sometime in mid/late 2024. This scholar will lead a field-based soil hydrology research in a large, multi-institution, academic-industry collaborative project. 
+ - *Project coordinator/field technician, starting summer 2024:* I may be seeking a project coordinator to manage a multi-institution, public-private partnership working on approaches for integrating solar energy production into agricultural landscapes. The position will involve developing a coalition of partners in the agriculture, energy, policy, and research communitites; managing research partners and stakeholder collaborations; and some field-based data collection.
 
 Details will be posted to this page when positions are open, but feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) if you are interested in hearing what may be in the pipeline.
 

@@ -66,8 +66,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-The HEAL@KGS group is focused on the question, **how do feedbacks between groundwater and land use, cover, and management decisions impact water, ecosystems, and society?** 
+The HEAL@KGS group is focused on the question, **How do water and land management decisions impact the people, economy, and environment of the Great Plains?** 
 
-We are particularly interested how water moves across the 'aquifer-to-atmosphere' continuum in anthropogenic (agricultural and urban) ecosystems. Methodologically, HEAL@KGS uses conduct a mixture of basic and applied research integrating numerical modeling, field observations, and geospatial analysis. We are deliberately transdisciplinary and bridge the fields of hydrogeology, ecohydrology, engineering, agronomy, soil science, and socio-environmental synthesis.
+Methodologically, we use a combination of numerical modelling, field research, and remote sensing to quantify the movement of water and energy across the groundwater-vadose zone-stream-land surface continuum known as the ‘critical zone’, with a specialty in agricultural landscapes. We are deliberately transdisciplinary and link our technical ecohydrological research to improved understanding of human decision-making and management practices. 
 
 Here are some core topics we are currently working on. We have many varied interests, so please see our [Publications](publication) for everything that doesn't fit into one of these categories!
