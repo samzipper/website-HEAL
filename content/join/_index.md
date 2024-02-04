@@ -3,24 +3,25 @@ header:
   caption: "The Kansas Geological Survey buildings at the University of Kansas. Photo: KGS"
   image: "KGS_building_small.png"
 layout: docs
-title: Join HEAL@KGS!
+title: Join HEAL!
 ---
 
 {{% toc %}}
 
 # Now hiring
 
-There are no currently open positions in HEAL. However, three potential opportunities may be available in the first half of 2024:
+Applications are open for summer 2024 participation in the *KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html)*. We anticipate hiring 3-5 interns to contribute to a variety of ongoing projects. [Please see here for more details and to apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25752&siteid=5541&jobid=4880313#jobDetails=4880313_5541). Apply by February 19, 2024 for full consideration. 
+ 
+Two additional opportunities may be available in the first half of 2024:
 
- - *Interns, variety of projects, summer 2024:* The KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html) typically hires several paid interns each summer to contribute to a variety of ongoing projects. Positions will be posted at the linked page above in early 2024.
  - *Postdoc starting mid/late 2024:* I may be seeking a postdoctoral scholar to contribute to a project on soil health and hydrology beginning sometime in mid/late 2024. This scholar will lead a field-based soil hydrology research in a large, multi-institution, academic-industry collaborative project. 
  - *Project coordinator/field technician, starting summer 2024:* I may be seeking a project coordinator to manage a multi-institution, public-private partnership working on approaches for integrating solar energy production into agricultural landscapes. The position will involve developing a coalition of partners in the agriculture, energy, policy, and research communitites; managing research partners and stakeholder collaborations; and some field-based data collection.
 
-Details will be posted to this page when positions are open, but feel free to [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}) if you are interested in hearing what may be in the pipeline.
+Details will be posted to this page when positions are open, and I typically advertise in locations like the [CUAHSI Job Board](https://www.cuahsi.org/job-board) and the [ESWN Jobs List](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net), so watch those places for the latest opportunities.
 
-# Other opportunities with HEAL@KGS
+# Other opportunities with HEAL
 
-We love working with new people and value the skills that all members of HEAL@KGS bring to the table. There are numerous ways to join the group, whether you are based in Kansas or elsewhere. Before you get in touch, please read [this article](https://www.sciencemag.org/careers/2015/05/dear-dr-neufeld) and [this blog post](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/) for how to email a prospective advisor. While they are targeted towards people seeking graduate degrees, the points are relevant for people interested in any type of position.
+We love working with new people and value the skills that all members of HEAL bring to the table. There are numerous ways to join the group, whether you are based in Kansas or elsewhere. Before you get in touch, please read [this article](https://www.sciencemag.org/careers/2015/05/dear-dr-neufeld) and [this blog post](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/) for how to email a prospective advisor. While they are targeted towards people seeking graduate degrees, the points are relevant for people interested in any type of position.
 
 ## Graduate Students
 I can advise students through the [KU Department of Geology](https://geo.ku.edu/) or the [KU Department of Geography and Atmospheric Science](https://geog.ku.edu/) depending on student interests and programmatic fit. 
@@ -43,9 +44,9 @@ If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zi
 We love to collaborate and one of our favorite ways is to host visiting students and scientists from other institutions. Lawrence is a beautiful place to visit, whether for a week or a year. If you need a visa, sponsor, or any other paperwork, we are happy to work with you to set things up. We will arrange comfortable office space with plenty of coffee and good conversations for anyone who comes by for a visit! If you want to visit sometime, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}). 
 
 # About KGS, KU, and Lawrence 
-The [Kansas Geological Survey (KGS)](http://www.kgs.ku.edu/) is a research and service division of the [University of Kansas (KU)](https://www.ku.edu/), charged by the state legislature to "... conduct geological studies and research and ... collect, correlate, preserve, and disseminate information leading to a better understanding of the geology of Kansas, with special emphasis on natural resources of economic value, water quality and quantity, and geologic hazards." The HEAL@KGS group is part of the [Geohydrology Section](http://www.kgs.ku.edu/Hydro/hydroIndex.html) which focuses on better understanding the past, present, and future of Kansas' water resources. KGS is located on KU's West Campus, which is just across the street from main campus for easy collaboration.
+HEAL is part of both the [Kansas Geological Survey (KGS)](http://www.kgs.ku.edu/) and the [Department of Geology](https://geo.ku.edu/) at the [University of Kansas (KU)](https://www.ku.edu/). The KGS is a research and service division at KU charged by the state legislature to "... conduct geological studies and research and ... collect, correlate, preserve, and disseminate information leading to a better understanding of the geology of Kansas, with special emphasis on natural resources of economic value, water quality and quantity, and geologic hazards." The HEAL group is part of the [Geohydrology Section](http://www.kgs.ku.edu/Hydro/hydroIndex.html) which focuses on better understanding the past, present, and future of Kansas' water resources. KGS is located on KU's West Campus, which is just across the street from main campus for easy collaboration.
 
-KGS is located on the KU campus, which is situated on top of Mount Oread in Lawrence KS. KU is an international, R1 research university and the flagship university for the state of Kansas with a large water and environmental research community spread across campus. In HEAL@KGS we collaborate with faculty and students from many departments including including the [Geology](https://geo.ku.edu/); [Geography and Atmospheric Science](https://geog.ku.edu/); [Civil, Environmental, and Architectural Engineering](https://ceae.ku.edu/); [ Ecology & Evolutionary Biology](https://eeb.ku.edu/); and the [Kansas Biological Survey](http://biosurvey.ku.edu/).
+KGS is located on the KU campus, which is situated on top of Mount Oread in Lawrence KS. KU is an international, R1 research university and the flagship university for the state of Kansas with a large water and environmental research community spread across campus. In HEAL we collaborate with faculty and students from many departments including including the [Geology](https://geo.ku.edu/); [Geography and Atmospheric Science](https://geog.ku.edu/); [Civil, Environmental, and Architectural Engineering](https://ceae.ku.edu/); [ Ecology & Evolutionary Biology](https://eeb.ku.edu/); and the [Kansas Biological Survey](http://biosurvey.ku.edu/).
 
 We think you'll love Lawrence, which is an eclectic town of ~100,000 people along the banks of the beautiful Kansas River. Lawrence has an excellent cultural scene, historic downtown, cutting-edge library, and too many delicious restaurants to count. Outdoor opportunities around town including biking, hiking, and boating. The big-city vibes and international airport of Kansas City are less than an hour away.
 

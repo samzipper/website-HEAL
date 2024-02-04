@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-The HEAL@KGS group is focused on the question, **How do water and land management decisions impact the people, economy, and environment of the Great Plains?** 
+The HEAL group is focused on the question, **How do water and land management decisions impact the people, economy, and environment of the Great Plains?** 
 
 Methodologically, we use a combination of numerical modelling, field research, and remote sensing to quantify the movement of water and energy across the groundwater-vadose zone-stream-land surface continuum known as the ‘critical zone’, with a specialty in agricultural landscapes. We are deliberately transdisciplinary and link our technical ecohydrological research to improved understanding of human decision-making and management practices. 
 

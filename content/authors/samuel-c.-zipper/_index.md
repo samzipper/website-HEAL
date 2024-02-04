@@ -16,7 +16,9 @@ name: Sam Zipper
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
-role: HEAL@KGS PI; Assistant Scientist
+- name: Department of Geology, University of Kansas
+  url: "https://geo.ku.edu/"
+role: HEAL@KGS PI; Assistant Scientist/Professor
 social:
 - icon: envelope
   icon_pack: fas

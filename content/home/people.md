@@ -23,6 +23,6 @@ title = "Who We Are"
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 +++
-*HEAL@KGS is part of the [Geohydrology Section](http://www.kgs.ku.edu/Hydro/hydroIndex.html) of the [Kansas Geological Survey](http://www.kgs.ku.edu/), a research and service center at the [University of Kansas](https://ku.edu/).*
+*HEAL@KGS is part of the [Geohydrology Section](http://www.kgs.ku.edu/Hydro/hydroIndex.html) of the [Kansas Geological Survey](http://www.kgs.ku.edu/) and the [Department of Geology](https://geo.ku.edu/) at the University of Kansas.*
 
 **[Want to join the group? Currently open positions here!]({{< ref "/join" >}})**

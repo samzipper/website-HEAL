@@ -7,13 +7,13 @@ title: Lab Values, Code of Conduct, and Expectations
 ---
 {{% toc %}}
 
-# HEAL@KGS Code of Conduct
+# HEAL Code of Conduct
 
-HEAL@KGS is unequivocally committed to maintaining a respectful, equitable, and inclusive work environment for our entire team and those we work with. We value the participation of every member of our community and want to ensure an that everyone has an enjoyable and fulfilling experience. Accordingly, everyone who participates in any HEAL@KGS project is expected to show respect and courtesy to other community members at all time.
+HEAL is unequivocally committed to maintaining a respectful, equitable, and inclusive work environment for our entire team and those we work with. We value the participation of every member of our community and want to ensure an that everyone has an enjoyable and fulfilling experience. Accordingly, everyone who participates in any HEAL project is expected to show respect and courtesy to other community members at all time.
 
-Sam Zipper, as head of HEAL@KGS, and all lab members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or any other factor. **We do not tolerate harassment by and/or of members of our community in any form**.
+Sam Zipper, as head of HEAL, and all lab members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or any other factor. **We do not tolerate harassment by and/or of members of our community in any form**.
 
-To make clear what is expected, we ask all members of HEAL@KGS and our collaborators to conform to the following Code of Conduct.
+To make clear what is expected, we ask all members of HEAL and our collaborators to conform to the following Code of Conduct.
 
  - All communication - online and in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate at any time.
  - Be kind to others. Criticizing ideas (in a respectful and constructive manner) is OK. Criticizing people is never OK.
@@ -23,13 +23,13 @@ To make clear what is expected, we ask all members of HEAL@KGS and our collabora
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 
-Members of the community who violate these rules will be approached by Sam and asked to do better. ***Participants asked to stop any harassing behavior are expected to comply immediately.*** If inappropriate behavior persists after a discussion with Sam, the contributor will be asked to discontinue their participation in HEAL@KGS projects.
+Members of the community who violate these rules will be approached by Sam and asked to do better. ***Participants asked to stop any harassing behavior are expected to comply immediately.*** If inappropriate behavior persists after a discussion with Sam, the contributor will be asked to discontinue their participation in HEAL projects.
 
 **To report an issue** - please contact [Sam]({{< ref "/authors/samuel-c.-zipper" >}}). All communication will be treated as confidential. However, please know that Sam (along with most other KU employees) is a [mandatory reporter](https://provost.ku.edu/memos/20151110) and is therefore legally required to report incidents of discrimination and sexual harassment to the [KU Office of Institutional Opportunity and Access (IOA)](https://ioa.ku.edu/). IOA maintains a list of [confidential support resources](https://ioa.ku.edu/campus-community-support-resources) if you have an issue you would like to discuss without reporting to the IOA.
 
 # Expectations for lab members
 
-To make sure that everyone has a positive, challenging, and rewarding experience, in HEAL@KGS we set mutually-agreed-upon goals about research, learning, and professional growth. The following expectations are meant to encourage mutual accountability and make those goals reality. . We will go through and discuss these expectations at the beginning of your time in HEAL@KGS to make sure we are in agreement and modify if necessary.
+To make sure that everyone has a positive, challenging, and rewarding experience, in HEAL we set mutually-agreed-upon goals about research, learning, and professional growth. The following expectations are meant to encourage mutual accountability and make those goals reality. . We will go through and discuss these expectations at the beginning of your time in HEAL to make sure we are in agreement and modify if necessary.
 
 ## Everyone
 
@@ -84,7 +84,7 @@ An estimated [17% of scientific data 'disappears' per year](https://www.scienced
 
 In the grand scheme of things, [your work isn't science if it's not reproducible](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016WR019285). Everyone's data and code organization approach will be different based on the needs and approach of their work. However, as a big-picture goal, we are working towards the idea of a 'clickable paper'. What does this mean? If someone is interested enough in our results to want to dig into the data, we need to make that as easy as possible for them. Within 1 hour, they should be able to download all data and code and re-make any figure on their own machine. Within 2 hours, they should be able to change any step in the analysis workflow to see how that impacts the results. 
 
-Some key principles and notes for data management in HEAL@KGS:
+Some key principles and notes for data management in HEAL:
  - Talk with Sam early and often about your data management plan and organization. Sam is working on a standardized data organization system to bridge our diverse projects which will be implemented on the Geohydrology Section Snap Server.
  - The biggest beneficiary of well-organized and well-documented data is *you*. You will inevitably have to re-make figures for publication, re-analyze results with different methods, etc. That is quick and easy with well-organized data, and a nightmare with poorly-organized data.
  - The University of Kansas provides [1 TB free storage on OneDrive](https://technology.ku.edu/services/onedrive-business) – you should use it. If your computer explodes overnight, you should be able to install OneDrive on a new computer and be up and running within twenty minutes.
@@ -108,4 +108,4 @@ This document is a work-in-progress and will likely evolve through time - see th
  - Authorship policies modified from [Dry Rivers RCN](https://www.dryriversrcn.org/).
  - Further inspiration and some text snippets from [Poisot Lab Values](https://poisotlab.io/values/), Dr. Kat Milligan-Myhre's [Lab Expectations](https://drkatlab.wordpress.com/resources/lab-expectations/) page, Gleeson T ‘Researcher-Professor agreement’ (2020) University of Victoria. 
 
-The HEAL@KGS Values, Expectations, and Code of Conduct are licensed under [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/) by Sam Zipper. Feel free to use/adapt, with attribution.
+The HEAL Values, Expectations, and Code of Conduct are licensed under [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/) by Sam Zipper. Feel free to use/adapt, with attribution.
