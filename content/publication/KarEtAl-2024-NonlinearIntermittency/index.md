@@ -9,5 +9,6 @@ featured: false
 publication: "*Journal of Hydrology*"
 tags: ["Ephemeral Hydrology"]
 doi: "10.1016/j.jhydrol.2024.131131"
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022169424005262/pdfft?md5=f758d2dc625a6cd71020225e9c7ae75a&pid=1-s2.0-S0022169424005262-main.pdf"
 ---
 
