@@ -10,12 +10,9 @@ title: Join HEAL!
 
 # Now hiring
 
-Applications are open for summer 2024 participation in the *KGS [Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html)*. We anticipate hiring 3-5 interns to contribute to a variety of ongoing projects. [Please see here for more details and to apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25752&siteid=5541&jobid=4880313#jobDetails=4880313_5541). Apply by February 19, 2024 for full consideration. 
- 
-Two additional opportunities may be available in the first half of 2024:
+One position may be available in the near-term:
 
- - *Postdoc starting mid/late 2024:* I may be seeking a postdoctoral scholar to contribute to a project on soil health and hydrology beginning sometime in mid/late 2024. This scholar will lead a field-based soil hydrology research in a large, multi-institution, academic-industry collaborative project. 
- - *Project coordinator/field technician, starting summer 2024:* I may be seeking a project coordinator to manage a multi-institution, public-private partnership working on approaches for integrating solar energy production into agricultural landscapes. The position will involve developing a coalition of partners in the agriculture, energy, policy, and research communitites; managing research partners and stakeholder collaborations; and some field-based data collection.
+ - *Postdoc starting early 2025:* I may be seeking a postdoctoral scholar to contribute to a project on soil health and hydrology beginning sometime in mid/late 2024. This scholar will lead a field-based soil hydrology research in a large, multi-institution, academic-industry collaborative project. 
 
 Details will be posted to this page when positions are open, and I typically advertise in locations like the [CUAHSI Job Board](https://www.cuahsi.org/job-board) and the [ESWN Jobs List](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net), so watch those places for the latest opportunities.
 
