@@ -27,10 +27,12 @@ social:
   link: https://www.researchgate.net/profile/Xiaolong-Yuan-2/stats
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
 **Visiting Scholar, April 2023 - 2024**
 
 **Project title:** Chinese Academy of Sciences Young Team Program for Stable Support in the Field of Basic Research
 
 **Favorite body of water:** Great Salt Lake, Utah
+
+**Post-HEAL Position:** Research Assistant and Qinghai Institute of Salt Lakes, Chinese Academy of Sciences.
