@@ -10,11 +10,11 @@ title: Join HEAL!
 
 # Now hiring
 
-One position may be available in the near-term:
+I am currently hiring for one position:
 
- - *Postdoc starting early 2025:* I may be seeking a postdoctoral scholar to contribute to a project on soil health and hydrology beginning sometime in mid/late 2024. This scholar will lead a field-based soil hydrology research in a large, multi-institution, academic-industry collaborative project. 
+ - *Postdoc starting early 2025:* We are seeking a postdoctoral scholar for a FFAR-funded project studying feedbacks between agricultural soil health management and hydrological processes. The postdoc will conduct detailed field-based research and data analysis to link subsurface hydrology, soil health practices, and agricultural outcomes. Ultimately, this will help understand the potential benefits and limitations of soil health management. This role is part of a [large, multi-institution, interdisciplinary project](https://foundationfar.org/news/16-million-grant-increases-crop-yields-improves-sustainability-profitability/) and will include collaboration with both industry and academic agronomists, agricultural engineers, microbial ecologists, and other disciplines. Thus, the ideal candidate would have strong technical skills for field-based research and data analysis, interest in applied research, and a desire to work with an interdisciplinary team. Please [visit the KU job posting for more information and to apply](https://employment.ku.edu/jobs/staff/postdoctoral-researcher/27741br).
 
-Details will be posted to this page when positions are open, and I typically advertise in locations like the [CUAHSI Job Board](https://www.cuahsi.org/job-board) and the [ESWN Jobs List](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net), so watch those places for the latest opportunities.
+Details for all positions will be posted to this page when positions are open, and I typically advertise in locations like the [CUAHSI Job Board](https://www.cuahsi.org/job-board) and the [ESWN Jobs List](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net), so watch those places for the latest opportunities.
 
 # Other opportunities with HEAL
 
