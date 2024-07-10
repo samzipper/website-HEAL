@@ -46,6 +46,9 @@ user_groups:
 ---
 **Postdoctoral Scholar, 2023 - present**
 
-**Project title:** Sustainable Adaptations to the Future Environment of Kansas' Agricultural And Water - [SAFE KAW](https://safekaw-ku.hub.arcgis.com/). 
+**Projects:** 
+
+ - Sustainable Adaptations to the Future Environment of Kansas' Agricultural And Water - [SAFE KAW](https://safekaw-ku.hub.arcgis.com/) - funded by USDA. 
+ - Quantitative Analysis of Trends in Kansas’ Hydroclimatic Compound Extremes - funded by Kansas Water Office.
 
 **Favorite body of water:** The Brahmaputra River (Assam, India)
