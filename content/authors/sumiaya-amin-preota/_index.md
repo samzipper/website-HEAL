@@ -27,7 +27,7 @@ social:
   link: https://sites.google.com/view/sumiaya-amin-preota
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
 **[KGS Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2024.**
 

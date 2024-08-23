@@ -20,7 +20,7 @@ social:
   link: mailto:jacobspooner19@gmail.com
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
 **[KGS Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2024.**
 
