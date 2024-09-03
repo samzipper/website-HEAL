@@ -28,9 +28,9 @@ social:
   link: https://www.flickr.com/photos/flower_alice/
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
-**Project Coordinator, 2022 - present**
+**Project Coordinator, 2022 - 2024**
 
 Angie is a kayaker, printmaker and weaver, and her background is in prairie conservation and restoration.
 
