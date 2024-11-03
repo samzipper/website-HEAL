@@ -10,7 +10,7 @@ title: Join HEAL!
 
 # Now hiring
 
-There are currently no positions open in HEAL. I do not have funding for any new students in Spring or Fall 2025.
+**[Hydrologic Decision Support Researcher](https://employment.ku.edu/jobs/staff/hydrologic-decision-support-researcher/29258br):** I am seeking an experienced researcher to take a leadership role on hydrologic decision support projects related to agricultural water use practices in irrigated landscapes. The position requires strong geospatial and programming skills and an interest in working closely with stakeholders and research collaborators on applied projects. For more details and to apply, please see the [job posting on the KU website](https://employment.ku.edu/jobs/staff/hydrologic-decision-support-researcher/29258br). Review of applications will begin on December 16, 2024.
 
 Details for all positions will be posted to this page when positions are open, and I typically advertise in locations like the [CUAHSI Job Board](https://www.cuahsi.org/job-board) and the [ESWN Jobs List](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net), so watch those places for the latest opportunities.
 
