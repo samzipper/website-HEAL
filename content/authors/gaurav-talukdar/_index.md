@@ -42,9 +42,9 @@ social:
   link: https://gauravtalukdar.pb.photography/
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
-**Postdoctoral Scholar, 2023 - present**
+**Postdoctoral Scholar, 2023 - 2024**
 
 **Projects:** 
 
@@ -52,3 +52,5 @@ user_groups:
  - Quantitative Analysis of Trends in Kansas’ Hydroclimatic Compound Extremes - funded by Kansas Water Office.
 
 **Favorite body of water:** The Brahmaputra River (Assam, India)
+
+**Post-HEAL Position:** Assistant Professor, [Department of Civil Engineering, Indian Institute of Technology (IIT) Delhi](https://civil.iitd.ac.in/)

@@ -31,10 +31,14 @@ social:
   link: https://github.com/wndlovu/
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
-**M.S. student, 2022 - present**
+**M.S. student, 2022 - 2024**
+
+**Thesis title:** Assessing the effectiveness and resilience of groundwater self-management practices using AquaCrop: a case study of the northwestern Kansas Local Enhanced Management Areas.
 
 **Project title:** Toward resilient and adaptive community-driven management of groundwater dependent agricultural systems (funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false)).
 
 **Favorite body of water:** Mill River, Northampton MA
+
+**Post-HEAL Position:** Environmental Consultant at [Geosyntec](https://geosyntec.com/).

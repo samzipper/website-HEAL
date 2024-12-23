@@ -41,8 +41,10 @@ superuser: false
 user_groups:
 - Current Members
 ---
-**Postdoc, 2023 - present**
+**Postdoc, 2023 - 2024**
 
 **Project title:** Toward resilient and adaptive community-driven management of groundwater dependent agricultural systems (funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false)).
 
 **Favorite body of water:** Lake Wānaka, New Zealand
+
+**Post-HEAL position:** Assistant Professor, [Department of Biological & Ecological Engineering, Oregon State University](https://bee.oregonstate.edu/)
