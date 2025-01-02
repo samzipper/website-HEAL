@@ -52,10 +52,10 @@ Icons:
 
 ## Update Hugo and Academic Theme
  * Make copy of website repository in case something breaks.
- * Updating Hugo: this is not necessary when site is deployed to Netlify
-  * Check hugo version (`blogdown::hugo_version()`) and compare to current [release version](https://github.com/gohugoio/hugo/releases).
-    * `blogdown::update_hugo()`
-    * update version in `netlify.toml` file
+ * Updating Hugo: this is not necessary when site is deployed to Netlify. If you do need to:
+		* Check hugo version (`blogdown::hugo_version()`) and compare to current [release version](https://github.com/gohugoio/hugo/releases).
+		* `blogdown::update_hugo()`
+		* update version in `netlify.toml` file
  * Check version of academic theme: `themes/hugo-academic/data/academic.toml`
   * If update necessary, download [latest release](https://github.com/gcushen/hugo-academic/releases) of hugo-academic and replace your `themes/hugo-academic` folder
   * Fix all breaking changes from [hugo-academic release notes](https://sourcethemes.com/academic/updates/).
