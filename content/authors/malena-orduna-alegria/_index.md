@@ -39,7 +39,7 @@ social:
   link: doc/Malena_CV.pdf
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
 **Postdoc, 2023 - 2024**
 
