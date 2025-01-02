@@ -1,0 +1,502 @@
+---
+title: "2024 work tracking update"
+subtitle: "Tracking my work and non-work time."
+author: "Sam Zipper"
+date: 2024-12-30
+format:
+  html:
+    toc: true
+---
+
+
+```{r}
+#| echo: false
+#| include: false
+
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(lubridate)
+library(patchwork)
+
+## ggplot theme
+windowsFonts(Arial=windowsFont("TT Arial"))
+theme_scz <- function(...){
+  theme_bw(base_size=10, base_family="Arial") + 
+    theme(
+      text=element_text(color="black"),
+      plot.title=element_text(face="bold", size=rel(1)),
+      axis.title=element_text(face="bold", size=rel(1)),
+      axis.text=element_text(size=rel(1)),
+      strip.text=element_text(size=rel(1)),
+      legend.title=element_text(face="bold", size=rel(1)),
+      legend.text=element_text(size=rel(1)),
+      panel.grid=element_blank(),
+      plot.margin=unit(c(1,1,1,1), "mm"),
+      strip.background=element_blank())
+}
+
+theme_set(theme_scz())
+
+# color palette
+col.cat.grn <- "#3cb44b"   # green
+col.cat.yel <- "#ffe119"   # yellow
+col.cat.org <- "#f58231"   # orange
+col.cat.red <- "#e6194b"   # red
+col.cat.blu <- "#0082c8"   # blue
+col.gray <- "gray65"       # gray for annotation lines, etc
+
+# colors by activity
+pal_activity <-
+  c("research" = "#e41a1c", 
+    "logistics" = "#377eb8", 
+    "talking" = "#4daf4a", 
+"conference" = "#984ea3", 
+"service" = "#ff7f00", 
+"mentees" = "#ffff33",
+"teaching" = "cyan",
+"field" = "darkslategray")
+
+# date limits for plots
+date_limits <- as.POSIXct(c(ymd("2019-09-01"), ymd("2025-01-01")))
+
+# load data
+all_weeks_19 <- read_csv("https://raw.github.com/samzipper/SelfAnalysis/master/WorkTimeAnalysis_Hours_2019.csv", col_types = "ccccT")
+all_weeks_20 <- read_csv("https://raw.github.com/samzipper/SelfAnalysis/master/WorkTimeAnalysis_Hours_2020.csv", col_types = "ccccT")
+all_weeks_21 <- read_csv("https://raw.github.com/samzipper/SelfAnalysis/master/WorkTimeAnalysis_Hours_2021.csv", col_types = "ccccT")
+all_weeks_22 <- read_csv("https://raw.github.com/samzipper/SelfAnalysis/master/WorkTimeAnalysis_Hours_2022.csv", col_types = "ccccT")
+all_weeks_23 <- read_csv("https://raw.github.com/samzipper/SelfAnalysis/master/WorkTimeAnalysis_Hours_2023.csv", col_types = "ccccT")
+all_weeks_24 <- read_csv("https://raw.github.com/samzipper/SelfAnalysis/master/WorkTimeAnalysis_Hours_2024.csv", col_types = "ccccT")
+
+# combine years
+all_weeks <- 
+  all_weeks_19 |> 
+  dplyr::bind_rows(all_weeks_20) |> 
+  dplyr::bind_rows(all_weeks_21) |> 
+  dplyr::bind_rows(all_weeks_22) |> 
+  dplyr::bind_rows(all_weeks_23) |> 
+  dplyr::bind_rows(all_weeks_24) |> 
+  subset(!is.na(Time))
+
+# set factors for plotting
+all_weeks$Day <- factor(all_weeks$Day, levels = c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"))
+all_weeks$Time <- factor(all_weeks$Time, levels = unique(all_weeks$Time))
+
+# lump 'Travel' with 'Not Work' because if I was working on the plane I coded it as such
+all_weeks$Activity[all_weeks$Activity == "travel"] <- "Not Work"
+
+# summarize by week
+weekly_hrs <- 
+  all_weeks |> 
+  dplyr::group_by(week_start_date) |> 
+  dplyr::summarize(hours_worked = sum(Activity != "Not Work")*0.5) |> 
+  dplyr::mutate(Year = lubridate::year(week_start_date))
+
+# median and mode
+getmode <- function(v) {
+   uniqv <- unique(v)
+   uniqv[which.max(tabulate(match(v, uniqv)))]
+}
+median_hrs_wk <- median(weekly_hrs$hours_worked)
+mode_hrs_wk <- getmode(weekly_hrs$hours_worked)
+
+# summarize by year
+weekly_hrs_yr <- 
+  weekly_hrs |> 
+  group_by(Year) |> 
+  summarize(median_hrs_wk = median(hours_worked),
+            mean_hrs_wk = mean(hours_worked),
+            mode_hrs_wk = getmode(hours_worked))
+
+# make a column for the actual date
+day_to_number <- tibble(Day = c("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"),
+                        DayNum = seq(0,6))
+all_weeks <-  
+  dplyr::left_join(all_weeks, day_to_number, by = "Day") |> 
+  dplyr::mutate(date = week_start_date + days(DayNum))
+
+# summarize by day
+daily_hrs <- 
+  all_weeks |> 
+  dplyr::group_by(date, Day, week_start_date, Daytype) |> 
+  dplyr::summarize(hours_worked = sum(Activity != "Not Work")*0.5) |> 
+  dplyr::mutate(hours_worked_cut = cut(hours_worked, c(0, 0.25, 2, 6, 9, 24), include.lowest = T,
+                                       labels = c("0", "0.5 - 2", "2.5 - 6", "6.5 - 9", "> 9.5")),
+                Year = lubridate::year(date)) |> 
+  subset(Year <= 2024)
+
+daily_hrs$Day <- factor(daily_hrs$Day, levels = c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"))
+
+# figure out average hours worked per day of work
+daily_hrs_yr <-
+  daily_hrs |> 
+  group_by(Year) |> 
+  summarize(work_hours = sum(hours_worked),
+            work_days = (sum(Daytype %in% c("conference", "work")) + sum(Daytype == "half day")*0.5),
+            work_hrs.day = work_hours/work_days)
+
+# figure out no work days per week
+weekly_no_work <-
+  daily_hrs |> 
+  group_by(Year, week_start_date) |> 
+  summarize(no_work_days = sum(hours_worked == 0))
+
+yearly_no_work <-
+  weekly_no_work |> 
+  group_by(Year) |> 
+  summarize(no_work_days_yr = sum(no_work_days),
+            weeks_gt_0 = sum(no_work_days > 0),
+            weeks_gt_1 = sum(no_work_days > 1))
+
+# data frame with just work hours
+all_work <- all_weeks[all_weeks$Activity != "Not Work", ]
+
+# summarize by activity
+work_by_activity <-
+  all_work |> 
+  dplyr::group_by(Activity) |> 
+  dplyr::summarize(Hours = n()*0.5,
+                   PrcTime = Hours/sum(weekly_hrs$hours_worked)) |> 
+  dplyr::arrange(-Hours)
+
+# yearly percent for each activity
+work_by_year <-
+  all_work |> 
+  dplyr::mutate(Year = lubridate::year(week_start_date)) |> 
+  dplyr::group_by(Year) |> 
+  dplyr::summarize(halfhrs_yr = n(),
+                   conference = sum(Activity=="conference")/halfhrs_yr,
+                   logistics = sum(Activity=="logistics")/halfhrs_yr,
+                   mentees = sum(Activity=="mentees")/halfhrs_yr,
+                   field = sum(Activity=="field")/halfhrs_yr,
+                   research = sum(Activity=="research")/halfhrs_yr,
+                   service = sum(Activity=="service")/halfhrs_yr,
+                   talking = sum(Activity=="talking")/halfhrs_yr,
+                   teaching = sum(Activity=="teaching")/halfhrs_yr) |> 
+  #dplyr::select(-halfhrs) |> 
+  tidyr::pivot_longer(all_of(work_by_activity$Activity), names_to = "Activity", values_to = "Time_Prc") %>% 
+  dplyr::mutate(Time_hrs = Time_Prc*halfhrs_yr*0.5)
+
+# weekly percent for each activity
+work_by_week <-
+  all_work |> 
+  dplyr::group_by(week_start_date) |> 
+  dplyr::summarize(halfhrs = n(),
+                   conference = sum(Activity=="conference")/halfhrs,
+                   logistics = sum(Activity=="logistics")/halfhrs,
+                   mentees = sum(Activity=="mentees")/halfhrs,
+                   field = sum(Activity=="field")/halfhrs,
+                   research = sum(Activity=="research")/halfhrs,
+                   service = sum(Activity=="service")/halfhrs,
+                   talking = sum(Activity=="talking")/halfhrs,
+                   teaching = sum(Activity=="teaching")/halfhrs) |> 
+  dplyr::select(-halfhrs) |> 
+  tidyr::pivot_longer(all_of(work_by_activity$Activity), names_to = "Activity", values_to = "Time_Prc")
+
+# set factor to order by most to least common
+work_by_activity$Activity <- factor(work_by_activity$Activity, levels = work_by_activity$Activity)
+all_work$Activity <- factor(all_work$Activity, levels = work_by_activity$Activity)
+all_work$Activity <- factor(all_work$Activity, levels = work_by_activity$Activity)
+work_by_week$Activity <- factor(work_by_week$Activity, levels = rev(work_by_activity$Activity))
+
+# monthly percent for each activity
+work_by_month <-
+  all_work |> 
+  mutate(Year = lubridate::year(week_start_date),
+         Month = lubridate::month(week_start_date),
+         YM = ymd(paste0(Year, "-", Month, "-01"))) |>
+  dplyr::group_by(YM) |> 
+  dplyr::summarize(halfhrs = n(),
+                   conference = sum(Activity=="conference")/halfhrs,
+                   logistics = sum(Activity=="logistics")/halfhrs,
+                   mentees = sum(Activity=="mentees")/halfhrs,
+                   field = sum(Activity=="field")/halfhrs,
+                   research = sum(Activity=="research")/halfhrs,
+                   service = sum(Activity=="service")/halfhrs,
+                   talking = sum(Activity=="talking")/halfhrs,
+                   teaching = sum(Activity=="teaching")/halfhrs) |> 
+  dplyr::select(-halfhrs) |> 
+  tidyr::pivot_longer(all_of(work_by_activity$Activity), names_to = "Activity", values_to = "Time_Prc")
+
+# evening work, excluding field, conference, and travel
+evening_work <-
+  all_weeks |> 
+  subset(Time %in% levels(all_weeks$Time)[23:35]) |> 
+  subset(Daytype != "conference") %>% 
+  subset(!(Activity %in% c("Not Work", "field", "conference", "travel"))) |> 
+  mutate(Year = lubridate::year(week_start_date),
+         Month = lubridate::month(week_start_date),
+         YM = ymd(paste0(Year, "-", Month, "-01")))
+
+evening_work_days <-
+  evening_work |> 
+  group_by(Year, week_start_date) |> 
+  summarize(n_days = length(unique(Day))) |> 
+  ungroup() |> 
+  group_by(Year) |> 
+  summarize(weeks_0 = 52 - n(),
+            weeks_le_1 = 52-sum(n_days >  1))
+
+
+# to count consecutive days worked/not worked, make a column that is just "0 or not"
+daily_hrs$zero <- daily_hrs$hours_worked==0
+daily_hrs$zero_counter <- sequence(rle(as.character(daily_hrs$zero))$lengths)
+
+# find max consecutive days worked and not worked
+max_days_off <- max(subset(daily_hrs, Year == 2024)$zero_counter[subset(daily_hrs, Year == 2024)$zero])
+max_days_on <- max(subset(daily_hrs, Year == 2024)$zero_counter[!subset(daily_hrs, Year == 2024)$zero])
+
+
+```
+
+This is the fourth edition of my time tracking analysis, adding in the 2024 calendar year. 
+
+::: {.panel-tabset}
+
+## 2024 Goals
+
+My goals, and associated metrics, for 2024 included:
+
+  - *Unplug more*: Maintain number of weeks with 1 unplugged day (no work including checking email) and increase number of weeks with 2 unplugged days.
+  - *Sign off*: Decrease weeks where I work in the evening more than 1 day.
+  - *Increase research time*: Keep percent of time spent on research at least 15%, with target of 20%.
+
+## How I do it
+
+I manually track the hours in a [simple google sheet](https://docs.google.com/spreadsheets/d/1Fg9g4pOHfuKfXeZ-mYbUPiZfkmrv0_dsZwzg8JbFpCA/edit?gid=1260315680#gid=1260315680) at 30 min resolution and divided into a few simple categories:
+
+ - `talking` = things that involved other people... meetings, seminars, zoom calls, etc.
+ - `logistics` = stuff that is generally unimportant (but sometimes necessary). emails, expense reports, etc.
+ - `research` = writing proposals or papers, making presentations, data analysis, reading papers, etc.
+ - `mentees` = talking to or working with someone I am supervising such as a postdoc, student, or staff, including reviewing their work
+ - `conference` = anything at a conference/workshop.
+ - `service` = journal or grant reviews, committees, open science stuff, etc.
+ - `teaching` = courses/guest lectures, including prep time and grading
+
+## Prior year data
+
+Past versions include:
+
+ - [2019-2020 initial analysis](https://www.samzipper.com/post/2021-01-02_how-much-do-i-work/)
+ - [2019-2021 follow-up](https://www.samzipper.com/post/2022-01-02-work-tracking-update/)
+ - [2019-2022 follow-up](https://samzipper.com/post/2023-01-02-work-tracking-update.html)
+ - [2019-2023 follow-up](https://www.samzipper.com/post/2024-01-01-work-tracking-update/)
+
+:::
+
+Here's what the full dataset looks like:
+
+```{r, fig.width = 8, fig.height = 3}
+#| echo: false
+#| warning: false
+
+ggplot(daily_hrs, aes(y = Day, x = week_start_date, fill = hours_worked_cut)) +
+  geom_tile() +
+  scale_y_discrete(expand = c(0, 0), limits=rev) +
+  scale_x_datetime(name = "Week", expand = c(0, 0), 
+                   limits = ymd_hms(c("2018-12-31 0:00:00", "2025-01-01 0:00:00")),
+                   date_breaks = "year",
+                   date_labels = "%Y") +
+  scale_fill_manual(name = "Daily Hours Worked",
+                    values = c("gray65", "#ffffb2", "#fecc5c", "#fd8d3c", "#e31a1c")) +
+  theme(legend.position = "bottom")
+```
+
+Within each day, the total hours are broken down by activity (not shown here).
+
+# Tracking 2024 Goals
+
+## Metric 1: More unplugged days
+
+I was mostly successful here, with an overall increase in the number of unplugged days (from `r yearly_no_work$no_work_days_yr[yearly_no_work$Year == 2023]` in 2023 to `r yearly_no_work$no_work_days_yr[yearly_no_work$Year == 2024]` in 2024). At the weekly level, I increased the number of weeks with at least one unplugged day to `r yearly_no_work$weeks_gt_0[yearly_no_work$Year == 2024]` (approaching the theoretical maximum of 52 weeks) and had a marginal decrease in the number of weeks with 2 unplugged days (from `r yearly_no_work$weeks_gt_1[yearly_no_work$Year == 2023]` last year to `r yearly_no_work$weeks_gt_1[yearly_no_work$Year == 2024]` this year).
+
+```{r, fig.width=8, fig.height=3} 
+#| echo: false
+#| warning: false
+
+p_daysoff <- 
+  ggplot(yearly_no_work, aes(x = Year, y = no_work_days_yr)) +
+  geom_col(aes(fill = factor(Year))) +
+  scale_y_continuous(name = "# of unplugged days in year",
+                     expand = expansion(mult = c(0, 0.05))) +
+  scale_fill_viridis_d(guide = "none")
+
+p_weeksoff1d <-
+  ggplot(yearly_no_work, aes(x = Year, y = weeks_gt_0)) +
+  geom_col(aes(fill = factor(Year))) +
+  scale_y_continuous(name = "# of weeks with >= 1 unplugged day",
+                     limits = c(0, 52),
+                     expand = expansion(mult = c(0, 0.05))) +
+  scale_fill_viridis_d(guide = "none")
+
+p_weeksoff2d <-
+  ggplot(yearly_no_work, aes(x = Year, y = weeks_gt_1)) +
+  geom_col(aes(fill = factor(Year))) +
+  scale_y_continuous(name = "# of weeks with >= 2 unplugged days",
+                     expand = expansion(mult = c(0, 0.05))) +
+  scale_fill_viridis_d(guide = "none")
+
+p_daysoff + p_weeksoff1d + p_weeksoff2d +
+  plot_layout(ncol = 3)
+```
+
+Within the year, days off were pretty well-distributed. The longest stretch of consecutive "plugged" days was `r max_days_on`, meaning there wasn't any point where I didn't unplug for 2 consecutive weeks.
+
+## Metric 2: Decrease evening work.
+
+I had a backslide here, going from `r evening_work_days$weeks_le_1[evening_work_days$Year == 2023]` weeks with <= 1 day/week with evening work in 2023 to `r evening_work_days$weeks_le_1[evening_work_days$Year == 2024]` weeks in 2024, matching where I was in both 2020 and 2022. Looking at weeks with no evening work at all, I went from `r evening_work_days$weeks_0[evening_work_days$Year == 2023]` last year to `r evening_work_days$weeks_0[evening_work_days$Year == 2024]` weeks this year.
+
+```{r, fig.width=5.33, fig.height=3}
+#| echo: false
+#| warning: false
+
+p_evening1day <-
+  ggplot(evening_work_days, aes(x = Year, y = weeks_le_1)) +
+  geom_col(aes(fill = factor(Year))) +
+  scale_y_continuous(name = "Weeks with <= 1 day evening work",
+                     expand = expansion(mult = c(0, 0.05))) +
+  scale_fill_viridis_d(guide = "none")
+
+p_evening0day <-
+  ggplot(evening_work_days, aes(x = Year, y = weeks_0)) +
+  geom_col(aes(fill = factor(Year))) +
+  scale_y_continuous(name = "Weeks with 0 days evening work",
+                     expand = expansion(mult = c(0, 0.05))) +
+  scale_fill_viridis_d(guide = "none")
+
+(p_evening0day + p_evening1day) +
+  plot_layout(ncol = 2)
+```
+
+I mostly blame this on co-teaching an evening class during the fall 2024 semester, which led to a big chunk of hours during the weeks where I was lead instructor.
+
+```{r, fig.width=6, fig.height=4}
+#| echo: false
+#| warning: false
+
+ggplot(subset(evening_work, Year == 2024), aes(x = factor(Month), fill = Activity)) +
+  geom_bar() +
+  #facet_wrap(~Year, ncol = 1) +
+  scale_y_continuous(name = "Half-Hours Worked After 6 PM",
+                     expand = expansion(mult = c(0, 0.05))) +
+  scale_x_discrete(name = "Month", expand = expansion(0)) +
+  scale_fill_manual(values = pal_activity) +
+  labs(title = "Monthly evening work") +
+  theme(legend.position = "bottom")
+
+```
+
+## Metric 3: Research >15%
+
+Overall, I was able to keep my research time at `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2024 & work_by_year$Activity == "research"]), 1)`% in 2024, a slight increase from `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2023 & work_by_year$Activity == "research"]), 1)`% in 2023. This continues an increase from its low point of `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2022 & work_by_year$Activity == "research"]), 1)`% research time in 2022.
+
+```{r, fig.width=8, fig.height=4}
+#| echo: false
+#| warning: false
+
+p_byyear <-
+  work_by_year %>% 
+  subset(Activity %in% c("research")) %>% 
+  ggplot(aes(x = Year, y = Time_Prc, fill = Activity)) +
+  geom_col() +
+  geom_hline(yintercept = 0.15, color = col.gray) +
+  scale_y_continuous(name = "Percent of time",
+                     labels = scales::percent_format(accuracy = 1)) +
+  scale_x_continuous(name = "Month", expand = c(0, 0)) +
+  scale_fill_manual(values = pal_activity, guide = NULL) +
+  theme(legend.position = "bottom") +
+  labs(title = "Research time, by year")
+
+p_bymonth <-
+  work_by_month %>% 
+  subset(Activity %in% c("research")) %>% 
+  ggplot(aes(x = YM, y = Time_Prc, color = Activity)) +
+  geom_point() +
+  geom_hline(yintercept = 0.15, color = col.gray) +
+  #facet_wrap(~Activity) +
+  scale_y_continuous(name = "Percent of time",
+                     labels = scales::percent_format(accuracy = 1)) +
+  scale_x_date(name = "Month", expand = c(0, 0)) +
+  scale_color_manual(values = pal_activity, guide = NULL) +
+  stat_smooth() +
+  theme(legend.position = "bottom") +
+  labs(title = "Research time, by month")
+
+(p_byyear + p_bymonth) +
+  plot_layout(ncol = 2)
+```
+
+Looking at some other major categories:
+
+ - **Logistics:** Made some progress, ending at `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2024 & work_by_year$Activity == "logistics"]), 1)`% in 2024, down from `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2023 & work_by_year$Activity == "logistics"]), 1)`% in 2023. However, this is still the largest overall fraction of my time, followed closely by...
+ - **Talking:** Made it to `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2024 & work_by_year$Activity == "talking"]), 1)`% in 2024, up slightly from `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2023 & work_by_year$Activity == "talking"]), 1)`% in 2023. However, this category doesn't include meetings with mentees, which are counted separately and are the third largest share of my time.
+ - **Mentees:** Time spent on mentees has plateaued at `r round(100*sum(work_by_year$Time_Prc[work_by_year$Year == 2024 & work_by_year$Activity == "mentees"]), 1)`%, the same as last year. With a couple postdocs and a grad student finishing up in fall 2024, I'd anticipate this decreasing next year.
+ 
+Here's a look at the monthly trajectories for these categories.
+
+```{r, fig.width=8, fig.height=3}
+#| echo: false
+#| warning: false
+
+work_by_month %>% 
+  subset(Activity %in% c("logistics", "mentees", "talking")) %>% 
+  ggplot(aes(x = YM, y = Time_Prc, color = Activity)) +
+  geom_point() +
+  facet_wrap(~Activity, nrow = 1) +
+  scale_y_continuous(name = "Percent of time",
+                     labels = scales::percent_format(accuracy = 1)) +
+  scale_x_date(name = "Month", expand = c(0, 0), limits = as.Date(date_limits)) +
+  scale_color_manual(values = pal_activity, guide = FALSE) +
+  stat_smooth() +
+  theme(legend.position = "bottom")
+```
+
+# Some other random observations
+
+My typical weekly workload went up to a median of `r weekly_hrs_yr$median_hrs_wk[weekly_hrs_yr$Year == 2024]` hours in 2024 (compared to `r weekly_hrs_yr$median_hrs_wk[weekly_hrs_yr$Year == 2023]` hours in 2023). With the increase in hours, combined with the increase in unplugged days, this means that the average number of hours per workday is increasing for the second year in a row:
+
+```{r, fig.width=4, fig.height=3.5} 
+#| echo: false
+#| warning: false
+
+ggplot(daily_hrs_yr, aes(x = Year, y = work_hrs.day)) +
+  geom_col(aes(fill = factor(Year))) +
+  scale_x_continuous(name = "Year",
+                     breaks = seq(2019, 2024, 1)) +
+  scale_y_continuous(name = "Total hours worked / work days",
+                     breaks = seq(0, 10, 1),
+                     expand = expansion(mult = c(0, 0.05))) +
+  geom_hline(yintercept = 8, color = col.gray) +
+  scale_fill_viridis_d(guide = "none")
+```
+
+In 2024, it is up to `r round(daily_hrs_yr$work_hrs.day[daily_hrs_yr$Year == 2024], 1)` hours per workday, about where it was at in 2020. 
+
+This doesn't mean I'm spending 9 hours in the office every weekday, but rather the amount of hours I'm working on non-work days combined with workdays averages out to 9 per workday. Across all days in 2024, my most common work length (apart from 0 on unplugged days) is right about 8 hours. Speculating about a few other patterns, the super long days (>11 hrs) tended to be associated with field work or conferences, the bump at around 1 hr is my typical Sunday afternoon weekly planning session, and the plateau at around 10 hrs is from teaching days this fall (for my night class, I ended up working ~7 hours in the day and then coming back for 3 hours at night).
+
+```{r, fig.width=4, fig.height=3.5} 
+#| echo: false
+#| warning: false
+
+ggplot(subset(daily_hrs, Year == 2024), 
+       aes(x = hours_worked, fill = hours_worked_cut)) +
+  geom_histogram(binwidth = 0.5) +
+  geom_vline(xintercept = 8, color = "black") +
+  scale_x_continuous(name = "Daily Hours Worked", breaks = seq(0, 12, 2), expand = c(0, 0)) +
+  scale_y_continuous(name = "Number of Days") +
+  scale_fill_manual(name = NULL,
+                    values = c("gray65", "#ffffb2", "#fecc5c", "#fd8d3c", "#e31a1c")) +
+  theme(legend.position = "bottom",
+        legend.title.position = "top")
+```
+
+
+# Any updates for 2025?
+
+I'm feeling pretty good about the way things are going overall. Long-term, I'd like to reduce the `talking` and `logistics` categories in order to get `research` to 20% (or beyond), but with my current project load this would be a stretch goal for 2025. I'm hoping it's achievable in 2026 as long as I can wrap up some projects without new ones starting. 
+
+My specific 2025 goals are focused on maintaining and continued progress along most of the same dimensions as last year's goal:
+
+  - Maintain 1/day week with no work every week.
+  - Get to 15 weeks with no evening work and 20 with <= 1 day of evening work.
+  - Keep research time above 15%.
