@@ -2,7 +2,7 @@
 title: "2024 work tracking update"
 subtitle: "Tracking my work and non-work time."
 author: "Sam Zipper"
-date: 2024-12-30
+date: 2025-01-01
 format:
   html:
     toc: true
