@@ -99,7 +99,7 @@ Graduate school/postdoctoral positions are like a full-time job, so taking vacat
 
 *If you struggle with working flexibly - working too much, working too little, feeling directionless - let Sam know and we can develop a work plan together.*
 
-To understand how much I (Sam) am working and whether I am using my time effectively, [I track all my work hours]({{< ref "/post/2021-01-02_how-much-do-i-work.html" >}}). I typically work 40-45 hours/week. There are things I am good at (not working much in evenings/weekends) and things I still need to improve (I often check my email or do little tasks on weekends when I should be relaxing). I encourage everyone to track their own hours since it is very interesting and can help diagnose problems such as ineffective time management.
+To understand how much I (Sam) am working and whether I am using my time effectively, [I track all my work hours]({{< ref "/post/2025-01-01-work-tracking-update.html" >}}). I typically work 40-45 hours/week. There are things I am good at (not working much in evenings/weekends) and things I still need to improve (I often check my email or do little tasks on weekends when I should be relaxing). I encourage everyone to track their own hours since it is very interesting and can help diagnose problems such as ineffective time management.
 
 # Credit and sources
 This document is a work-in-progress and will likely evolve through time - see the [website repository](https://github.com/samzipper/website-HEAL/blob/master/content/ValuesAndExpectations/_index.md) for version history. Material on this page is partially derived from and/or inspired by multiple sources:
