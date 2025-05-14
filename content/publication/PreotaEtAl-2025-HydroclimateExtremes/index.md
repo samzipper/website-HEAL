@@ -1,0 +1,13 @@
+---
+title: "Exploring drivers of groundwater recharge at Konza Prairie (Flint Hills region, Kansas, USA) using transfer function noise models"
+date: 2025-01-08
+publishDate: 2025-01-08T03:02:52.635048Z
+authors: ["Sumiaya Amin Preota", "Gaurav Talukdar", "Samuel C. Zipper"]
+publication_types: ["4"]
+abstract: "Understanding hydroclimatic extremes in the U.S. Great Plains (USGP) is crucial for effective water resource management, resiliency of agricultural systems, and mitigation of climate change impacts. This study examines changing hydroclimatic conditions in the USGP, with a focus on annual-resolution precipitation trends and extremes over the past 119 years (1904–2022) using precipitation data from the gridded PRISM climate dataset. We categorized annual-scale precipitation totals into six categories of hydroclimatic extremes: (1) isolated wet extremes, (2) isolated dry extremes, (3) dry-to-dry recurring extremes, (4) wet-to-wet recurring extremes, (5) dry-to-wet whiplash extremes, and (6) wet-to-dry whiplash extremes. “Recurring” and “whiplash” are both types of compound extremes. To assess the accuracy of the PRISM data, we first compared annual PRISM precipitation totals to meteorological stations across the region. We found a strong correlation (R² ≥ 0.75) at 251 out of 257 stations and little overall bias, indicating that the PRISM data are reliable for regional-scale characterization of annual precipitation dynamics. Looking at annual precipitation totals, we observed significant increasing trends over much of the eastern and northern USGP. Looking at hydroclimatic extremes, we observed that isolated wet and dry extremes tend to be fairly uniformly distributed across the USGP, while compound extremes show more pronounced spatial patterns. Dry-to-dry recurring extremes are most prevalent in South Dakota and the Kansas-Colorado-Texas-Oklahoma border region, while wet-to-wet recurring extremes are most common in Minnesota, Iowa, Nebraska, and the North Dakota-South Dakota border region. These findings have significant implications for water resource management and agricultural systems in the U.S. Great Plains, highlighting the need for adaptive strategies to address changing hydroclimatic conditions."
+featured: true
+publication: "*KGS Open-File Report 2025-1*"
+tags: ["Water and Agriculture"]
+url_pdf: "https://www.kgs.ku.edu/Publications/OFR/2025/OFR2025-1.pdf"
+---
+
