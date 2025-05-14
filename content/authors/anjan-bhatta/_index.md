@@ -28,8 +28,6 @@ user_groups:
 ---
 **Postdoctoral Scholar, 2025 - present**
 
-**Projects:** 
-
- - Increasing Water Productivity, Soil Carbon, and Sustainability of Integrated Multi-Crop Systems Using Field-Scale Research - funded by Foundation for Food and Agriculture Research (FFAR).
+**Project:** Increasing Water Productivity, Soil Carbon, and Sustainability of Integrated Multi-Crop Systems Using Field-Scale Research - funded by Foundation for Food and Agriculture Research (FFAR).
 
 **Favorite body of water:** The Marshyangdi River (Nepal)
