@@ -30,7 +30,7 @@ Details for all positions will be posted to this page when positions are open, a
 	- PQ2: Experience working with satellite remote sensing data, preferably related to evapotranspiration.
 	- PQ3: Coding proficiency in Python or a comparable language (R, MATLAB, Julia, etc.).
 	- PQ4: Familiarity with irrigated agricultural landscapes typical of the U.S. High Plains region.
- - *Interested? [Please submit your information via this google form](https://forms.gle/6DmfC44B8AhspVc89) by August 18, 2025.*
+ - *Interested? [Please submit your information via this google form](https://forms.office.com/r/gvAXPSQTzw) by August 18, 2025.*
 
 
 # Other opportunities with HEAL
