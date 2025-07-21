@@ -17,7 +17,7 @@ To make clear what is expected, we ask all members of HEAL and our collaborators
 
  - All communication - online and in person - should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate at any time.
  - Be kind to others. Criticizing ideas (in a respectful and constructive manner) is OK. Criticizing people is never OK.
- - Restpect your colleagues and behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
+ - Respect your colleagues and behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
  - Make a welcoming environment for everyone. Give everyone a chance to talk and an opportunity to contribute.
  - Be aware that your actions can be hurtful to others, even if you had no intent of harm. If someone feels hurt, listen, offer a genuine apology, and commit to learning and doing better.
 
@@ -27,7 +27,7 @@ Members of the community who violate these rules will be approached by Sam and a
 
 # Expectations for lab members
 
-To make sure that everyone has a positive, challenging, and rewarding experience, in HEAL we set mutually-agreed-upon goals about research, learning, and professional growth. The following expectations are meant to encourage mutual accountability and make those goals reality. . We will go through and discuss these expectations at the beginning of your time in HEAL to make sure we are in agreement and modify if necessary.
+To make sure that everyone has a positive, challenging, and rewarding experience, in HEAL we set mutually-agreed-upon goals about research, learning, and professional growth. The following expectations are meant to encourage mutual accountability and make those goals reality. We will go through and discuss these expectations at the beginning of your time in HEAL to make sure we are in agreement and modify if necessary.
 
 ## Everyone
 
@@ -36,18 +36,17 @@ To make sure that everyone has a positive, challenging, and rewarding experience
  - *Do deep work.* Eliminating distractions and interruptions is the best way to make progress. Focused time for [deep work](https://www.calnewport.com/books/deep-work/) is a better use of your time than social media, emails, or meetings.
  - *Be careful.* Double and triple check your work. Incorporate sanity checks into your code. Figure out why weird results are happening. It’s ok to make mistakes, but mistakes shouldn’t be caused by carelessness or rushed work. If you do make a mistake, fix it, tell your collaborators, and keep going.
  - *Read the literature.* Your research will vastly improve the more you read other peoples' work. Stay up to date on the latest research through journal table of contents and/or exploring citations in manuscripts you find interesting.
- - *Be on time* for your meetings and reschedule if you know you can't make it. If you’re sick, stay home and take care of yourself and we can meet via zoom or reschedule. 
+ - *Be on time* for your meetings and reschedule if you know you can't make it. If you’re sick, stay home and we can meet via zoom or reschedule. 
  - *Backup your data* and scripts regularly, and over-document them. See the ['Data Management' section](#data-management). 
  - *Have a life* outside of the lab and take care of your mental and physical health. See the ['Work/life balance' section](#worklife-balance).
 
 ## Lab Leader (Sam)
 
 All of the above, and I promise to also…
- - Care for your emotional and physical well-being, and prioritize that above all else.
+ - Help you prepare for the next step of your career, regardless of your chosen career path.
  - Give you feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grants, etc.
  - Be available in person and via e-mail on a regular basis, including regular meetings to discuss your research (and anything else you’d like to discuss).
  - Support your career development by introducing you to other researchers, promoting your work at talks, writing recommendation letters, and anything else that will help you succeed.
- - Help you prepare for the next step of your career, regardless of your chosen career path.
 
 ## Lab members (postdocs, students, visiting scientists, etc.)
 
@@ -55,10 +54,10 @@ All of the above, and you will also be expected to…
  - Be present and in the office a reasonable amount. In-person interaction with colleagues is extremely beneficial, even though the benefits can be intangible and hard to quantify.
  - Attend, participate in, and occasionally lead group meetings.
  - Help train and mentor other members of the lab when they need it.
- - Present your work at university events, for other research groups (if invited), and at conferences
+ - Present your work at university events, for other research groups (if invited), and at conferences.
  - Share your work with the scientific community by presenting at conferences and writing peer-reviewed publications. A typical M.S. thesis will be 1-2 papers and a typical Ph.D. dissertation will be 3-4 papers. 
  - Apply for grants. They don't have to be big. It’s a valuable experience, and best to get it early.
- - Think about what you want for your career, and talk to Sam to make sure you’re getting the correct training for your next job. Apply for your next job when you’re ready, but at least 6-9 months before you'll need it. 
+ - Think about what you want for your career, and talk to Sam to make sure you’re getting the correct training for your next job. Apply for your next job when you’re ready, but with plenty of lead time before you'll need it. 
  - You were hired because you have unique skills and knowledge. Challenge others (respectfully) when your opinion is different, and treat the rest of the lab to your unique expertise.
  - Make sure we can access your data when you leave the lab (see ['Data Management' section](#data-management)).
  - If you have a problem with Sam, please tell him about it! He has a thick skin and will not hold it against you. If you aren’t comfortable with that, talk to Annette Delaney (KGS HR director) or someone else that can support you and help Sam improve.
@@ -72,7 +71,7 @@ Our goal is to be be inclusive of all project participants, to offer junior memb
  - Significant intellectual contribution to the concept and questions/hypotheses/objectives of the research 
  - Significant intellectual contribution to the design and presentation of the research and analyses 
  - Supervision regarding the organization and progress of the research and manuscript 
- - Provision of data, materials, or additional resources necessary for the project 
+ - Provision of funding, data, materials, or additional resources necessary for the project 
  - Responsibility for data collection, analysis, and presentation of results 
  - Substantial contribution in writing the manuscript (writing, figures, etc.) 
 
@@ -92,7 +91,7 @@ Some key principles and notes for data management in HEAL:
 
 ## Work/life balance
 
-Lab members are welcome to work flexible schedules based on their personal needs. There are some activities which require coordinated schedules (i.e,. group meetings and meetings with Sam/other group members/collaborators). Other than these, we are each welcome to work when it is best for us based on our personal situations. This may mean people send work-related emails during non-traditional work hours (evenings, weekends), but remember that you are not required to read or reply outside of your own typical work hours. It is helpful if other lab members know generally when you will be working to avoid bothering you during your time off. 
+Lab members can work flexible schedules based on their personal needs. There are some activities which require coordinated schedules (i.e,. group meetings and meetings with Sam/other group members/collaborators). Other than these, we are each welcome to work when it is best for us based on our personal situations. This may mean people send work-related emails during non-traditional work hours (evenings, weekends), but remember that you are not required to read or reply outside of your own typical work hours. It is helpful if other lab members know generally when you will be working to avoid bothering you during your time off. 
 
 Graduate school/postdoctoral positions are like a full-time job, so working about 40 hrs/week is expected, and taking vacations is normal and encouraged. In additional to official holidays, the North American standard of 2 weeks/year is a minimum and additional time is possible if you are making sufficient progress. You are expected to keep track of your own vacation time and let Sam and any collaborators know when you are going to be gone prior to your departure. You can use your vacation time during breaks in the academic calendar (such as spring break) if you want but you don't just get that time off from work.
 

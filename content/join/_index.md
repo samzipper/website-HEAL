@@ -8,7 +8,7 @@ title: Join HEAL!
 
 {{% toc %}}
 
-Details for all positions will be posted to this page when positions are open, and I typically advertise in locations like the [CUAHSI Job Board](https://www.cuahsi.org/job-board) and the [ESWN Jobs List](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net), so watch those places for the latest opportunities.
+Details for all positions will be posted to this page when positions are open, and I typically advertise in locations like the [CUAHSI Job Board](https://www.cuahsi.org/job-board) and the [ES Jobs List](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net), so watch those places for the latest opportunities.
 
 # Now hiring
 

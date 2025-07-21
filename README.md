@@ -1,4 +1,4 @@
-# The website for the HydroEcology of Anthropogenic Landscapes (HEAL) group at the Kansas Geological Survey/University of Kansas (HEAL@KGS).
+# The website for the HydroEcology of the Anthropocene Lab (HEAL) at the Kansas Geological Survey/Department of Geology, University of Kansas.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8ab46337-8345-446c-8b42-45d8d73db848/deploy-status)](https://app.netlify.com/sites/samzipper/deploys)
 
 Currently deployed at [samzipper.com](https://www.samzipper.com), with [code on GitHub](https://github.com/samzipper/website-HEAL).

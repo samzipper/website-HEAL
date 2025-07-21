@@ -48,7 +48,7 @@ subtitle = "*science, solutions, value*"
 
 I work as a consultant on projects ranging from a handful of hours to multi-year collaborative projects. As an independent freelancer, I provide exceptional value to your project since my overhead costs are effectively zero - all you pay for is the time I spend doing science for you. 
 
-I've contributed to numerous projects, working with diverse groups including [The Nature Conservancy](https://www.nature.org/), [Foundry Spatial](https://foundryspatial.com/), [Dairy Management Inc.](https://www.usdairy.com/about-us/dmi), and the [Soil Health Institute](https://soilhealthinstitute.org/). 
+I've contributed to numerous projects, working with diverse groups including [The Nature Conservancy](https://www.nature.org/), [Foundry Spatial](https://foundryspatial.com/), the [Environmental Defense Fund](http://edf.org/), [Dairy Management Inc.](https://www.usdairy.com/about-us/dmi), and the [Soil Health Institute](https://soilhealthinstitute.org/).
 
 My services include:
  - strategic planning and fundraising
