@@ -4,7 +4,7 @@ authors:
 bio: Project Coordinator
 education:
   courses:
-  - course: M.S. in Hydrogeology (in progress)
+  - course: M.S. in Hydrogeology
     institution: University of Kansas
   - course: B.S. in Geology-Chemistry
     institution: Grand Valley State University
@@ -26,6 +26,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Hanna-Szydlowski 
+- icon: cv
+  icon_pack: ai
+  link: doc/2025.07_HSzydlowski_CV.pdf
 superuser: false
 user_groups:
 - Current Members
