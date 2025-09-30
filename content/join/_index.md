@@ -12,25 +12,7 @@ Details for all positions will be posted to this page when positions are open, a
 
 # Now hiring
 
-**PhD Assistantship available, January 2026:** 
-
- - Searching for a student to contribute to an interdisciplinary research project investigating the utility of satellite data to inform and guide water-smart agricultural practices in the Southern High Plains. 
-	- Student goals include developing regional satellite-based estimates of water use and using these to develop relationships between water use and groundwater level change in the Southern High Plains aquifer system.
- - This USDA-funded project integrates technical and socio-economic research methods and has a dedicated student mentoring program, providing strong opportunities for interdisciplinary training in basic research methods with applied, real-world impact. 
-	- Within the project, this position is contributing directly to the technical team, but collaboration with other disciplines and universities is expected. 
-	- Collaborating institutions include Kansas State University, Oklahoma State University, Texas Tech, NASA, California State University-Monterey Bay, and more. 
- - The position will primarily be funded as a graduate research assistantship (GRA), but may include one or more semesters as a graduate teaching assistant (GTA).
- - Required qualifications:
-	- RQ1: Undergraduate degree in Geology, Civil/Environmental Engineering, Geography, Agronomy, or a related discipline.
-	- RQ2: Coursework related to hydrology, hydrogeology, and remote sensing.
-	- RQ3: Experience with programming-based approaches to data analysis and visualization.
-	- RQ4: English proficiency meeting [KU's enrollment requirements](https://gradapply.ku.edu/english-requirements).
- - Preferred qualifications:
-	- PQ1: M.S. degree in Geology, Civil/Environmental Engineering, Geography, Agronomy, or a related discipline.
-	- PQ2: Experience working with satellite remote sensing data, preferably related to evapotranspiration.
-	- PQ3: Coding proficiency in Python or a comparable language (R, MATLAB, Julia, etc.).
-	- PQ4: Familiarity with irrigated agricultural landscapes typical of the U.S. High Plains region.
- - *Interested? [Please submit your information via this form](https://forms.office.com/r/gvAXPSQTzw) by August 18, 2025.*
+There are no current openings in the group.
 
 
 # Other opportunities with HEAL
