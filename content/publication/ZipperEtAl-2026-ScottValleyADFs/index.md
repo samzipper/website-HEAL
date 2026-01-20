@@ -1,0 +1,14 @@
+---
+title: "Lagged streamflow depletion due to pumping-induced stream drying: Incorporation into analytical streamflow depletion estimation methods"
+date: 2026-01-10
+publishDate: 2026-01-10T03:02:52.911408Z
+authors: ["Samuel C. Zipper", "Ian Gambill", "Monty Schmitt", "Claire Kouba", "Leland Scantlebury", "Thomas Harter", "Nicholas P. Murphy"]
+publication_types: ["2"]
+abstract: "Water management often requires accounting for reductions in streamflow caused by groundwater pumping (‘streamflow depletion’). Since streamflow depletion cannot be quantified from observational data, it is typically modeled. Analytical depletion functions (ADFs) are a low-cost, low-complexity approach for estimating streamflow depletion with utility for decision support, but ADFs adopt several simplifying assumptions, including an infinite supply of water within the stream. Here, we develop an approach to incorporate stream drying into ADFs to improve their estimation of streamflow and streamflow depletion. Using Scott Valley (California) as an example, we compare ADF results to observed streamflow data and the Scott Valley Integrated Hydrologic Model (SVIHM), a process-based numerical model. ADFs incorporating stream drying have strong agreement with observed streamflow and SVIHM results. Critically, ADFs with drying can simulate a temporal shift in streamflow depletion that occurs when summer stream drying causes stream network disconnections and a substantial fraction of streamflow depletion is lagged until the stream network rewets in the fall/winter. Estimates of what streamflow would have been without groundwater pumping are required to incorporate stream drying into ADFs, and we evaluate the ability of a statewide statistical model of unimpaired monthly streamflow (the California Natural Flows Database [CNFD]) to meet this need. ADFs using CNFD data simulate appropriate temporal dynamics but overestimate streamflow. This suggests that regional unimpaired flow estimates combined with local bias-correction could provide a mechanism to apply ADFs in watersheds without local numerical models."
+featured: true
+publication: "*Journal of Hydrology*"
+tags: ["Water and Agriculture", "Land Use/Land Cover Change", "Ephemeral Hydrology", "Stream-Aquifer Interactions", "Human-Environment Interface"]
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0022169426000065/pdf"
+doi: "10.1016/j.jhydrol.2026.134909"
+---
+
