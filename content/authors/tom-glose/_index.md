@@ -8,7 +8,7 @@ education:
     institution: University of Buffalo
   - course: B.A. in Geophysics
     institution: SUNY Geneseo
-email: "thomasgl@buffalo.edu"
+email: "tomglose@ku.edu"
 interests:
  []
 name: Tom Glose
@@ -17,18 +17,12 @@ organizations:
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
 role: Postdoctoral Scholar
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:tomglose@ku.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tomglose
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=sapH-1MAAAAJ
-- icon: cv
-  icon_pack: ai
-  link: doc/Glose_CV.pdf
 superuser: false
 user_groups:
 - Alums

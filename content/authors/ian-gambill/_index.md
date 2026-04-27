@@ -25,9 +25,11 @@ social:
   link: https://www.linkedin.com/in/ian-gambill/
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
-**Intern, Summer/Fall 2023; Data Analyst, 2023 - present.**
+**Intern, Summer/Fall 2023; Data Analyst, 2023 - 2026.**
+
+**Post-HEAL Position:** Data Analyst, [KGS AWQUA Program](https://kgs.ku.edu/awqua-kan-aquifer-water-quality-assessment-kansas)
 
 **Project titles:**
 

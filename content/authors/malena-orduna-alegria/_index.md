@@ -19,9 +19,6 @@ organizations:
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
 role: Postdoctoral Scholar
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:malena.orduna@ku.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_malena_
@@ -34,9 +31,6 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Maria-Elena-Orduna-Alegria
-- icon: cv
-  icon_pack: ai
-  link: doc/Malena_CV.pdf
 superuser: false
 user_groups:
 - Alums
