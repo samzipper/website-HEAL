@@ -4,6 +4,8 @@ authors:
 bio: Ph.D. Student
 education:
   courses:
+  - course: Ph.D. in Geology (in progress)
+    institution: University of Kansas
   - course: B.S. in Geoscience - Geology
     institution: Winona State University
 email: "loganswenson@ku.edu"
@@ -11,6 +13,8 @@ interests:
  []
 name: Logan Swenson
 organizations:
+- name: Kansas Geological Survey, University of Kansas
+  url: "https://kgs.ku.edu/water-resources-and-geohydrology"
 - name: Department of Geology, University of Kansas
   url: "https://geo.ku.edu/"
 role: Ph.D. Student

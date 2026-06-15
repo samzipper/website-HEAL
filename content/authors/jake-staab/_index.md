@@ -28,7 +28,6 @@ user_groups:
 - Current Members
 ---
 **Positions:**
-
  - [KGS Geohydrology Internship Program](https://kgs.ku.edu/geohydrology-internship-program), Summer 2026.
  - Undergraduate Research Assistant, Fall 2025-current.
 
