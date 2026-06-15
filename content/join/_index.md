@@ -8,7 +8,7 @@ title: Join HEAL!
 
 {{% toc %}}
 
-Details for all positions will be posted to this page when positions are open, and I typically advertise in locations like the [CUAHSI Job Board](https://www.cuahsi.org/job-board) and the [ES Jobs List](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net), so watch those places for the latest opportunities.
+Details for all positions will be posted to locations like the [CUAHSI Job Board](https://www.cuahsi.org/job-board) and the [ES Jobs List](https://mailman.ucar.edu/mailman/listinfo/es_jobs_net), so watch those places for the latest opportunities.
 
 # Now hiring
 
@@ -22,7 +22,7 @@ We love working with new people and value the skills that all members of HEAL br
 ## Graduate Students
 I can advise students through the [KU Department of Geology](https://geo.ku.edu/) or the [KU Department of Geography and Atmospheric Science](https://geog.ku.edu/) depending on student interests and programmatic fit. 
 
-Details for funded positions will be posted to this page when available. Beyond that, I am always happy to work with students on developing proposals for external funding, such as the [NSF GRFP](http://www.nsfgrfp.org/), [USDA Predoctoral Fellowship](https://nifa.usda.gov/funding-opportunity/agriculture-and-food-research-initiative-education-workforce-development), [DoD SMART scholarship](https://www.smartscholarship.org/smart), or internal KU fellowships, such as the [Self Fellowship](https://selfgraduate.ku.edu). If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}).
+Funded positions will be advertised when available. Beyond that, I am always happy to work with students on developing proposals for external funding, such as the [NSF GRFP](http://www.nsfgrfp.org/), [USDA Predoctoral Fellowship](https://nifa.usda.gov/funding-opportunity/agriculture-and-food-research-initiative-education-workforce-development), [DoD SMART scholarship](https://www.smartscholarship.org/smart), or internal KU fellowships, such as the [Self Fellowship](https://selfgraduate.ku.edu). If you are interested, please [send Sam an email]({{< ref "/authors/samuel-c.-zipper" >}}).
 
 For more about applying to graduate school, [the GeoGradApp website](https://geogradapp.com/) provides lots of useful information about applying to graduate school.
 
