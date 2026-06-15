@@ -28,6 +28,6 @@ user_groups:
 ---
 **Postdoctoral Scholar, 2025 - present**
 
-**Project:** Sustainable Adaptations to the Future Environment of Kansas' Agricultural And Water - [SAFE KAW](https://safekaw-ku.hub.arcgis.com/) - funded by USDA. 
+**Project:** Sustainable Adaptations to the Future Environment of Kansas' Agricultural And Water - SAFE KAW (funded by USDA).
 
 **Favorite body of water:** The headwater streams of the Delaware River Watershed, KS (a subwatershed of the Kansas River)

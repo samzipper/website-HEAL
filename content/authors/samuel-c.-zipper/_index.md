@@ -15,7 +15,7 @@ interests:
 name: Sam Zipper
 organizations:
 - name: Kansas Geological Survey, University of Kansas
-  url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
+  url: "https://kgs.ku.edu/water-resources-and-geohydrology"
 - name: Department of Geology, University of Kansas
   url: "https://geo.ku.edu/"
 role: HEAL PI; Assistant Scientist/Professor
@@ -23,9 +23,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:samzipper@ku.edu
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/ZipperSam
+  link: https://www.linkedin.com/in/sam-zipper-087a091a/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=XXIpO1YAAAAJ

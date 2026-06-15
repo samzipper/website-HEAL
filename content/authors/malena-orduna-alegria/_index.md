@@ -13,7 +13,7 @@ education:
 email: "malena.orduna@ku.edu"
 interests:
  []
-name: Malena Orduna Alegria
+name: Malena Orduña Alegría
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"

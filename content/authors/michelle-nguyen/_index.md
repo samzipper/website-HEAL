@@ -27,6 +27,8 @@ user_groups:
 ---
 **[KGS Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2024.**
 
+**Supervisor:** [Malena Orduña Alegría]({{< ref "/authors/malena-orduna-alegria" >}}).
+
 **Project title:** Toward resilient and adaptive community-driven management of groundwater dependent agricultural systems (funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2108196&HistoricalAwards=false)).
 
 **Favorite body of water:** Chesapeake Bay 

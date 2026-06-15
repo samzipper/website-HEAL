@@ -24,6 +24,8 @@ user_groups:
 ---
 **[KGS Geohydrology Internship Program](http://www.kgs.ku.edu/Hydro/gipIndex.html), Summer 2024.**
 
+**Supervisor:** [Logan Swenson]({{< ref "/authors/logan-swenson" >}}).
+
 **Project title:** Downscaling and bias-correcting climate scenarios for Kansas water resources management
 
 **Favorite body of water:** Cedar Creek (Fulton, MO)
