@@ -14,7 +14,7 @@ interests:
 name: Hanna Szydlowski
 organizations:
 - name: Kansas Geological Survey, University of Kansas
-  url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
+  url: "https://kgs.ku.edu/water-resources-and-geohydrology"
 role: Project Coordinator
 social:
 - icon: envelope
