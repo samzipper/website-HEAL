@@ -9,13 +9,13 @@ education:
 email: "jakestaab@ku.edu"
 interests:
  []
-name: Undergraduate Researcher
+name: Jake Staab
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
 - name: Department of Geology, University of Kansas
   url: "https://geo.ku.edu/"
-role: KGS Intern
+role: Undergraduate Researcher
 social:
 - icon: envelope
   icon_pack: fas
