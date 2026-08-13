@@ -30,9 +30,11 @@ social:
   link: https://www.researchgate.net/profile/Shaluka-Senevirathna-2?ev=hdr_xprf
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
 **[KGS Geohydrology Internship Program](https://kgs.ku.edu/geohydrology-internship-program), Summer 2026.**
+
+**Post-HEAL Position:** Ph.D. student, Oklahoma State University
 
 **Supervisor:** [Anjan Bhatta]({{< ref "/authors/anjan-bhatta" >}}).
 

@@ -1,7 +1,7 @@
 ---
 authors:
 - jake-staab
-bio: KGS Intern
+bio: Undergraduate Researcher
 education:
   courses:
   - course: B.S. in Geology (in progress)
@@ -9,7 +9,7 @@ education:
 email: "jakestaab@ku.edu"
 interests:
  []
-name: Jake Staab
+name: Undergraduate Researcher
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"

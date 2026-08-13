@@ -25,7 +25,7 @@ social:
   link: https://www.linkedin.com/in/laikyn-coursen-87465b2b1
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
 **[KGS Geohydrology Internship Program](https://kgs.ku.edu/geohydrology-internship-program), Summer 2026.**
 

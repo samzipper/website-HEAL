@@ -23,9 +23,11 @@ social:
   link: https://scholar.google.com/citations?user=8Ph4x4YAAAAJ&hl=en
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
 **[KGS Geohydrology Internship Program](https://kgs.ku.edu/geohydrology-internship-program), Summer 2026.**
+
+**Post-HEAL Position:** Ph.D. student, Penn State University
 
 **Supervisor:** [Fahad Khadim]({{< ref "/authors/fahad-khadim" >}}).
 
