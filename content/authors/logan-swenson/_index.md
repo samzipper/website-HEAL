@@ -4,7 +4,7 @@ authors:
 bio: Ph.D. Student
 education:
   courses:
-  - course: Ph.D. in Geology (in progress)
+  - course: Ph.D. in Geology
     institution: University of Kansas
   - course: B.S. in Geoscience - Geology
     institution: Winona State University
@@ -24,9 +24,11 @@ social:
   link: mailto:loganswenson@ku.edu
 superuser: false
 user_groups:
-- Current Members
+- Alums
 ---
-**PhD student, 2021 - present**
+**PhD student, 2021 - 2026**
+
+**Post-HEAL Position:** Assistant Scientist, Kansas Geological Survey
 
 **Dissertation title:** Linking Models of Stream-Aquifer Interactions to Decision-making under Global Change (funding from NSF, USDA, KWRI). 
 
