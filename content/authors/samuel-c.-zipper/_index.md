@@ -18,7 +18,7 @@ organizations:
   url: "https://kgs.ku.edu/water-resources-and-geohydrology"
 - name: Department of Geology, University of Kansas
   url: "https://geo.ku.edu/"
-role: HEAL PI; Assistant Scientist/Professor
+role: HEAL PI; Associate Scientist/Professor
 social:
 - icon: envelope
   icon_pack: fas
