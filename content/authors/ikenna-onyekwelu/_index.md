@@ -1,7 +1,7 @@
 ---
 authors:
 - ikenna-onyekwelu
-bio: KGS Intern
+bio: Agrohydrological Modeler
 education:
   courses:
   - course: Ph.D. in Biological and Agricultural Engineering
@@ -35,8 +35,12 @@ superuser: false
 user_groups:
 - Current Members
 ---
-**[KGS Geohydrology Internship Program](https://kgs.ku.edu/geohydrology-internship-program), Summer 2026.**
+**Positions:**
+ - [KGS Geohydrology Internship Program](https://kgs.ku.edu/geohydrology-internship-program), Summer 2026.
+ - Associate Researcher (Agrohydrological Modeler), September 2026-current.
 
-**Project:** Sustainable Adaptations to the Future Environment of Kansas' Agricultural And Water - SAFE KAW (funded by USDA).
+**Projects:** 
+ - Sustainable Adaptations to the Future Environment of Kansas' Agricultural And Water - SAFE KAW (funded by USDA).
+ - Agricultural Water Use Analysis in Brewster, Culberson, and Reeves Counties, Texas (funded by EDF)
 
 **Favorite body of water:** Niger River
