@@ -23,6 +23,6 @@ title = "Who We Are"
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 +++
-*HEAL is part of the [Geohydrology Section](https://kgs.ku.edu/water-resources-and-geohydrology) of the [Kansas Geological Survey](http://www.kgs.ku.edu/) and the [Department of Geology](https://geo.ku.edu/) at the University of Kansas.*
+*HEAL is part of the [Geohydrology Section](https://kgs.ku.edu/water-resources-and-geohydrology) of the [Kansas Geological Survey](http://www.kgs.ku.edu/) and the [Department of Earth, Energy, & Environment](https://e3.ku.edu/) at the University of Kansas.*
 
 **[Want to join the group? Currently open positions here!]({{< ref "/join" >}})**

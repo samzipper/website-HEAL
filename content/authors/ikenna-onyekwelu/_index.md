@@ -17,7 +17,7 @@ name: Ikenna Onyekwelu
 organizations:
 - name: Kansas Geological Survey, University of Kansas
   url: "http://www.kgs.ku.edu/Hydro/hydroIndex.html"
-role: KGS Intern
+role: Agrohydrological Modeler
 social:
 - icon: envelope
   icon_pack: fas
