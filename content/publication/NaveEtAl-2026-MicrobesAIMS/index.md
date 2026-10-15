@@ -1,0 +1,13 @@
+---
+title: "Spatiotemporal dynamics of microbial abundance in Great Plains, USA, nonperennial streams"
+date: 2026-10-01
+publishDate: 2026-10-01T03:02:52.911408Z
+authors: ["Brett A. Nave", "Charles T. Bond", "Samuel C. Zipper", "Ken Aho", "Amy J. Burgin", "Kevin A. Kuehn", "Erin C. Seybold", "Yaqi You", "Lydia H. Zeglin"]
+publication_types: ["2"]
+abstract: "Nonperennial streams compose a large proportion of global stream length and are an increasingly common symptom of global change. Hydrologic variation influences stream surface water and benthic microbial populations, with consequences for downstream water quality and integrated ecosystem metabolism through the river continuum. Surface flow to local microbial habitats provides organic matter and dissolved nutrients that support microbial growth and, in turn, nutrient immobilization. However, the sensitivity of microbial populations to stream drying and rewetting is not well understood. To fill this knowledge gap, we used quantitative PCR to measure microbial population dynamics under spatially and temporally variable hydrological conditions across 3 stream networks in Kansas and Oklahoma, USA. We predicted that greater hydrological connectivity would support larger bacterial and fungal populations and that populations in habitats with more reliance on surface-water nutrients for growth would be more sensitive to flow changes. Contrary to our expectations, we found that microbial populations in surface waters, epilithon (biofilms on rock surfaces), benthic (streambed) sediments, and leaf detritus were not related to the duration of flowing conditions before sampling. Instead, microbial populations differed between wet and dry sampling sites and varied based on instream distance from the watershed outlet. Further, microbial abundance changed as streams wet up and dried down over time, with patterns qualitatively consistent with spatial wet/dry differences. Specifically, epilithon microbial populations were higher in wet conditions, whereas benthic sediment populations were lower in wet conditions. These results suggest that epilithon microbial growth can create stronger nutrient sinks during wet conditions, whereas higher microbial populations in sediment during dry conditions can support active biogeochemical cycling and reflect potential refugia for stream biota. This research establishes baselines for microbial population changes in response to drying and rewetting over space and time, which can inform water-quality changes in other nonperennial streams."
+featured: false
+publication: "*Freshwater Science*"
+tags: ["Ephemeral Hydrology"]
+doi: "10.1086/743800"
+---
+
