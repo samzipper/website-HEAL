@@ -52,6 +52,6 @@ hero_media = "logo_color_43pct.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**How do water and land management decisions impact the people, economy, and environment of the Great Plains?**
+**How do ecohydrological processes interact with human actions to affect water resources and society?**
 
 ecohydrology | hydrogeology | human-water interactions
